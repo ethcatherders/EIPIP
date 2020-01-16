@@ -10,7 +10,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
-  1 | Wednesday, January 15, 2019 15:00 UTC  | [Agenda]()\|[Notes]() | [video]() |
+  1 | Wednesday, January 15, 2019 15:00 UTC  | [Notes](https://github.com/ethereum-cat-herders/EIPIP/blob/master/All%20EIPIP%20Meetings/Meeting%20001.md) | [Video]() |
   
 
 ### Who Can Attend
