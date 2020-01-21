@@ -10,7 +10,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
-  1 | Wednesday, January 15, 2019 15:00 UTC  | [Notes](https://github.com/ethereum-cat-herders/EIPIP/blob/master/All%20EIPIP%20Meetings/Meeting%20001.md) | [Video]() |
+  1 | Wednesday, January 15, 2019 15:00 UTC  | [Notes](https://github.com/ethereum-cat-herders/EIPIP/blob/master/All%20EIPIP%20Meetings/Meeting%20001.md) | [Video](https://www.youtube.com/watch?v=ZW3AWJD6cmI) |
   
 
 ### Who Can Attend
@@ -19,9 +19,6 @@ Ethereum core developer, client developers, dapp developers or members from arou
 ### Agenda Items
 Agendas are posted to https://github.com/ethereum-cat-herders/EIPIP/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 - The topic is specific to EIP.
-
-### Meeting Notes Template
-Meeting notes template is available [here]() for reference.
 
 ### Who Manages the Meetings
 Various contributors to the Cat Herders facilitate meetings, handle recordings, and publish notes from the meetings. The meetings are independent of any organization. However, Hudson Jameson is taking a lead role in facilitating it technically. 
