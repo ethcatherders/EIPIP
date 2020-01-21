@@ -2,7 +2,7 @@
 
 ### Meeting Date/Time: Wednesday 15 January 2020, 15:00 UTC
 ### Meeting Duration: 1 hr 
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://www.youtube.com/watch?v=ZW3AWJD6cmI)
 ### Agenda
 * Introduction of participating members
 * Previous discussion
