@@ -15,12 +15,12 @@
 ----
 	
 # Summary
-* We need more understanding of how to update an EIP in general and document.
+* We need more understanding of how to update an EIP and document the process.
 * The current process does not need an overhaul, certain documentation, and increase in communication may add value.
 * Mentorship program
 * Document best practices
 * Define processes for different categories of EIPs
-* Have a different groups of editors as assistants and administrators. Define the scope of what an EIP editor should be doing.
+* Have different groups of editors as assistants and administrators. Define the scope of what an EIP editor should be doing.
 * Order those list of problems in the [document](https://docs.google.com/document/d/1KzEMD21Joqn7IWk4WnocwraRuo66y7r2w8R9Wml4BN0/edit) and vote up and down to prioritize issues.
 
 ### Concerns
@@ -45,7 +45,7 @@
 * Reach out to Bitcoin, Zcash and Ethereum classic to understand their process
 * Reduce frictions for the individuals that want to participate 
 * Bring a mentor program
-* Have a different group of editors as assistant and administrator.
+* Have a different group of editors as assistants and administrators.
 
 
 
