@@ -1,6 +1,6 @@
 # EIPIP Meeting 2
 
-### Meeting Date/Time:  Friday 10 January 2020, 15:00 UTC
+### Meeting Date/Time:  Wednesday 29 January 2020, 15:00 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/1)
 ### [Audio/Video of the meeting](https://youtu.be/oviaIsMLb8M)
@@ -8,6 +8,9 @@
 ### Notes: Jim Bennett
 
 ----
+
+## SUMMARY
+This was the second meeting of the Ethereum Cat Herders focused on improving the EIP process. The meeting focused on how to get more people involved in revising and finishing EIPs and how to recruit and encourage new EIP editors. It also discussed things that EIP maintainers to keep the process moving without the express involvement of EIP editors.
 
 ## AGENDA
 
@@ -422,3 +425,14 @@ Yeah. I think two weeks is easier than one week.
 
 **James Hancock**          
 Okay, two weeks from today. That sounds good to me. Same time, same place. Thanks, everyone.
+
+# Attendees
+(Based on speakers. List may be incomplete.)
+
+* Brent Allsop
+* James Hancock
+* Jim Bennett
+* Louis Guthmann
+* Pooja Ranjan
+* Tim Beiko
+* William
