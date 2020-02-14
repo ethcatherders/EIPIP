@@ -10,8 +10,9 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
-  1 | Wednesday, January 15, 2019 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20001.md) | [Video](https://www.youtube.com/watch?v=ZW3AWJD6cmI) |
-  2 | Wednesday, January 29, 2019 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20002.md) | [Video](https://www.youtube.com/watch?v=oviaIsMLb8M) |
+  1 | Wednesday, January 15, 2020 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20001.md) | [Video](https://www.youtube.com/watch?v=ZW3AWJD6cmI) |
+  2 | Wednesday, January 29, 2020 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20002.md) | [Video](https://www.youtube.com/watch?v=oviaIsMLb8M) |
+  3| Wednesday, 12 February 2020 15:00 UTC | [Notes](https://github.com/ethereum-cat-herders/EIPIP/blob/master/All%20EIPIP%20Meetings/Meeting%20003.md)| [Video]()|
   
 
 ### Who Can Attend
