@@ -2,7 +2,7 @@
 
 ### Meeting Date/Time: Wednesday, 12 February 2020 at 15:00 UTC
 ### Meeting Duration: 1 hr 
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://www.youtube.com/watch?v=XpEu8MyPRcc&feature=youtu.be)
 ### [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/5)
 ### Moderator: James Hancock
 ### Notes: Pooja Ranjan
