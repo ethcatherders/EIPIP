@@ -38,11 +38,6 @@ Decision Item | Description
 **4.4** | Create a champions list header, add to EIP-1.
 **4.5** | Further discuss recommending authors and champions be introduced (background) in the discussion-to conversation linked in EIPs. 
 
---- 
-
-# Agenda
-
-
 ---
 
 # 1. Review Previous Meeting
