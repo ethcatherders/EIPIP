@@ -12,8 +12,8 @@ If you have an issue related to EIP that you would like to be discussed and aren
 --- | -------------------------------- | -------------- | -------------------- |
   1 | Wednesday, January 15, 2020 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20001.md) | [Video](https://www.youtube.com/watch?v=ZW3AWJD6cmI) |
   2 | Wednesday, January 29, 2020 15:00 UTC  | [Notes](All%20EIPIP%20Meetings/Meeting%20002.md) | [Video](https://www.youtube.com/watch?v=oviaIsMLb8M) |
-  3| Wednesday, February 12, 2020 15:00 UTC | [Notes](https://github.com/ethereum-cat-herders/EIPIP/blob/master/All%20EIPIP%20Meetings/Meeting%20003.md)| [Video](https://www.youtube.com/watch?v=XpEu8MyPRcc&feature=youtu.be)|
-  
+  3 | Wednesday, February 12, 2020 15:00 UTC | [Notes](All%20EIPIP%20Meetings/Meeting%20003.md)| [Video](https://www.youtube.com/watch?v=XpEu8MyPRcc)|
+  4 | Wednesday, February 26, 2020 15:00 UTC | [Notes](All%20EIPIP%20Meetings/Meeting%20004.md)| [Video](https://www.youtube.com/watch?v=c0DUKVNvML0)|
 
 ### Who Can Attend
 Ethereum core developer, client developers, dapp developers or members from around the Ethereum Community. If you feel you would contribute to the meetings by your attendance please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community) or email to Hudson Jameson at hudson@ethereum.org.
