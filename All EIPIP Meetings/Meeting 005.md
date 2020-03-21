@@ -8,6 +8,9 @@
 
 ----
 
+## SUMMARY
+This meeting including a presentation from Sam Richards, a web developer at the EF, about migrating EIP information to the Ethereum.org website. Discussions incuding improving or replacing the bot that helps manage EIPs, as well as conversations about changing EIP 1. 
+
 **Hudson Jameson**
 Hi, everyone. Thanks for joining. And today let's jump right into the agenda.
 
