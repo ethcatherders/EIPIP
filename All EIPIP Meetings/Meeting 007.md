@@ -1,5 +1,5 @@
-EIP# EIP IP Meeting 7 Notes
-## Meeting Date/Time: Wednesday May 8 at 14:00 UTC
+# EIP IP Meeting 7 Notes
+## Meeting Date/Time: Wednesday May 6 at 15:00 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/13)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=-ZUOWpEuAEU&t=1393s)
@@ -107,7 +107,7 @@ Yes, and it can be very loose if we want it to be, or the EIP author of the EFI 
 So, for instance, it would just say, "EFI stands for eligible for inclusion. In order to attain EFI status, the core developers have to come to rough consensus that an EIP is eligible and has a greater than 50% chance of going into a hard fork." Something like that. Whatever rough criteria we have defined, because it's still a little loose right now. We don't have a hard number of "X amount of clients have to say this is a good idea" or, or even what it means to be blessed by a CoreDev or stuff like that.
 
 **Pooja Ranjan**
-So if I am not mistaken, Jamesm I guess you were the author of that EIP?
+So if I am not mistaken, James I guess you were the author of that EIP?
 
 **James Hancock**
 Yep.
@@ -273,7 +273,7 @@ Overall, I would say if I was looking for a translator for EIP 1, I would probab
 I know that to be a patent attorney, you have to have a dual degree of law and of engineering, specifically because of this kind of stuff. I feel like this is a little bit of distraction, but crowd sourcing EIP 1 translations - I wouldn't be really comfortable.
 
 **Pooja Ranjan**
-So there is this team of translation led by [unclear - Deon?] from the Ethereum Foundation. And people find it's worth having the translation of EIP 1. We can probably reach out to her and try to get it.
+So there is this team of translation led by Taeyeon from the Ethereum Foundation. And if people find it's worth having the translation of EIP 1. We can probably reach out to her and try to get it.
 
  **Hudson Jameson**
 Yeah, we can definitely get her and put on that if we want to do that. But that's probably lower on the priority list overall. We all understand that, because we're trying to overhaul the system itself in English. So any other comments on that and the migration to ethereum.org that isn't really happening right now, except for added search functionality of the current Jekyll site?
@@ -392,7 +392,7 @@ And that's already kind of half of what happens, right? Half the conversation ha
 One comment on that. There has been a need expressed in the survey for clarity on where the EIP process ends and where the hard fork coordination begins. Or at least how those two are separate, clarifying that part.
 
 **Pooja Ranjan**
-I would agree, for the most part, with James as well as Tim. Right now, the process of EIP and the hard fork is not actually separated, but in my opinion, the EthMagicians is a very good forum. We can go ahead and do that in addition to James's idea of collecting information from individual clients, we can also start referring to the point of discussion. And if we make it a preference of having EthMagicians instead of the PR of that, we would be having collective information in one place. And even if it is async, we're also getting async information during the AllCoreDev call.
+I would agree to most of the part, with James as well as Tim. Right now, the process of EIP and the hard fork is not actually separated. In my opinion, the EthMagicians is a very good forum, we can go ahead and do that. In addition to James's idea of collecting information from individual clients, we can also start referring (EthMagician) to the point of discussion. And if we make it a preference of having EthMagicians instead of the PR, we would be having collective information in one place. And even if it is async, we're also getting a synced information during the AllCoreDev call.
 
 So there is basically a fine line between the hard fork process and the EIP process itself. I tried to document that sometime back in one of the EIPs - it must have been moved somewhere else. But yeah, I find that this may be a good way forward in which people will be getting accurate information even about all the clients and where they stand at any point in time.
 
@@ -406,7 +406,7 @@ The EIP standardization and the network upgrade deployment should be separate.
 OK, so we're all there. We're saying that there might need to be new tools in order to make that happen. We're also saying there might need to be, or that there is value in having some type of asynchronous coordination beyond the AllCoreDevs Gitter chat for people who are in different time zones, and that there might be tools we need to bring up to do that. I think I got that all right. Is there anything I got wrong?
 
 **Pooja Ranjan**
-We already have existing tools. We just need to enforce the acceptance and implementation of that. We have a discussion port on the implementation. In my understanding, most of the EIPs are there, and they are referred to be as a point of discussion. But sometimes what happens is the discussion shifts to the pull request. And there we lost the track. So if we can make our standard process a standard place, that this is it, and this is where you need to go, and we refer the link in AllCoreDev meetings that might bring all the information to one place.
+Probably, we already have existing tools. We just need to enforce the acceptance and implementation of that. We have a discussion forum, the Eth Magicians. In my understanding, most of the EIPs are there, and they are referred to be as a point of discussion. But sometimes what happens, the discussion shifts to the pull request. And there we lost the track. So if we can make a standard process, a standard place, that this is it, and this is where you need to go, and we refer the link in AllCoreDev meetings, that might bring all the information to one place.
 
  **Hudson Jameson**
 And that would be a change to EIP 1. Because in EIP 1, we say you should probably use EthMagicians. But you can use Reddit and Issues and other stuff.
@@ -424,7 +424,7 @@ Yeah, I agree with that. This is Jamie - I dropped in part way through the meeti
 Yes.
 
 **Pooja Ranjan**
-It can be for EIPs in the beginning, because the meta EIP for any upgrade would be the next step. So we can start with going individual EIP-wise, and then we can also create a thread inventory - just a link over here on discussion should be at one place with the EIPs only. That's my thought process.
+It can be for EIPs in the beginning, because the meta EIP for an upgrade would be the next step. So we can start with going individual EIP-wise, and then we can also create a thread for Meta EIP - just a link, the discussion should be in one place with the EIPs only. That's my thought process.
 
 **Edson Ayllon**
 I had a question in general. Previously, we were talking about governance in the Telegram. And the consensus we got to was that thinking about an entire governance overhaul would be a process that might take a few years and require funding for research, I had an idea, probably creating the precedent for having an upgradable governance structure, so we can make changes now and then upgrade them later more formally through research and stuff like that. What do you guys think about that?
