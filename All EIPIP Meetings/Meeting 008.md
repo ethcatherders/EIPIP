@@ -24,10 +24,6 @@ Decision Item | Description
 
 ---
 
-# Agenda
-
----
-
 # 1. EIP centric model subgroup, next steps
 
 Video | [0:00](https://www.youtube.com/watch?v=OP5Z8BVSlqs)
