@@ -572,6 +572,7 @@ The meeting is already over time. Thanks everyone for coming. We will meet again
 
 * Anett Rolikova
 * Brent Allsop
+* Edson Ayllon
 * Hudson Jameson
 * Guthl
 * James Hancock
