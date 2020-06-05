@@ -427,14 +427,14 @@ Decision Item | Description
 
 ## Attendees
 
-- Alex (axic)
 - Brent Allsop
 - Edson Ayllon
 - Hudson Jameson
 - James Hancock
 - Jim Bennett
+- Joseph C
 - Pooja Ranjan
-- Wei Tang
+
 
 ## Next Call
 
