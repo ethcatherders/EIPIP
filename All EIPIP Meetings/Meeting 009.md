@@ -427,6 +427,8 @@ Decision Item | Description
 
 ## Attendees
 
+- Artem Vorotnikov
+- Alita M.
 - Brent Allsop
 - Edson Ayllon
 - Hudson Jameson
@@ -434,6 +436,7 @@ Decision Item | Description
 - Jim Bennett
 - Joseph C
 - Pooja Ranjan
+- Tim Beiko
 
 
 ## Next Call
