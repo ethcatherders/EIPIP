@@ -8,11 +8,6 @@
 
 ## Summary
 
-## Decisions Made:
-
-Decision Item | Description
--|-
-**11.1** | Closed the issue on documenting the Cat Herders process
 
 ## Actions Required:
 
@@ -21,12 +16,12 @@ Action Item | Description
  **11.1**        | Introduce EIP 2046 in a future AllCoreDevs call to be considered as an EFI.
 **11.2**        | Discuss an emergency communications checklist on the next EIPIP call.
 **11.3**        | Pooja to add Jaye Harill to the comms group in the Cat Herders
-**11.4**        | BFollow up with lightclient on his new validator and the rules.
+**11.4**        | Follow up with lightclient on his new validator and the rules.
 **11.5**        | Read [this link](https://www.rfc-editor.org/about/independent/#:~:text=To%20post%20an%20Internet%2DDraft,%40rfc%2Deditor.org.) about independent submissions as part of the RFC before the next meeting.
 **11.6**       | James to write the precompile discussion item into a PR.
 **11.7**       | James to work on doing a document or a PR for the statuses to EIP 1
-**11.8**       | Look at the Cat Herders to investigate the project board for the EIPIP repo.
-**11.9**       | Figure out who has access to give Edson write access to the Cat Herders repo.
+**11.8**       | Investigate the Cat Herders repo to use the project board for tracking the EIPIP agenda items.
+**11.9**       | Figure out who has access to give Edson write access to the Cat Herders repo for the EIPIP project board.
 
 
 
@@ -45,7 +40,7 @@ Okay. You want to talk about your thoughts on this?
 Yeah, so I was watching you use it for EFI. And it looks like Trello. Sometimes, there's things on the agenda, which we don't get to. As more and more items are added to the agenda, I think it'll add bloat to future agendas, and we might lose items. So I think it's a good way to organize future talking points that we table to future meetings. Or sometimes they have agenda items that - say we want to focus on decision making, but we're also introducing stuff around on-boarding. We still have ideas that we want to keep, but not necessarily address at this moment. And a way to organize them could be using the project's feature and GitHub. So it's more of a way to organize the topics from these meetings.
 
 **Pooja Ranjan**
-Yeah, I kind of like the idea, too. Sometimes back, we have used it for creating the post-mortem for constant in poll and the Cat Herders itself. I'm gonna share the link in the chat here. So yeah, this is a good way to keep track of whatever agenda that we are trying to discuss here, and of any decisions we make, and how we are going to implement that. It would be a good way to keep track of it.
+Yeah, I kind of like the idea, too. Sometimes back, we have used it for creating the post-mortem for constant in poll and the Cat Herders itself. I'm gonna share the [link in the chat](https://github.com/orgs/ethereum-cat-herders/projects/1) here. So yeah, this is a good way to keep track of whatever agenda that we are trying to discuss here, and of any decisions we make, and how we are going to implement that. It would be a good way to keep track of it.
 
 **James Hancock**
 Yeah, this has the Cat Herders EIP repo use project boards before? Has it set up for them?
@@ -57,7 +52,7 @@ Yeah, when we look into the EIPIP repo, there is a section below project which i
 Great. I'd love to see us move forward on this, or at least investigate where to get integrated and such.
 
 **Pooja Ranjan**
-So I think up 'til now, how we have been managing is we had this initial document of EIPIP where we gathered some idea how we are going to do that. And the extensive report that came up after the EIPIP survey. So that was another reference point. And now we have to collect the main ideas from there and add them as tasks. And then we can keep measuring the progress. We need to keep track of the progress. And if it is closed, we can certainly reach it out to everybody in community as well as the CoreDevs to let them know what the things are.
+So I think up 'til now, how we have been managing is we had this [initial document](https://docs.google.com/document/d/1KzEMD21Joqn7IWk4WnocwraRuo66y7r2w8R9Wml4BN0/edit) of EIPIP where we gathered some idea how we are going to do that. And the extensive report that came up after the EIPIP survey. So that was another reference point. And now we have to collect the main ideas from there and add them as tasks. And then we can keep measuring the progress. We need to keep track of the progress. And if it is closed, we can certainly reach it out to everybody in community as well as the CoreDevs to let them know what the things are.
 
 **James Hancock**
 I actually have started using the GitHub project board for managing the hard fork coordination stuff. I have one that I've thought about just making public, but I wanted to make sure it works well before I did that, just to keep track of the stuff that I'm doing. And something that's nice using the GitHub project board is you can tie issues, you can connect an issue to a tile or whatever you call them.
@@ -241,7 +236,7 @@ Is there a playbook as to what the checks are to do when that happens, all the c
 Not that I'm aware of.
 
 **Pooja Ranjan**
-So for that, we have created this emergency comm process document, sometimes back during the Constantinople post mortem only. So it suggests that we should be having a list of key audiences, those are going to be, you know, emergency comms members. And we are trying to create this list. Generally, we use this kind of list at the time of upgrade or hard fork to communicate with our key stakeholders to let them know what's going on if something urgent comes up. So that's it, and the other thing was we came up with a list of preferred channels of communication, because it's important that we should be reaching people, more people and as quickly as possible. So these are the preferred, appropriate channels that we suggested we should be using.
+So for that, we have created this [emergency comm process document](https://github.com/ethereum-cat-herders/PM/blob/63d6c017c67ac2188b44f8d9f5293f563a1745cf/Constantinople%20Postmortem%20Report/EmergencyCommTemplate.md), sometimes back during the Constantinople post mortem only. So it suggests that we should be having a list of key audiences, those are going to be, you know, emergency comms members. And we are trying to create this list. Generally, we use this kind of list at the time of upgrade or hard fork to communicate with our key stakeholders to let them know what's going on if something urgent comes up. So that's it, and the other thing was we came up with a list of [preferred channels of communication](https://github.com/ethereum-cat-herders/PM/blob/63d6c017c67ac2188b44f8d9f5293f563a1745cf/Constantinople%20Postmortem%20Report/EmergencyCommTemplate.md#preferred--appropriate-channels-of-communication), because it's important that we should be reaching people, more people and as quickly as possible. So these are the preferred, appropriate channels that we suggested we should be using.
 
 **Jaye Harrill**
 That make sense. I'm just quickly looking at this. Certainly understanding the list of who to contact, this is public, so I know that it would have to be a trusted group of people to do that. But I feel like if there's a little bit more direction in this document that that team could be formed. I don't know. It's honestly more of an operations role with someone who can understand how to form something that doesn't provoke worry, but provokes calm, immediate action of the right things rather than a reactionary thing. And so I don't think that's very hard. There's some talented comms people in the space.
@@ -253,7 +248,7 @@ Yeah, so if you could put me in touch with them, or maybe if you feel like you c
 Yeah, I'd be happy to try and find some people. I'd be happy to be on the team, too. I'm just - there is a process that already exists, and there is already a list of people to contact, so I don't want to change that. I think it's more or less here. All it's really needed is the people to be able to execute on the thing when it's needed and to have the professionalism to work together and say the right things. And I think that could be honestly coordinated through a little Telegram chat that's limited in how many people are in it.
 
 **Pooja Ranjan**
-So the executors here are basically the Cat Herders itself. We reac out to the group of people in the Cat Herders, and we reach out to these people. And James is the hard fork coordinator, so we work together. And some people are reached by James, and that's how we have been managing it so far. But yeah, happy to have you on board, too.
+So the executors here are basically the Cat Herders itself. We reach out to the group of people in the Cat Herders, and we reach out to these people. And James is the hard fork coordinator, so we work together. And some people are reached by James, and that's how we have been managing it so far. But yeah, happy to have you on board, too.
 
 **Jaye Harrill**
 That makes sense. Emergency comms is something that I have some experience in, so I'd be happy to help, but I think I'd still want to hang back a little bit as I slowly unpack and understand more of the processes. I'm not ready to just jump in and start saying "here are solutions, because that wouldn't be good of me. There's a lot of stuff that has already been built out.
@@ -352,7 +347,7 @@ I think I can do that. Is it visible now?
 Yeah, I can see it. Okay.
 
 **Pooja Ranjan**
-I also shared the link in the chat for people to refer. So we have not submitted it. It's just a draft, and it is staying with us. I wanted to discuss this with you guys to collect some feedback if anything is missing. The two questions I have in mind, I'll just mention it so that if you're giving it a look, or maybe think about it, the discussion section here, what we did is we refer to the eth-magician post that James created for Muir Glaicer upgrade. We did not create any specific eth-magician post to just list the Muir Glacier, because I'm not sure if there is much more discussion needed or if we can just combine both of them. So that was one. And the other thing was at the end of this document, we have also listed the resources. This is not a typical format of an EIP. Do we need to have it? If it is fine to keep it, because I think I have mentioned all the links here already, then we will keep it. Otherwise, we might want to remove it. And yes, please feel free to share your thoughts about this. There's one more thing. We have this template. This is the general template for future post mortem upgrades. This would also be posted in the form of an informational EIP for people to refer and when we are creating, we'll keep this in mind. I will share the link of this document as well. So feel free to add any comment. Anyone have any questions?
+I also shared the link in the chat for people to refer. So we have not submitted it. It's just a draft, and it is staying with us. I wanted to discuss this with you guys to collect some feedback if anything is missing. The two questions I have in mind, I'll just mention it so that if you're giving it a look, or maybe think about it, the discussion section here, what we did is we refer to the eth-magician post that James created for Muir Glaicer upgrade. We did not create any specific eth-magician post to just list the Muir Glacier, because I'm not sure if there is much more discussion needed or if we can just combine both of them. So that was one. And the other thing was at the end of this document, we have also listed the resources. This is not a typical format of an EIP. Do we need to have it? If it is fine to keep it, because I think I have mentioned all the links here already, then we will keep it. Otherwise, we might want to remove it. And yes, please feel free to share your thoughts about this. There's one more thing. We have [this template](https://docs.google.com/document/d/1onC1rUqXTI3MNYJRiwhgLS91OaYrVgAlZb0Ri3i4hRE/edit). This is the general template for future post mortem upgrades. This would also be posted in the form of an informational EIP for people to refer and when we are creating, we'll keep this in mind. I will share the link of this document as well. So feel free to add any comment. Anyone have any questions?
 
 **Chloethedev.eth**
 On the second point you made about the resources, just on specifically accessibility. As someone who does have a hard time sometimes navigating through some of these EIPs, I do think it's helpful to have the resources for future post mortems, if that can become something that was normal, I think it could be helpful for people that aren't as used to know what's going on in the community. Then I go kind of figure out more information there. That can also be in the in the blog post as well, potentially. So there's that, too.
@@ -382,7 +377,7 @@ Great. It's been it's been fun. The last couple of weeks, Pooja and I have been 
 I'm going to stop sharing now, and we can move on to the next item unless anybody has any more question on it.
 
 **James Hancock**
-Anyone have thoughts on the the 2, the TV, or where to put the discussion link? Or what that should be like? The the discussion 2 usually goes to a post on the EIP, but in this case, thoughts on what's a good place to put it or if we should have one.
+Anyone have thoughts on the the 2, the TV, or where to put the discussion link? Or what that should be like? The "discussion to" usually goes to a post on the EIP, but in this case, thoughts on what's a good place to put it or if we should have one.
 
 **Pooja Ranjan**
 I mean, this was the general format. That's why we use the existing one. But if somebody feels strongly about having a need of a separate discussion pointer, we can create one.
@@ -465,7 +460,7 @@ Yeah, I think we mentioned this in the previous meeting. I had suggested that di
 Yeah, I would agree.
 
 **Pooja Ranjan**
-I'm not too sure how much value it would add if it is not something that is going to be commented. And in most of the EIPs, we can probably go ahead and explain that term in one of the summary sections or somewhere else in the EIP itself. But adding this as a mandatory section for every EIP that is something I'm not sure about, but it doesn't hurt to have something additional as well.
+I'm not too sure how much value it would add if it is not something that is going to be common. And in most of the EIPs, we can probably go ahead and explain that term in one of the summary sections or somewhere else in the EIP itself. But adding this as a mandatory section for every EIP that is something I'm not sure about, but it doesn't hurt to have something additional as well.
 
 **Edson Ayllon**
 So I think it's good as an optional section. I don't think that it needs to be mandatory for every single EIP.
@@ -474,7 +469,7 @@ So I think it's good as an optional section. I don't think that it needs to be m
 Yeah, it would be good to have one in some of them going to EIP 1. We can have definitions that people can use, like the definition of a network upgrade.
 
 **Pooja Ranjan**
-Right, that is that is needed for EIP one. I understand this point. This section is mandatory for EIP 1. But again, EIP 1 is not any general EIP. It's a kind of documentation that provides a guideline. So for that, having this section, it makes a lot of sense. But making it mandatory, I was not sure. But if it is optional, yeah, perfectly fine.
+Right, that is needed for EIP-1. I understand this point. This section is mandatory for EIP-1. But again, EIP-1 is not any general EIP. It's a kind of documentation that provides a guideline. So for that, having this section, it makes a lot of sense. But making it mandatory, I was not sure. But if it is optional, yeah, perfectly fine.
 
 **James Hancock**
 When I've written EIPs, I tried to do this or be mindful of if I'm using terms defining them. So having that be as a best practice, is something else we should consider. Because we have stuff that's required. And then we're starting to also list things as best practices. And that, definitely, we should add to the list of best practices. Or consider doing it. I don't want to decide. I'm getting ahead of myself. We're at the top of the hour. So unless there's some final thoughts, I think it's time to wrap up.
@@ -508,7 +503,7 @@ Oh, yeah, of course. I'm not sure for AllCoreDevs, should it be submitted as a P
 Either. Yeah. Are there outstanding action items that I'm forgetting?
 
 **Pooja Ranjan**
-Yeah, and we would like to bring some of some of the agendas are repeated in the next meeting. We would like to continue the discussion on rest of the items.
+Yeah, and we would like to bring some of the agendas here repeated in the next meeting. We would like to continue the discussion on the rest of the items.
 
 **James Hancock**
 Yeah, it'd be great if we could get the agenda put into the project board, or the items in the agenda fleshed out into the project board and use that next meeting as possible.
