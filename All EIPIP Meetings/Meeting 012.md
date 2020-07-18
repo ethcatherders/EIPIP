@@ -1,10 +1,10 @@
 # 1. EIP Improvement Process Call #12 Notes
-Meeting Date/Time: Wednesday, July 15, 2020 at 15:00 UTC
-Meeting Duration: 1 hr
-[Audio/Video of the meeting](https://www.youtube.com/watch?v=5PSQDT1nr2E)
-[Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/23)
-Moderator: Pooja Ranjan
-Notes: Alita Moore
+Meeting Date/Time: Wednesday, July 15, 2020 at 15:00 UTC  
+Meeting Duration: 1 hr  
+[Audio/Video of the meeting](https://www.youtube.com/watch?v=5PSQDT1nr2E)  
+[Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/23)  
+Moderator: Pooja Ranjan  
+Notes: Alita Moore  
 
 ## 1.1. Decisions Made
 
