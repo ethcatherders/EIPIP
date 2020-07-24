@@ -1,4 +1,4 @@
-# 1. EIP Improvement Process Call #12 Notes
+# EIP Improvement Process Call #12 Notes
 Meeting Date/Time: Wednesday, July 15, 2020 at 15:00 UTC  
 Meeting Duration: 1 hr  
 [Audio/Video of the meeting](https://www.youtube.com/watch?v=5PSQDT1nr2E)  
@@ -6,7 +6,7 @@ Meeting Duration: 1 hr
 Moderator: Pooja Ranjan  
 Notes: Alita Moore  
 
-## 1.1. Decisions Made
+## Decisions Made
 
 Decision Item | Description
 ---|---
@@ -14,10 +14,10 @@ Decision Item | Description
 **12.2** | James wil look into the necessary permissions and how to setup users with triaging capabilities
 **12.3** | A process for removing editors and criteria for removing editors is a future item to discuss
 **12.4** | Link to the live EFI document through EIP 1 rather than continuously updating EIP 1; EIP 1 can be used as a hub for statuses instead.
-**12.5** | Remove emergency EIP process item until such time that it becomes pertinent
+**12.5** | Remove emergency comms from EIP IP agenda item until it becomes pertinent
 
 
-# 2. [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/23#issue-655857894)
+# [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/23#issue-655857894)
 
 
 1. Onboarding EIP editors, new EIP validator and suggestions.
@@ -34,7 +34,7 @@ Decision Item | Description
 
 ---
 
-# 3. Onboarding EIP editors, new EIP validator and suggestions
+# 1. Onboarding EIP editors, new EIP validator and suggestions
 
 Video | [0:00](https://youtu.be/5PSQDT1nr2E)
 
@@ -90,7 +90,7 @@ Video | [0:00](https://youtu.be/5PSQDT1nr2E)
 
 (Edson) - Yeah, I can make a survey.
 
-(Pooj) - The hard part here is that this role is a volunteer role. So people whom are actively invovled and whom care about the community and are actively involved must be volunteering. Recently I brought up this topic because we received some interest from the EIPIP gitter channel. Someone expressed interest, and I have seen him actively involved and he's been doing PRs actively. I was confused who he should speak to him. It would be very helpful to have the basic criteria for this. We should document these things, because information is very limited at this point in time.
+(Pooja) - The hard part here is that this role is a volunteer role. So people whom are actively invovled and whom care about the community and are actively involved must be volunteering. Recently I brought up this topic because we received some interest from the EIPIP gitter channel. Someone expressed interest, and I have seen him actively involved and he's been doing PRs actively. I was confused who he should speak to him. It would be very helpful to have the basic criteria for this. We should document these things, because information is very limited at this point in time.
 
 (James) - Previously, there hadn't been a new one for a long time. I know this kind of anecdotally, but I feel like I can represent it pretty well for what Hudson had told me. They told me that after doing some work in the EIP repositories, someone asked to be an editor, and the current editors sat down and thought about it, and they approved the request. They then just made the person an editor.
 
@@ -136,17 +136,17 @@ Video | [0:00](https://youtu.be/5PSQDT1nr2E)
 
 (Matt) - I have a question; we talked about building a criteria for what it means to be an editor, and then what kind of work do we expect the editor to do, but if they're not meeting those expectations then we haven't really talked about what happens to them. Is the editor ... list or is it something that with enough feedback they'd be able to be removed from 
 
-(James) - Is (unknown name) still an editor
+(James) - Is Afri still an editor
 
 (Pooja) - Who?
 
-(James) - Ofrey was an editor I believe
+(James) - Afri was an editor I believe
 
 (Pooja) - He's no anymore
 
 (James) - But I think he removed himself because of the fiasco that happened earlier. I do think that we need to think of something like that, and the best suggestion I've thought of is to make it based on activity. So if you're not active for a certain amount of time (commenting and merging PRs, basically) you just get automatically get removed or you at least can be removed. Like you're flagged for removal if you haven't done anything for say 6 months.
 
-(Pooja) - We can add that to the criteria and expectations; I have seen the history of it, like () was one of the editors when he was part of Ethereum, but after he left he was also removed from the editors list. So it can be kept up to date depending on who is still active.
+(Pooja) - We can add that to the criteria and expectations; I have seen the history of it, like Yoichi was one of the editors when he was part of Ethereum, but after he left he was also removed from the editors list. So it can be kept up to date depending on who is still active.
 
 (James) - Yeah, I'd say that a mechanism for one to passively remove editors whom aren't contributing so it's an easy way to someone who's moved onto another project or actively in the Ethereum developer space that it probably doesn't make sense for them to be an editor. But going through the politcs and drama of having to figure out how to remove that person is kind of a lot. So one, having some kind of activity threshold of if you're this active, and it could be very low, then have a second process for if the EIP editors feel like someone is misbehaving. This hasn't really happened for us but it definetely happened for the Ethereum classic community. Which was a really interesting case study about what to do, have EIP editors have a process for removing someone who's innapropriately using their editor capabilities.
 
@@ -183,13 +183,13 @@ Video | [0:00](https://youtu.be/5PSQDT1nr2E)
 (Pooja) - I think this will take some time to shape up properly so by the time we are into the new process this thing should be ready. I am hoping it would be ready publicly and it wouldn't be a problem for EIP editors. Moreover the people we are trying to consider here as an editor are actively invovled so it would be a good transition for them also to be onboarded for this process. That's just my thought, though.
 
 (James) - Mika for example would be totally fine. Being able to handle that, Matt would be totally fine to be able to handle that. The new statuses are I think getting pretty solid. Those are the, I think, the biggest ones. It'd be good to have some of that be settled before we really push through this, that's a good point so thanks for bringing that up Edson.
-## 3.1. Decisions
+## Decisions
 
 - *12.1*- Edson will make a survey to the current editors on the expectations from an editor (time-commitment, qualifications)
 - *12.2*- James wil look into the necessary permissions and how to setup users with triaging capabilities
 - *12.3* - A process for removing editors and criteria for removing editors is a future item to discuss
 
-# 4. Separation of EIP process and hard-fork coordination
+# 2. Separation of EIP process and hard-fork coordination
 
 Video | [29:30](https://youtu.be/5PSQDT1nr2E)
 
@@ -275,11 +275,11 @@ Video | [29:30](https://youtu.be/5PSQDT1nr2E)
 
 (Pooja) - So we can add it as an action item for now, and we can see in the next meeting if we are done with that, then people can go ahead and create the PR for updating EIP 1
 
-## 4.1. Decisions
+## Decisions
 
 - *12.4* - Link to the live EFI document through EIP 1 rather than continuously updating EIP 1; EIP 1 can be used as a hub for statuses instead.
 
-# 5. Discuss the EIP-1 Brainstorming Document. 
+# 5. Emergency communication document and checklist 
 
 Video | [50:29](https://youtu.be/5PSQDT1nr2E?t=3029)
 
@@ -311,16 +311,16 @@ Video | [50:29](https://youtu.be/5PSQDT1nr2E?t=3029)
 
 (James) - I'd also ask some editors about what they think; I'd recommend that, and everything else sounds good.
 
-## 5.1. Decisions
+## Decisions
 - *12.5* - Remove emergency EIP process item until such time that it becomes pertinent
 
-# 6. Various Final Topics
+# Various Final Topics
 
 Video | [56:08](https://youtu.be/5PSQDT1nr2E)
 
-## 6.1. EIPIP project board
+## 6. EIPIP project board
  
-(Pooja) - Okay, so we are almost at time but I want to share a couple of things here. We have created this EIP project code, the link is available in the agenda. Everyone can go ahead and look adn check that out. We'd love to have feedback.
+(Pooja) - Okay, so we are almost at the time but I want to share a couple of things here. We have created this EIP project board, the link is available on the agenda. Everyone can go ahead and look and check that out. We'd love to hear feedback.
 
 (James) - It's so good!
 
@@ -332,7 +332,7 @@ Video | [56:08](https://youtu.be/5PSQDT1nr2E)
 
 (Pooja) - (laughing) yeah, we worked together on that; so yeah, we would like to hear more feedback from people and maybe again we will stop at this point and have the cat hearders have some kind of discussion about this kind of EIP. I'm planning to start an ETH magician post about it.
 
-## 6.2. Clarifications for how a precompile address is decided
+## 7. Postmortem format feedback
 
 (Edson) - It might be good to open a PR and then change the EIP number
 
@@ -340,16 +340,14 @@ Video | [56:08](https://youtu.be/5PSQDT1nr2E)
 
 (Edson) - Then change the file name to the EIP and then the EIP number
 
-## 6.3. Postmortem format feedback 
-
 (Pooja) - That makes sense; yeah we can do that. I've also shared the link of the previos post-mortem update that we shared in the previous meeting about the new glaciars. We are ready to share it with the AllCoreDevs; when Berlin is back, and we are talking about upgrades. That's all from the agenda that we can cover today. Anything else anybody would want to share? Okay, then I think we are good to go today; thank you everyone for joining the meeting today, I'll see you guys in two weeks on July 30th.
 
 
 ---
 
-# 7. Annex
+# Annex
 
-## 7.1. Attendees
+## Attendees
 
 - Alita Moore
 - Edson Ayllon
@@ -359,6 +357,6 @@ Video | [56:08](https://youtu.be/5PSQDT1nr2E)
 - Edson Ayllon
 - Matt
 
-## 7.2. Next Call
+## Next Call
 
-Wednesday, July 30, 2020, 15:00 UTC.
+Wednesday, July 29, 2020, 15:00 UTC.
