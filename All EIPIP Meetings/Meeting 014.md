@@ -1,4 +1,4 @@
-# EIP Improvement Process Call #10 Notes
+# EIP Improvement Process Call #14 Notes
 ### Meeting Date/Time: Wednesday, August 12, 2020 at 15:00 UTC
 ### Meeting Duration: 1 hr
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=mkz9eJ3GDTI)
