@@ -37,6 +37,8 @@ Decision Item | Description
             adding a responsible party for mistakes and increasing overall quality
         A good example of a working group..
             is the 1x ethereum group |
+Decision Item | Description
+- | -
 **45.1.4** |The survey has been sent out, and awaiting responses |
 **45.1.5** |the eth spec repo should have stuff about hardfork coordination, network upgrads, list of eips connected to mainnet, the yellow paper, and postmortems / retrospectives on network upgrades. |
 **45.1.6** |Pickup on the yellow paper discussion in the next meeting |
@@ -51,7 +53,7 @@ Action Item | Description
 
 
 # 1. Network Upgrade process
-Video | (0:00)[https://youtu.be/mkz9eJ3GDTI]
+Video | [0:00](https://youtu.be/mkz9eJ3GDTI)
 
 (Hudson) - all right let's get started on the eipip meeting number 14. the first agenda item is the network upgrade process um we usually talk about that with um james but he's not going to be here today but we do have a note from edson uh a proposal from him for the network upgrade process uh it's in a github gist and a comment at the bottom of the agenda page so um edson if you want to just kind of go through that it looks really interesting feel free to take it away
 
@@ -173,7 +175,7 @@ Video | (0:00)[https://youtu.be/mkz9eJ3GDTI]
 
 (Hudson) - okay, if anyone has a lot of comments we can time box it alita did you have was your point um responded to?
 
-14.1.1 | Video | (30:18)[https://youtu.be/mkz9eJ3GDTI?t=1815]
+14.1.1 | Video | [30:18](https://youtu.be/mkz9eJ3GDTI?t=1815)
 
     Revisit the topic on how to handle contentious topics on a later call / with James
 
@@ -181,13 +183,13 @@ Video | (0:00)[https://youtu.be/mkz9eJ3GDTI]
 
 # 2. Constraining the EIP repository scope
 
-Video | (30:18)[https://youtu.be/mkz9eJ3GDTI?t=1818]
+Video | [30:18](https://youtu.be/mkz9eJ3GDTI?t=1818)
 
 (Hudson) - I did check a message real quick so I wasn't listening. sorry, uh okay, so um next up would be constraining the eip repository scope which we kind of just we kind of were back and forth on that a little bit um 
 
 (Pooja) - yeah I think we can skip that yeah it makes sense to wait for james
 
-14.1.2 | Video | (30:21)[https://youtu.be/mkz9eJ3GDTI?t=1821]
+14.1.2 | Video | [30:21](https://youtu.be/mkz9eJ3GDTI?t=1821)
 
     Postpone "contraining the EIP repository scope" until next meeting (or until james is present)
 
@@ -197,7 +199,7 @@ Video | (30:18)[https://youtu.be/mkz9eJ3GDTI?t=1818]
  
  # 3. Explore the diea of working groups
  
- Video | (30:40)[https://youtu.be/mkz9eJ3GDTI?t=1844]
+ Video | [30:40](https://youtu.be/mkz9eJ3GDTI?t=1844)
 
  (Lightclient) - yeah so I guess first before I you know talk about working groups rather than you know coming up with a solution in search of a problem I thought I would share like what I view as some of the things in the eip process and just you know the the repository that I think are problems right now and I think there's like two main ones and the first one is that I think the proposals are generally low quality you know there's a not a lot of effort is put into a lot of these these proposals they're usually hacked together and then it's just kind of left up to editors to guide these people who are really not even that enfranchised into being a part of the process they've just decided to make a pull request in two hours they've written something so they really haven't even read one they don't they're not um they're not trying to make like a really quality technical document I think this creates a cycle where proposals are low quality and so the people involved in the eip process the editors are not incentivized to really take the time to make the proposals better and to really guide those people because um there's just a lot of low quality and so them not being enfranchised to be a part of the more part of the process leads to more low quality so I think that's a that's a cycle that's happening right now on the eip or pod story the second thing is I think that there's not a lot of people who are willing to make you know unpopular decisions in in the eip repository to reach the goals of having higher quality eips or to have more informative eips rather than changes and I think that uh instead you know everything is just accepted in the repository because that's the path of least resistance for for the editors to do and so I think that you know these two together just creating like a situation where the eip repository is not something that people in the community are super proud to be a part of or to uh to have so it you know if we're not proud of the eip repository this isn't you know like a status very strong technical document then less people are like willing to contribute and so we're having this problem where we hardly get people to be editors because this isn't like a prestigious you know role to be playing and I think that we can fix that I feel like working groups I feel like you know adding some sort of additional hierarchy to the eip process would be helpful and to me like I feel like working groups is something that pretty much every standard organization in the world has and it's something that ethereum can implement into the eip repository and so in that comment I just you know shared a couple of just like very you know generic working potential working groups that I think could add value and you know we can you know talk you know all day about you know what how should we structure the working groups what working group should there be like what are their roles and responsibilities at the end of the day I think that you know in order to improve the overall quality we just need to be giving more people ownership of the repository and you know by giving people ownership of the repository we can make them accountable for the changes and so if we have a working if we have a working group around you know the eip process like we kind of have here then you know we need to be held accountable for making the process better we should have some sort of some people who are in charge of um you know the the actual or like um you know infrastructure behind the eip website like what happens if uh we make a change to the continuous integration suite like I made a change uh last week that hudson you you merged and I didn't realize I made a mistake on removing some quotes from a hard fork meta and that caused the titles to be uh to to be erased and so like we change we fixed it in a pr but there's no one who's really accountable as far as I can tell for these sorts of changes you know this is my mistake but there wasn't you know a group of people going through this pr to make sure that it's all sound so I think that having these working groups it and you know we can do this in a very very lightweight way it doesn't have to be very overbearing but just having more people involved in the process and emphasizing them I think that's going to improve the quality overall of the entire you know process
  
@@ -211,7 +213,7 @@ Video | (30:18)[https://youtu.be/mkz9eJ3GDTI?t=1818]
  
  (Lightclient) - I think that the way that you describe it there is more of a reactive way and I would rather the eip or the EIP work groups be more of an active playing active role in the process rather than saying welcome to the working group you're going to just review eips that come in I think that they need to actively be playing a role and say this is the working group for interfaces these are our goals as a working group we're going to design eips that meet these goals if other eips from the community come in we're going to be a place that can help give them feedback or help direct them to the right you know to to eips and efforts that are more aligned with what the goals of the network are this isn't stopping anyone from coming up with their own eip and implementing it but I think that there's already this input these implicit working groups there's you know there's different like levels of how like formally defined they are we have the one x working group and they have their sets of goals they're working towards um and so they should they should be being held accountable for that in the eip process I think it's it's weird that you know 1x is such an important upgrade to ethereum but it's not mentioned in the the eip repository anywhere.
  
-14.1.3 | Video | (39:03)[https://youtu.be/mkz9eJ3GDTI?t=2343]
+14.1.3 | Video | [39:03](https://youtu.be/mkz9eJ3GDTI?t=2343)
 
     summary of lightclient's working group argument:
         the problem is..
