@@ -27,7 +27,11 @@ Decision Item | Description
 -|-
 **45.1.1** |Revisit the topic on how to handle contentious topics on a later call / with James |
 **45.1.2** |Postpone "contraining the EIP repository scope" until next meeting (or until james is present) |
-**45.1.3** |summary of lightclient's working group argument:
+**45.1.3** |summary of lightclient's working group argument (see below) |
+**45.1.4** |The survey has been sent out, and awaiting responses |
+**45.1.5** |the eth spec repo should have stuff about hardfork coordination, network upgrads, list of eips connected to mainnet, the yellow paper, and postmortems / retrospectives on network upgrades. |
+**45.1.6** |Pickup on the yellow paper discussion in the next meeting |
+
         the problem is..
             eips are low quality
             lack of incentive to disagree in the eip chain
@@ -36,12 +40,7 @@ Decision Item | Description
         the working group would impact ethereum by..
             adding a responsible party for mistakes and increasing overall quality
         A good example of a working group..
-            is the 1x ethereum group |
-Decision Item | Description
-- | -
-**45.1.4** |The survey has been sent out, and awaiting responses |
-**45.1.5** |the eth spec repo should have stuff about hardfork coordination, network upgrads, list of eips connected to mainnet, the yellow paper, and postmortems / retrospectives on network upgrades. |
-**45.1.6** |Pickup on the yellow paper discussion in the next meeting |
+            is the 1x ethereum group 
 
 # Action items
 
