@@ -201,7 +201,7 @@ Decision Item | Description
 
 **Hudson**: Withdrawn is purposefully making the EIP permanently inactive whereas  stagnant is an activity due to defaults and time passed. So we don't want stagnant or withdrawn to be the only one because then the person would know if it's permanent in the person wouldn't know if it just lapsed overtime or not which is important to make a distinction of if you want to resurrect it and  become a new champion of it for instance. Cuz  that happens a lot with EIPs for new Champions to come in.
 
-**Artem**: Can’t withdrawn EIPs get new Champions that's one question and another question do we want to only have withdrawn but not rejected? so what if we declined to move the 80 from to review to last call to final.
+**Artem**: Can’t withdrawn EIPs get new Champions that's one question and another question do we want to only have withdrawn but not rejected? so what if we declined to move the EIP from to review to last call to final.
 
 **James**:  The first one if I withdrew an EIP and someone wants to be a champion of it. I think they should make a different EIP.
 
