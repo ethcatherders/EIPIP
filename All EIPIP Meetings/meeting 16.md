@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Wednesday 9th September 2020 at 15:00 UTC
 ### Meeting Duration: 55 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/30)
-### [Audio/Video of the meeting](https://www.youtube.com/watch?v=UJmYpFkZGzY&ab_channel=EthereumCatHerders)
+### [Audio/Video of the meeting](https://youtu.be/UJmYpFkZGzY)
 ### Moderator: Pooja Ranjan
 ### Notes: Alita Moore
 
@@ -272,7 +272,7 @@ Video | [38:40](https://youtu.be/UJmYpFkZGzY?t=2320)
 
 **Pooja** - great so by this uh just one point i want to mention it again like by the task that has been suggested by the eip editors they want to focus it on uh if it is ethereum related um i don't know if it brings back to our uh conversation that we had sometimes back on like what would be the eip repository should be for maybe i'm not sure maybe we could have it a separate agenda item in one of the future meetings and then would like to discuss 
 
-**Micah** - it would be nice to settle that it's been ongoing when discussion not just between like my client and i for the one currently having but also like the other day someone put in something to the eips repo which was a specification for a new cryptographic primitive which um like is very general that's like something you would submit as an rfc to some other standardized body but they chose the ethereum repo is ethereum the ip's repo the right place for that like yes ethereum may use that cryptographic primitive at some point but there are definitely better places in my opinion to get feedback on like cryptography stuff than the ips repo so i think answering what is the scope of the ap's repo cover does it cover just ethereum and stuff that's going into ethereum and stuff that's specific to ethereum or does it cover a more broad scope including stuff that goes into that may or may not go into ethereum but is kind of related to the evm and things that run the evm and does it include like cryptography like which is tangentially related to ethereum so just answering that would be nice at some point it's not a super pressing matter though either
+**Micah** - it would be nice to settle that it's been ongoing when discussion not just between lightclient and I for the one currently having but also like the other day someone put in something to the eips repo which was a specification for a new cryptographic primitive which um like is very general that's like something you would submit as an rfc to some other standardized body but they chose the ethereum repo is ethereum the ip's repo the right place for that like yes ethereum may use that cryptographic primitive at some point but there are definitely better places in my opinion to get feedback on like cryptography stuff than the ips repo so i think answering what is the scope of the ap's repo cover does it cover just ethereum and stuff that's going into ethereum and stuff that's specific to ethereum or does it cover a more broad scope including stuff that goes into that may or may not go into ethereum but is kind of related to the evm and things that run the evm and does it include like cryptography like which is tangentially related to ethereum so just answering that would be nice at some point it's not a super pressing matter though either
 
 **Hudson** - i have a quick update about the triage permission that we were just talking about um it turns out your are we have a legacy github organization at the ethereum organization in github and we would need to upgrade it which would incur cost in order to get the triage permission um i don't know there's some like pros and cons to doing that so i'm gonna have to go over with the ethereum foundation devops team but for right now we can't do the triage permission but i can talk to them uh we're having a meeting tomorrow about it 
 
@@ -395,5 +395,6 @@ Video | [45:35](https://youtu.be/UJmYpFkZGzY?t=2735)
 - James Hancock
 - Jim Bennett
 - Alita Moore
+- Pooja Ranjan
 
 # Date for Next Meeting: 23 September 2020, at 1500 UTC.
