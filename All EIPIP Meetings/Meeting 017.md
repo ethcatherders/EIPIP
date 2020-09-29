@@ -24,7 +24,7 @@ Decision Item | Description
 Action Item | Description
 -|-
 **17.1** | Finalize Withdrawn status names
-**17.2** | reate the status diagram with explicit arrows
+**17.2** | Create the status diagram with explicit arrows
 
 
 ---
