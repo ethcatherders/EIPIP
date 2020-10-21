@@ -1,4 +1,4 @@
-# EIP Improvement Process Call #14 Notes  <!-- omit in toc -->
+# EIP Improvement Process Call #17 Notes  <!-- omit in toc -->
 ### Meeting Date/Time: Wednesday, September 23, 2020 at 15:00 UTC <!-- omit in toc -->
 ### Meeting Duration: 1 hr <!-- omit in toc -->
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=fl5MOhbipgY) <!-- omit in toc -->
