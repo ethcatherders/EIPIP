@@ -11,14 +11,19 @@
 ## DECISION ITEMS
 
 **DECISION 18.1**:  Leave EIP-1 as Active and don't change state, but leave arrows.
+
 **DECISION 18.2**: Final EIPs can close their issues if they've marked a discussion to as an issue.
 
 ## ACTION ITEMS
 
 **ACTION 18.1**: lightclient has secured @EIPinfo for tweeting EIP updates. Cat Herders, James Hancock, lighclient, and Matt will all work together to start tweeting.
+
 **ACTION 18.2**: Add item to agenda for EIPIP Meeting #19 - "Should the meta and information EIP not be part of the EIP at all?"
+
 **ACTION 18.3** Pooja will reach out to EIP authors to get them to follow the documented network upgrade process.
+
 **ACTION 18.4** Micah reached out to Aragon to tell them they need to put in content to EIP 3000 to discourage squatting.
+
 **ACTION 18.5**: Move agenda items 4-6 from this meeting to the next meeting on October 21, 2020.
 
 
