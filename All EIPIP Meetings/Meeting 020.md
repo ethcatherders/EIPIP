@@ -50,7 +50,7 @@ That is fair, but I fear the rate of growth of people wanting to drdaft EIPs wil
 The EIP process is missused by a lot of people, I spend a lot of my day explaining to people why this is not a good EIP.  This thing they want to do is not appropriate for an EIP.  So we need to attract the right people.  We don't have a mechanism to do that, but whatever mechanism we chose, it should attract the right people.
 
 [Starting at 10:18](https://youtu.be/m1A3F4v7H4M?t=618)
-Long descussion about the process of network upgrades.
+Long descussion about the process of network upgrades, much of it duplicated in theses files:
 ### https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md
 ### https://github.com/ethereum/EIPs/blob/master/README.md
 ### https://eips.ethereum.org/
