@@ -1,4 +1,4 @@
-EIP# EIP IP Meeting  20 Notes
+# EIPIP Meeting 20 Notes
 # EIP# EIP IP Meeting  20 Notes
 ## Meeting Date/Time: Wednesday 4 November at 15:00 UTC
 ### Meeting Duration: 1 hour 30 minuts
