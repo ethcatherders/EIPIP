@@ -1,10 +1,11 @@
+EIP# EIP IP Meeting  20 Notes
 # EIP# EIP IP Meeting  20 Notes
 ## Meeting Date/Time: Wednesday 4 November at 15:00 UTC
 ### Meeting Duration: 1 hour 30 minuts
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/38)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=m1A3F4v7H4M&feature=youtu.be)
 ### Moderator: Pooja Ranjan
-### Notes: Jim Bennett
+### Notes: Jim Bennett, Brent Allsop
 
 ----
 ## DECISION ITEMS
@@ -13,20 +14,19 @@
 
 **DECISION 20.2**: Meta EIPs will now be called Special EIPs, and only EIP-1 will have a Special state. [see 1:13:04](https://youtu.be/m1A3F4v7H4M?t=4384)
 
-**DECISION 20.3**: If there is a change to the process that is proposed via PR to the EIPs repo, the editors will be tagged on it. And then after two weeks, if none of them have responded, or if the only ones that have responded have responded positively, then we'll go ahead and merge it.  (Micah will be a banevolent dictator in this case.)  [see 58:34](https://youtu.be/m1A3F4v7H4M?t=3524)
+**DECISION 20.3**: If there is a change to the process that is proposed via PR to the EIPs repo, the editors will be tagged on it. And then after two weeks, if none of them have responded, or if the only ones that have responded have responded positively, then we'll go ahead and merge it.  (Micah will be a benevolent dictator in this case.)  [see 58:34](https://youtu.be/m1A3F4v7H4M?t=3524)
 
 ----
-
 
 ## Frequently Asked Questions brought up by the EIP survey
 
 ### 1. How can we clarify what steps EIP authors need to take for their EIP to be included in clients? [starting at 0:32](https://youtu.be/m1A3F4v7H4M?t=32)
 
-** Edson Ayllon **
+**Edson Ayllon**
 This is for core EIPs
 
-** Brent Allsop **
-Descissed a bit about authors "socializing" an EIP, having a petition camp system were authors could know just how many people supported the idea (signed the petiotion), vs people supporting an apposing camp.
+**Brent Allsop**
+Discussed authors "socializing" an EIP, having a petition camp system were authors could know just how many people supported the idea (signed the petition) vs people supporting an opposing camp.
 
 **Micah Zoltu**
 [Starting at 3:58](https://youtu.be/m1A3F4v7H4M?t=238)
@@ -36,21 +36,21 @@ I think the last thing is, I mentioned this in the Peep-an-EIP discussion, keep 
 
 ### 2. How can we make the EIP process more well known? [Starting at 7:17](https://youtu.be/m1A3F4v7H4M?t=437)
 
-** Micah Zoltu **
-My vote is that we don't, too many peole know about the EIP process as it is.  I have way too much work.
+**Micah Zoltu**
+My vote is that we don't, too many people know about the EIP process as it is.  I have way too much work.
 
-** Pooja Ranjan **
-Generally, there are a very small group of people who are actually involved in the writing of an EIP.  Those people are already engaged in ethereum developement.  Most of them attend the All Core Dev meeting.  So if we can get this out with the participants of the All Core Dev Meeting I think that is one place we can start to let people know about this process.  Since we are avoiding any kind of EIP for stating the processes, we can definitly add it in the README section.
+**Pooja Ranjan**
+Generally, there are a very small group of people who are actually involved in the writing of an EIP.  Those people are already engaged in Ethereum development.  Most of them attend the AllCoreDev meeting.  So if we can get this out with the participants of the All Core Dev Meeting, I think that is one place we can start to let people know about this process.  Since we are avoiding any kind of EIP for stating the processes, we can definitely add it in the README section.
 
-** Edson Ayllon **
-To Micah's point, the reason we don't have many editors is because not many people know about the process.  Otherwise there would be more people asking to be editors.
+**Edson Ayllon**
+To Micah's point, the reason we don't have many editors is because not many people know about the process.  Otherwise, there would be more people asking to be editors.
 
-** Micah Zoltu **
-That is fair, but I fear the rate of growth of people wanting to drdaft EIPs will outpace the rate of growth of people wanting to be editors.
-The EIP process is missused by a lot of people, I spend a lot of my day explaining to people why this is not a good EIP.  This thing they want to do is not appropriate for an EIP.  So we need to attract the right people.  We don't have a mechanism to do that, but whatever mechanism we chose, it should attract the right people.
+**Micah Zoltu**
+That is fair, but I fear the rate of growth of people wanting to draft EIPs will outpace the rate of growth of people wanting to be editors.
+The EIP process is misused by a lot of people. I spend a lot of my day explaining to people why this is not a good EIP.  This thing they want to do is not appropriate for an EIP.  So we need to attract the right people.  We don't have a mechanism to do that, but whatever mechanism we chose, it should attract the right people.
 
 [Starting at 10:18](https://youtu.be/m1A3F4v7H4M?t=618)
-Long descussion about the process of network upgrades, much of it duplicated in theses files:
+Long discussion about the process of network upgrades, much of it duplicated in theses files:
 ### https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md
 ### https://github.com/ethereum/EIPs/blob/master/README.md
 ### https://eips.ethereum.org/
@@ -59,26 +59,26 @@ Long descussion about the process of network upgrades, much of it duplicated in 
 
 ### 3. How can the community track progress for EIPs and who has it implemented? [Starting at 23:54](https://youtu.be/m1A3F4v7H4M?t=1434)
 
-** Edson Ayllon **
-This is again, for core EIPs
+**Edson Ayllon**
+This is, again, for core EIPs
 
-** Micah Zoltu **
-I believ that would be the hard fork co-ordination or the eth specs repository.
+**Micah Zoltu**
+I believe that would be the hard fork coordination or the Eth specs repository.
 
-** Pooja Ranjan **
-The current process we have created [2 files](https://github.com/ethereum/eth1.0-specs/tree/master/client-integration-testnets) in the1.0-specs repository for [YOLO v2](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md) and [v3](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv3.md) where you can know what state of developement any client is.  For example Open Ethereum was initially not able to join YOLO v3, but recently they have shared that they, so this fact, along with their progress towards this goal, was tracked in the v3 file.  Like this, the status and progress of all clients is documented in these files.  The progress can be tracked for each YOLO version, before any upgrade.  Which EIPs are included, and their state, can be tracked in these files.
+**Pooja Ranjan**
+The current process we have created [2 files](https://github.com/ethereum/eth1.0-specs/tree/master/client-integration-testnets) in the 1.0-specs repository for [YOLO v2](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md) and [v3](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv3.md) where you can know what state of development any client is.  For example, Open Ethereum was initially not able to join YOLO v3, but recently they have shared that they, so this fact, along with their progress towards this goal, was tracked in the v3 file.  Like this, the status and progress of all clients is documented in these files.  The progress can be tracked for each YOLO version, before any upgrade.  Which EIPs are included, and their state, can be tracked in these files.
 
 ### 4. How can discussions around EIPs be more easily followed? [starting at 30:04](https://youtu.be/m1A3F4v7H4M?t=1804)
 
-Each EIP has a "descussion to" link. If descussions occure elsewhere, a summary of those descussion should be back linked into the indicated descussion to link document to maintain a single source of truth.
+Each EIP has a "discussion to" link. If discussions occur elsewhere, a summary of those discussion should be back linked into the indicated discussion to link document to maintain a single source of truth.
 
 ### 5. How can we keep the attention away from the process, and towards the technical discussion? [starting at 32:32](https://youtu.be/m1A3F4v7H4M?t=1952)
 
-** Micah Zoltu **
+**Micah Zoltu**
 I would love to know the answer to that one.
 
-** Pooja Ranjan **
-If a proposal needs some attention, we have ways for that.  Technical descussion can be kept in a git hub pull request.
+**Pooja Ranjan**
+If a proposal needs some attention, we have ways for that.  Technical discussion can be kept in a Github pull request.
 
 
 ----
