@@ -9,19 +9,81 @@
 ----
 ## DECISION ITEMS
 
-**DECISION 20.1**: We will have a Review state for EIPs.
+**DECISION 20.1**: We will have a Review state for EIPs.  [see](https://youtu.be/m1A3F4v7H4M?t=2926)
 
-**DECISION 20.2**: Meta EIPs will now be called Special EIPs, and only EIP-1 will have a Special state.
+**DECISION 20.2**: Meta EIPs will now be called Special EIPs, and only EIP-1 will have a Special state. [see 1:13:04](https://youtu.be/m1A3F4v7H4M?t=4384)
 
-**DECISION 20.3**: If there is a change to the process that is proposed via PR to the EIPs repo, the editors will be tagged on it. And then after two weeks, if none of them have responded, or if the only ones that have responded have responded positively, then we'll go ahead and merge it.
+**DECISION 20.3**: If there is a change to the process that is proposed via PR to the EIPs repo, the editors will be tagged on it. And then after two weeks, if none of them have responded, or if the only ones that have responded have responded positively, then we'll go ahead and merge it.  (Micah will be a banevolent dictator in this case.)  [see 58:34](https://youtu.be/m1A3F4v7H4M?t=3524)
 
 ----
+
+
+## Frequently Asked Questions brought up by the EIP survey
+
+### 1. How can we clarify what steps EIP authors need to take for their EIP to be included in clients? [starting at 0:32](https://youtu.be/m1A3F4v7H4M?t=32)
+
+** Edson Ayllon **
+This is for core EIPs
+
+** Brent Allsop **
+Descissed a bit about authors "socializing" an EIP, having a petition camp system were authors could know just how many people supported the idea (signed the petiotion), vs people supporting an apposing camp.
 
 **Micah Zoltu**
 [Starting at 3:58](https://youtu.be/m1A3F4v7H4M?t=238)
 I would say to get your EIP at least into Draft. I've seen plenty of people try to bring EIPs to the CoreDevs without it even being in Draft yet. And that's almost certainly not going to work well for you. The other thing I think you can do is, once we institute the Review step, assuming that goes through, then getting it all the way to Review would be most appropriate. The Review stage will, if we go forward with that, indicate that the EIP is ready for general consumption and review. And ideally it means an editor will go through and make sure that everything is structurally sound, well worded, stuff like that. So by the time it gets to review, hopefully, you'll have at least one other person who has looked it over who is familiar with the process and understands how things work and has at least tried to work with you on getting it into a good state.
 
 I think the last thing is, I mentioned this in the Peep-an-EIP discussion, keep your EIP small. Small and short. So change the least possible amount of things in any EIP as you can. And also try to keep the the text to a minimum. While I know it's tempting to write a long essay about why your EIP is great, CoreDevs are very short on time. And having something that's quick for them to scan over and read is very valuable. And this is where the abstract comes in very handy. And simple summary, keeping the simple summary very simple, like one sentence, like a subject line of an email really does help. And the abstract, have it be a human readable and very short version of the specification. So CoreDev who just wants to get an idea of is this something that I support can just read the abstract and be done with it in a minute or two. So if you want to get your EIP merged, that would be my advice. None of this is a guarantee, of course. But I think that's your best bet.
+
+### 2. How can we make the EIP process more well known? [Starting at 7:17](https://youtu.be/m1A3F4v7H4M?t=437)
+
+** Micah Zoltu **
+My vote is that we don't, too many peole know about the EIP process as it is.  I have way too much work.
+
+** Pooja Ranjan **
+Generally, there are a very small group of people who are actually involved in the writing of an EIP.  Those people are already engaged in ethereum developement.  Most of them attend the All Core Dev meeting.  So if we can get this out with the participants of the All Core Dev Meeting I think that is one place we can start to let people know about this process.  Since we are avoiding any kind of EIP for stating the processes, we can definitly add it in the README section.
+
+** Edson Ayllon **
+To Micah's point, the reason we don't have many editors is because not many people know about the process.  Otherwise there would be more people asking to be editors.
+
+** Micah Zoltu **
+That is fair, but I fear the rate of growth of people wanting to drdaft EIPs will outpace the rate of growth of people wanting to be editors.
+The EIP process is missused by a lot of people, I spend a lot of my day explaining to people why this is not a good EIP.  This thing they want to do is not appropriate for an EIP.  So we need to attract the right people.  We don't have a mechanism to do that, but whatever mechanism we chose, it should attract the right people.
+
+[Starting at 10:18](https://youtu.be/m1A3F4v7H4M?t=618)
+Long descussion about the process of network upgrades.
+### https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md
+### https://github.com/ethereum/EIPs/blob/master/README.md
+### https://eips.ethereum.org/
+### https://ethereum.org/en/eips/
+
+
+### 3. How can the community track progress for EIPs and who has it implemented? [Starting at 23:54](https://youtu.be/m1A3F4v7H4M?t=1434)
+
+** Edson Ayllon **
+This is again, for core EIPs
+
+** Micah Zoltu **
+I believ that would be the hard fork co-ordination or the eth specs repository.
+
+** Pooja Ranjan **
+The current process we have created [2 files](https://github.com/ethereum/eth1.0-specs/tree/master/client-integration-testnets) in the1.0-specs repository for [YOLO v2](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md) and [v3](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv3.md) where you can know what state of developement any client is.  For example Open Ethereum was initially not able to join YOLO v3, but recently they have shared that they, so this fact, along with their progress towards this goal, was tracked in the v3 file.  Like this, the status and progress of all clients is documented in these files.  The progress can be tracked for each YOLO version, before any upgrade.  Which EIPs are included, and their state, can be tracked in these files.
+
+### 4. How can discussions around EIPs be more easily followed? [starting at 30:04](https://youtu.be/m1A3F4v7H4M?t=1804)
+
+Each EIP has a "descussion to" link. If descussions occure elsewhere, a summary of those descussion should be back linked into the indicated descussion to link document to maintain a single source of truth.
+
+### 5. How can we keep the attention away from the process, and towards the technical discussion? [starting at 32:32](https://youtu.be/m1A3F4v7H4M?t=1952)
+
+** Micah Zoltu **
+I would love to know the answer to that one.
+
+** Pooja Ranjan **
+If a proposal needs some attention, we have ways for that.  Technical descussion can be kept in a git hub pull request.
+
+
+----
+
+
 
 **Pooja Ranjan**
 [Starting at 1:06:13](https://youtu.be/m1A3F4v7H4M?t=238)
