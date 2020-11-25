@@ -26,7 +26,7 @@ Decision Item | Description
 Hello, everyone. This is EIPIP meeting 15. The first item on the agenda today is network upgrade process. In the previous meeting, we had two different proposals, and we had some discussion on what the network upgrade process should look like. There is an repository - eth1.0/specrepo that has been created to have network specific proposals contained there. We are trying to move EIPs, those that are not directly related to technical specification to network upgrade. The first one was proposed by Edson. Edson, would you like to just give a quick recap and then we can discuss further?
 
 **Edson Ayllon**
-Yeah, so we've been working on improving the network upgrade process. Last time, we looked through different options for hard fork coordination statuses.We decided on a combination of statuses. I can post the [link to it in chat.](https://github.com/ethereum-cat-herders/EIPIP/issues/29 https://gist.github.com/edsonayllon/e9b91a2c3a8e2d4e242cfc236162e106 https://docs.google.com/document/d/18TkCXfsW5Qm4Na1U2Fk-iPcSLpjD6IFbZTlBJfQ1kRI/edit?usp=sharing ) And then during the AllCoreDevs, I presented the EIP statuses. It looks like there wasn't any resistance. There's not much feedback. So I guess the next step would be creating a PR on EIP 1 and then seeing if there's any feedback there, then merging it. So we still need to spec out the process for hard fork coronation since last time it was postponed because James isn't here. James isn't here again. So do you want to postpone this again?
+Yeah, so we've been working on improving the network upgrade process. Last time, we looked through different options for hard fork coordination statuses.We decided on a combination of statuses. I can post the [link to it in chat.](https://github.com/ethereum-cat-herders/EIPIP/issues/29https://gist.github.com/edsonayllon/e9b91a2c3a8e2d4e242cfc236162e106https://docs.google.com/document/d/18TkCXfsW5Qm4Na1U2Fk-iPcSLpjD6IFbZTlBJfQ1kRI/edit?usp=sharing) And then during the AllCoreDevs, I presented the EIP statuses. It looks like there wasn't any resistance. There's not much feedback. So I guess the next step would be creating a PR on EIP 1 and then seeing if there's any feedback there, then merging it. So we still need to spec out the process for hard fork coronation since last time it was postponed because James isn't here. James isn't here again. So do you want to postpone this again?
 
 **Pooja Ranjan**
 I think we can share both the links. And there was another proposal by myself as well. It was just about the process of how we are going to maintain it. And I had a discussion with James offline, and what what he suggested is that we should be talking about the stages that we should be considering for EFI - Eligible For Inclusion - proposals that we are trying to consider here. So if people have different thoughts on how we can categorize these different stages and would like to discuss, I'm happy to open the floor for anyone, if they have any comment
@@ -75,7 +75,7 @@ I feel that should fit in with the new repo that Hudson made for the Eth1.0 spec
 So tell me what that is again? I'm not familiar with that.
 
 **lightclient**
-I'll send a [link in the chat](https://github.com/ethereum/eth1.0-specs ) in just a second. But maybe two meetings ago, Hudson had mentioned that he was going to create a repository focused on network upgrades and separate that from the each repository and he named it Eth1.0specs.
+I'll send a [link in the chat](https://github.com/ethereum/eth1.0-specs) in just a second. But maybe two meetings ago, Hudson had mentioned that he was going to create a repository focused on network upgrades and separate that from the each repository and he named it Eth1.0specs.
 
 **Brent Allsop**
 Okay, cool. Thanks. Thanks for that update.
@@ -83,7 +83,7 @@ Okay, cool. Thanks. Thanks for that update.
 **Pooja Ranjan**
 Adding to this, there are a few comments from my car in the chat box:
 
-"I have a dream where we one day split ERCs from EIPs repository.  But I think that is far in the future.  😊 Historically, everyone participating in Ethereum has actively avoided any kind of power structure, which includes any form of governance. "
+"I have a dream where we one day split ERCs from EIPs repository.  But I think that is far in the future.  😊Historically, everyone participating in Ethereum has actively avoided any kind of power structure, which includes any form of governance."
 
 But I think that even this EIPIP group in itself is a part of governance. We are trying to help out structure as much as possible, discussing everything that may or may not affect the general flow of Ethereum governance.
 
@@ -158,7 +158,7 @@ Would it be possible for you to just [link this EIP in the chat](https://github.
 
 Meanwhile, I would like to read a couple of more comments that we received in the chat about the PR blockage backlog problem. Micah suggested:
 
-"Solution to the EIP PR backlog problem: 1. Add one or two active editors. 2. Go through backlog and start closing PRs and marking EIPs as abandoned."
+"Solution to the EIP PR backlog problem:1. Add one or two active editors.2. Go through backlog and start closing PRs and marking EIPs as abandoned."
 
 Yeah, I think this is what even James was proposing, that we have to start marking that as abandoned. We started this, but we stopped in between, because we were looking for getting clarity on statuses for EIPs. Now that we have it in place, we can restart this process Cat Herders are maintaining a list or where virtual IPS are in draft status and who is reaching to which EIP author to check with him if he would like to pursue that EIP if it has been superseded or we can go ahead and close it as abandoned. So we would like to revive that process. And with that, I hope that this backlog problem could be at least minimized.
 
