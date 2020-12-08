@@ -11,10 +11,15 @@
 ## DECISION ITEMS
 
 **DECISION 22.1**: People on the call agreed that there should be stronger rule for discussion to. A PR will be created to add this in EIP-1 after the next meeting if no strong opinion otherwise.
+
 **DECISION 22.2**: Will be discussed in the next meeting when  James will join.
+
 **DECISION 22.3**: Bring back to the next meeting when Micah is present.
+
 **DECISION 22.4**: Cat Herders will start reaching EIP authors to change the status of the EIP. 
+
 **DECISION 22.5**: Brent would continue looking into it.
+
 **DECISION 22.6**: Publishing will be holded till Edson gets word with James on where to publish. 
 
 ## ACTION ITEMS
