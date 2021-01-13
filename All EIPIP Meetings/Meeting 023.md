@@ -3,7 +3,7 @@
 ### Meeting Duration: 35 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/44)
 ### [Audio/Video of the meeting](https://youtu.be/B8uSDIYznuY)
-### Moderator: Hudson James
+### Moderator: Hudson Jameson
 ### Notes: Jim Bennett
 
 ----
@@ -114,7 +114,7 @@ Okay, let's do one and two.
 
 ## 1. [Handling Retroactive Changes.] (https://github.com/ethereum/eth1.0-specs/issues/12)
 
-Let's do [Item Number One: Handling Retroactive Changes.](https://youtu.be/B8uSDIYznuY?t=678) If you [click on that] (https://github.com/ethereum/eth1.0-specs/issues/12) it goes to an issue in the Eth 1.0 specs where you said there was no dissent in moving EIP 26814 during AllCoreDevs number 101. The problem is, what does that mean? With the separation of EIPs and network upgrades, Final doesn't mean mainnet. Typically, this isn't a major issue, because we can use the upgrade tracker, and once it's scheduled and upgraded, it  is recorded during that transition, the EIP 2681 sets a limit on account nonces retroactively from genesis. Hmm. My guess is that a modification should be made to the yellow paper.
+Let's do [Item Number One: Handling Retroactive Changes.](https://youtu.be/B8uSDIYznuY?t=678) If you [click on that] (https://github.com/ethereum/eth1.0-specs/issues/12) it goes to an issue in the Eth 1.0 specs where you said there was no dissent in moving EIP 2681 during AllCoreDevs number 101. The problem is, what does that mean? With the separation of EIPs and network upgrades, Final doesn't mean mainnet. Typically, this isn't a major issue, because we can use the upgrade tracker, and once it's scheduled and upgraded, it  is recorded during that transition, the EIP 2681 sets a limit on account nonces retroactively from genesis. Hmm. My guess is that a modification should be made to the yellow paper.
 
 **Micah Zoltu**  12:00  
 My feeling on this is that there's a whole set of EIPs that lightclient and Axcic would like to push through and I fully support. I don't think that we need a super formal process for this set at least. And I tend to be hesitant to generate super-formalized processes until they're needed. In this case, I'd say we just mark the EIP as final, and we're done. Updating the yellow paper,  we should probably do as well. And anyone can submit a PR to the yellow paper to do that. And I don't think that would get anyone into any trouble. But I don't know if we need a formal process here. I say just merge to final just like any other EIP, update the yellow paper like any other core EIP, and that's it. We're done.
@@ -248,7 +248,7 @@ Sorry about that.
 That's okay. I'm just playing.
 
 **Pooja Ranjan**  25:38  
-Okay, so a few meetings back, we discussed that there are too many sources for EIPs. Like we have EIP readme, GitHub, and then eips.ethereum.org and then medium.org/EIP. So Brent volunteered to get this information at one place. I think he left some messages on Discord. He was proposing to have a Google Doc to list all of the following sources of EIP truth where we find duplicate parallelism. I'm not sure he is in the meeting today to explain that further.
+Okay, so a few meetings back, we discussed that there are too many sources for EIPs. Like we have EIP readme, GitHub, and then eips.ethereum.org and then ethereum.org/EIPs. So Brent volunteered to get this information at one place. I think he left some messages on Discord. He was proposing to have a Google Doc to list all of the following sources of EIP truth where we find duplicate parallelism. I'm not sure he is in the meeting today to explain that further.
 
 **Brent Allsop**  26:24  
 I'm here.
