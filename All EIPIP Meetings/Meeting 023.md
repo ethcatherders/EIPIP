@@ -11,9 +11,9 @@
 
 **DECISION 23.1**: If you move things to Final, there's not a requirement for the yellow paper to be updated [see](https://youtu.be/B8uSDIYznuY?t=1377)
 
-**DECISION 23.1**: Plan to have someone update the yellow paper or to make another source of truth in bulk in the new year.  [see](https://youtu.be/B8uSDIYznuY?t=1377)
+**DECISION 23.2**: Plan to have someone update the yellow paper or to make another source of truth in bulk in the new year.  [see](https://youtu.be/B8uSDIYznuY?t=1377)
 
-**DECISION 23.5**: Tentative decision to publish EIP status blog & EIP editor roles & responsibilities blog ojn the Cat Herders blog as well as Cat Herders Medium. Waiting for Edson to make a final decision. [see](https://youtu.be/B8uSDIYznuY?t=1860)
+**DECISION 23.3**: Tentative decision to publish EIP status blog & EIP editor roles & responsibilities blog ojn the Cat Herders blog as well as Cat Herders Medium. Waiting for Edson to make a final decision. [see](https://youtu.be/B8uSDIYznuY?t=1860)
 
 ## ACTION ITEMS
 
