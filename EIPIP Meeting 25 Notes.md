@@ -23,7 +23,7 @@
 
 **ACTION 25.4 **: Brent to continue the investigation into sources of EIPs information. [31:36](https://youtu.be/zz1IhYKztuc?t=1896)
 
-**ACTION**: Cat Herders to progress EIP status cleanup. [34:12](https://youtu.be/zz1IhYKztuc?t=2051)
+**ACTION 25.5**: Cat Herders to progress EIP status cleanup. [34:12](https://youtu.be/zz1IhYKztuc?t=2051)
 
 ----
 
