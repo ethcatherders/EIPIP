@@ -21,7 +21,7 @@
 
 **ACTION 25.3**: Cat Herders to consider EIP information for Ethereum.org site. [19:48](https://youtu.be/zz1IhYKztuc?t=1188)
 
-**ACTION**: Brent to continue investigation into sources of EIPs information. [31:36](https://youtu.be/zz1IhYKztuc?t=1896)
+**ACTION 25.4 **: Brent to continue the investigation into sources of EIPs information. [31:36](https://youtu.be/zz1IhYKztuc?t=1896)
 
 **ACTION**: Cat Herders to progress EIP status cleanup. [34:12](https://youtu.be/zz1IhYKztuc?t=2051)
 
