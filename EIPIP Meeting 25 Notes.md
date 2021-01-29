@@ -19,7 +19,7 @@
 
 **ACTION 25.2**: (mainly James) Work out what content we think we should be surfacing on the Eth1.0 spec repo and network upgrades content for Ethtereum.org, and then speak to Thomas and Sam for their views. [18:28](https://youtu.be/zz1IhYKztuc?t=1108)
 
-**ACTION**: Cat Herders to consider EIP information for Ethereum.org site. [19:48](https://youtu.be/zz1IhYKztuc?t=1188)
+**ACTION 25.3**: Cat Herders to consider EIP information for Ethereum.org site. [19:48](https://youtu.be/zz1IhYKztuc?t=1188)
 
 **ACTION**: Brent to continue investigation into sources of EIPs information. [31:36](https://youtu.be/zz1IhYKztuc?t=1896)
 
