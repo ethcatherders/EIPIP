@@ -15,7 +15,7 @@
 
 ## ACTION ITEMS
 
-**ACTION**: Confirm with Sam @ ethereum.org whether the intention is to have ethereum.org point to the Eth1.0 specs repo, or vice versa. Where does the canonical content live? [6:14](https://youtu.be/zz1IhYKztuc?t=374)
+**ACTION 25.1**: Confirm with Sam @ ethereum.org whether the intention is to have ethereum.org point to the Eth1.0 specs repo, or vice versa. Where does the canonical content live? [6:14](https://youtu.be/zz1IhYKztuc?t=374)
 
 **ACTION**: (mainly James) Work out what content we think we should be surfacing on the Eth1.0 spec repo and network upgrades content for Ethtereum.org, and then speak to Thomas and Sam for their views. [18:28](https://youtu.be/zz1IhYKztuc?t=1108)
 
