@@ -182,7 +182,7 @@ Anyways, I think we're done with that topic.
 
 **Hudson**  - Yeah that would be helpful for a cat herders decision. Micah do you have any ideas or anybody else in the call?
 
-**Micah** - Eestimating software is the hardest job in the world. So relative to building an ethereum client this is a trivial task. This is one of those things like it depends on the skill level you hire and whether the person already has at least some knowledge of how this works. If you were to hire lightclient or me it would be an easier job than if you've hired some stranger but i think lightclient and me both are going to be more expensive and have little time available. If anyone wants to interrupt me please do. 
+**Micah** - Estimating software is the hardest job in the world. So relative to building an ethereum client this is a trivial task. This is one of those things like it depends on the skill level you hire and whether the person already has at least some knowledge of how this works. If you were to hire lightclient or me it would be an easier job than if you've hired some stranger but i think lightclient and me both are going to be more expensive and have little time available. If anyone wants to interrupt me please do. 
 
 **James** - Do you a rough sense of how many days that would be?
 
