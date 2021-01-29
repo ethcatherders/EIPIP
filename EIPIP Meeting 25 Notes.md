@@ -11,7 +11,7 @@
 
 **DECISION 25.1**: The new Cat Herders website should focus on being an index/intro rather than an in-depth content repository. It should point to canonical sources elsewhere (eg Eth1.0 specs repo, Ethereum.org) to avoid duplication [16:03](https://youtu.be/zz1IhYKztuc?t=963)
 
-**DECISION**: Consensus that offering a gitcoin bounty of 7000USD for 1 months work for a contractor to move the merge bot to GitHub actions is a good idea. This to be followed up on next Cat Herders call. [29:43](https://youtu.be/zz1IhYKztuc?t=1783)
+**DECISION 25.2**: Consensus that offering a gitcoin bounty of 7000USD for 1 month of work for a contractor to move the merge bot to GitHub actions is a good idea. This to be followed up on the next Cat Herders call. [29:43](https://youtu.be/zz1IhYKztuc?t=1783)
 
 ## ACTION ITEMS
 
