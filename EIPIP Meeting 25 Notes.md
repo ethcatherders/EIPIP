@@ -238,7 +238,7 @@ Anyways, I think we're done with that topic.
 
 **Pooja** - Okay, so moving on the next item is eip status change update. The cat herders have been working with eip authors for the proposals which are in a draft status or maybe not in the correct status even if it is in like in review. In the last call it is more than a month or so so we are trying to reach out to those authors and asking them to change their status. So we made some progress i think. At least three of the eips we closed last week. By close i mean that it wasn't draft status, now they are in review. For berlin eip i think there are three eips which are still in draft and that they that they need to move into review status. If there is no change done by the author this week  we will be creating a pull request to change it to review. The eips are eip2718 eip2929 and eip2315. All these three are in draft so we would like to have that in review.
 
-Other than that with the help of p penny series we interacted with quite a few authors and we suggested them to make a request to move on their eip from draft to review but there are quite a few which haven't created any pull requeste yet. If they are not done by the end of next week cat headers will be reaching out to them and try to create a pull request to change the status.
+Other than that with the help of Peep an EIP series, we interacted with quite a few authors and we suggested them to make a request to move on their eip from draft to review but there are quite a few which haven't created any pull request yet. If they are not done by the end of next week cat headers will be reaching out to them and try to create a pull request to change the status.
 
 **Micah** - I'm excited for the cleanup.
 
