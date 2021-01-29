@@ -11,7 +11,7 @@
 
 **DECISION**: The new Cat Herders website should focus on being an index/intro rather than an in-depth content repository. It should point to canonical sources elsewhere (eg Eth1.0 specs repo, Ethereum.org) to avoid duplication [16:03](https://youtu.be/zz1IhYKztuc?t=963)
 
-**Decision**: Consensus that offering a gitcoin bounty of 7000USD for 1 months work for a contractor to move the merge bot to GitHub actions is a good idea. This to be followed up on next Cat Herders call. [29:43](https://youtu.be/zz1IhYKztuc?t=1783)
+**DECISION**: Consensus that offering a gitcoin bounty of 7000USD for 1 months work for a contractor to move the merge bot to GitHub actions is a good idea. This to be followed up on next Cat Herders call. [29:43](https://youtu.be/zz1IhYKztuc?t=1783)
 
 ## ACTION ITEMS
 
@@ -70,7 +70,7 @@
 
 **James**  - the ether1.0 specs or if...
 
-**Hudson** yes specs or the ethereum dot org 1.0 page
+**Hudson** - yes specs or the ethereum dot org 1.0 page
 
 [unclear audio]
 
@@ -158,15 +158,13 @@ Anyways, I think we're done with that topic.
 
 **James** - Yeah that makes sense. We can do that.
 
-**Pooja** And there was another sub part of this item... it was the possibility of creating bounty. I'm not sure if this is something that we will consider on later part when we get more clarity on how much effort has to be put on the advanced pack repo. Am I correct to think that?
+**Pooja** - And there was another sub part of this item... it was the possibility of creating bounty. I'm not sure if this is something that we will consider on later part when we get more clarity on how much effort has to be put on the advanced pack repo. Am I correct to think that?
 
 **Hudson** - I think so.
 
-**James** - Yeah. That's kind of revolving. I think it depends on what gets left out from these groups that are working on
+**James** - Yeah. That's kind of revolving. I think it depends on what gets left out from these groups that are working on stuff.
 
-stuff.
-
-**Pooja** okay okay sounds good to me. 
+**Pooja** - Okay sounds good to me. 
 
 # 2. Contracting out to someone to move the bot to GitHub actions
 
