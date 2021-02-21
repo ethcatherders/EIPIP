@@ -10,6 +10,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
+  26 | Wednesday, February 10, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/50)    | [Notes](All%20EIPIP%20Meetings/Meeting%20026.md) | [Video](https://www.youtube.com/watch?v=XrkTATjdn6s) |
   23 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/44)    | [Notes](All%20EIPIP%20Meetings/Meeting%20023.md) | [Video](https://www.youtube.com/watch?v=B8uSDIYznuY) |
   22 | Wednesday, December 2, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/43)    | [Notes](All%20EIPIP%20Meetings/Meeting%20022.md) | [Video](https://www.youtube.com/watch?v=FUEaz9YrP0g) |
   21 | Wednesday, November 18, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/39)    | [Notes](All%20EIPIP%20Meetings/Meeting%20021.md) | [Video](https://www.youtube.com/watch?v=fJ762_NI2EU) |
