@@ -21,7 +21,7 @@ Welcome to EIPIP meeting 28. I'm Pooja Ranjan.
 ## AGENDA
 
 ## 1. [Progress on EIP GitHub repo action bot](https://youtu.be/fKQVb-s0Tzs?t=4)
-The first item on the agenda is progress on EIP GitHub repo action bot. So a little more from the ECH team is working on the EIP GitHub repo. And I suppose she also created a pull requests to share this bot for review with the EIP editors. The pull request number is 3351. If there is any other update on the progress and concern with the bot that anyone would like to share in development of this effort, feel free to share, because I don't see any data here. But I have seen some comments left by the editors on the issue.
+The first item on the agenda is progress on EIP GitHub repo action bot. So, Alita Moore from the ECH team is working on the EIP GitHub repo. And I suppose she also created a pull requests to share this bot for review with the EIP editors. The pull request number is 3351. If there is any other update on the progress and concern with the bot that anyone would like to share in development of this effort, feel free to share, because I don't see Alita here. But I have seen some comments left by the editors on the issue.
 
 **Hudson Jameson**
 I heard it's almost done. But I haven't looked at the code myself.
@@ -191,7 +191,7 @@ So I think the real problem here is this. In my experience, the vast majority of
 I would lean toward this to help with the fact that to basically stick with somewhat of the status quo, but to try to also push best practices would be to keep Last Call's definition as is, pretty much, because it doesn't include all the security vulnerabilities right now and move it to DevNet phase. And then public testnet doesn't include an EIP status beyond... but then that leaves public testnets to not have an EIP status. That's the problem, I guess. Yeah.
 
 **Pooja Ranjan**
-One more thing I would like to add here is generally, the definition of Last Call for that is [unclear](https://youtu.be/fKQVb-s0Tzs?t=1128). So one correction there would be a minimum of 14 days would be good. But you know, if they want to keep it in Last Call for over a month, because when it is on testnet, they believe it is like [unclear](https://youtu.be/fKQVb-s0Tzs?t=1139). So I am not very sure that we should put the Last Call status in DevNet phase.
+One more thing I would like to add here is generally, the definition of Last Call suggests it stays there for 14 days.  So one correction there would be a minimum of 14 days would be good. But you know, if we want to keep it in Last Call for over a month, because when it is on testnet, I believe it is like four weeks at least. So I am not very sure that we should put the Last Call status in the DevNet phase.
 
 **Micah**
 I would be fine with getting rid of that 14 day thing. I've never really liked it personally.
@@ -251,7 +251,7 @@ Yeah, I mean, I haven't really experienced that. So obviously my take is going t
 
 **Micah**
 So my opinion on the last point is that I think the real issue here is that people are using the EIP as the center point. And I don't feel like it should be. The EIP should be a technical detail, not the the center point. And unfortunately, this is not how things been handled historically at all. This is very much not how things are actually done. But I do think that it'd be great if instead of when someone wants to ask what is this new fee change, they don't go look up or get linked to EIP 1559. They get linked to the resources page that Tim put up. It has links to some blog posts; it has links to Berlin hard fork; it has descriptions of the EIP designed for certain audiences. It's not just the technical specification. I feel the vast majority of people, the technical specification is not the right place for them to start learning about an EIP or talking about an EIP or anything like that. It's one of those things where there's 10 people who actually read the RFC for email addresses. But no one goes to the email RFC to learn about email or learn about how to send an email or how to use email or anything like that. There are probably a few hundred people in the world who have ever actually read that RFC front to back. I would like if we can get there, but maybe I'm being overly optimistic. Just an optimistic goal.
-3
+
 **lightclient**
 I totally understand that and definitely agree that that's probably the long term goal. I just don't think that we are close to that. I think that the number of people who are really involved in this process are still, I mean, it's so ingrained that if you're working on a low level of Ethereum, you're gonna go look at the EIP repository to understand changes. And we just don't have the resources to have every single change have a resource page and have write-ups and all of these things. And it's just a lot to ask for every single EIP to have that many resources. So that's why I feel like in the short to medium term, we should keep things small.
 
@@ -377,7 +377,7 @@ So we're gonna do it tomorrow then.
 Yeah, I don't know. So it would be people who actually look at ERCs are me and, in theory, more EIP editors that are very few and far between, and then there are the authors of those ERCs themselves. And then once the ERCs get popular, there are the people who are looking at them to implement. Those are the three people I have seen show up in the EIPs repo related to ERCs. These are the three types of people.
 
 **Pooja Ranjan**
-I have been looking at it recently just only for one thing - if there is a status review or they are trying to escape it right from Draft the last column. That's my only comment for any ERC that I have logged into so far. Maybe this is something that we could bring it on the next call and as an item itself. Do we want to separate the EIP and ERC, if people are open to discuss that.
+I have been looking at it recently just only for one thing - if there is a status review or they are trying to escape it right from Draft the last call. That's my only comment for any ERC that I have looked into so far. Maybe this is something that we could bring it on the next call and as an item itself. Do we want to separate the EIP and ERC, if people are open to discuss that.
 
 **Micah**
 Sure. Just so people can chew on it, the reason I want them separated and not just say, Micah reviews core EIPs and someone else reviews ERCs is that GitHub subscriptions. I subscribe to the entire EIPs repository. I to get an email notification for everything. And right now that is about half ERCs. And it'd be nice if I could not subscribe to the ERC half. And I don't believe there's an easy way to do that without splitting out into a separate repository.
@@ -437,7 +437,7 @@ Yeah, there are a lot of things that are wrong with it, which admittedly, writin
 
 **Micah**
 So my feeling is that one, two weeks aligns with where my gut was, just kind of looking over your shoulder. That's what the order of magnitude is. This is almost a question of should you test your test sweep? Because the bot is effectively just a kind of a test runner that is supposed to building an automated CI process? and spending one to two weeks? We can definitely test your tests. It's just a question of is it worth the time. The time be better spent making the bot actually do better, making it do more things. There's a list of things we'd rather have the bot do. We have one or two weeks of engineering time. We can either sink it on making sure that the bot is robust, or we can sink it on making the bot more feature rich, and I'm on the fence as to which is more valuable.
-3
+
 **lightclient**
 I would like to see just a couple of really basic tests of the EIP-checking functionality just to make sure that, okay, for these simple cases, this makes sense, you know, did they change the status to review? If so, then that means the EIP editor - I don't know what the control flow exactly is, but just a handful of tests. I don't expect every edge case to be tested, but just a few sanity checks would be valuable, and then having the structure for writing other tests in the future would be nice.
 
@@ -503,7 +503,7 @@ Because we're short on time, I wanted to hop on one other thing. Did you all wan
 M
 **Micah**
 I'm on the fence. Lightclient half convinced me. The plus side of having it in the EIPs repo is that it's right there. And the same people who have write access to the EIPs repo would have write access to the bot. So when we, the people who have write access to that repo, notice it doing something wrong, or we want to make a quick patch, we know we have permissions. And so if we add new editors, those editors will automatically get the access rights. Having a separate repo is just like a modularity and keeping separation of concerns. That doesn't make more sense. In that regard, I'm on the fence. If other people have really strong problems, it's definitely one down on either side.
-3
+
 **lightclient**
 I feel pretty strong that it should be in its own repo. I think it's several thousand lines of code. And I don't really want to mix a bunch of PRs between the two things.
 
@@ -548,4 +548,4 @@ See you all and still on March 24. Thank you.
 
 
 
-# Date for Next Meeting: November 18 at 1500 UTC
+# Date for Next Meeting: amrch 24 at 1500 UTC
