@@ -548,4 +548,4 @@ See you all and still on March 24. Thank you.
 
 
 
-# Date for Next Meeting: amrch 24 at 1500 UTC
+# Date for Next Meeting: March 24 at 1500 UTC
