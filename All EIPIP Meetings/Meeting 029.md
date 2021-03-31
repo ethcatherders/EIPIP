@@ -1,3 +1,33 @@
+# EIPIP Meeting 29 Notes
+## Meeting Date/Time: Wednesday 24 March at 15:00 UTC
+### Meeting Duration: 1 hour
+### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/57)
+### [Audio/Video of the meeting](https://youtu.be/CD3LCpeQX8w)
+### Moderator: Pooja Ranjan
+### Notes: Alita Moore
+
+----
+## DECISION ITEMS
+
+**DECISION 1**: cfi for draft, network upgrade for review, and the main-net phase in last call; EIPs will be marked as final only if it is deployed on the mainnet 
+
+**DECISION 2**: split editorship between ERC and EIP, split out to seperate repos
+
+
+**DECISION 3**: Allow bot to fail if it was going to merge (to be turned on at a later date)
+
+**DECISION 4**: Define JSON RPC in specs repo
+
+**DECISION 5**: Create a new repository that's just for interfaces instead of migrating to eth2 specs repo
+
+## ACTION ITEMS
+
+**ACTION 1**: decide on numbering system between ERC and EIP
+
+**ACTION 2**: Create issue on EIPIP repo to seperate ERC and EIP repos -- with description for EIP bot requirements
+
+----
+
 # 1. Network upgrade process review
 Video | [0:20](https://youtu.be/CD3LCpeQX8w?t=20)
 
@@ -203,7 +233,7 @@ Video | [29:37](https://youtu.be/CD3LCpeQX8w?t=1777)
 
 Decision 3
 
-    Allow bot to fail if it was going to merge
+    Allow bot to fail if it was going to merge (to be turned on at a later date)
 
 **Micah** - what if we just have the bot set up to always run but take away its ability to merge and then just have it when it runs it will just do like a green red or yellow in the ci section like you know how the ci at the bottom says green green red or yellow if we can just have it go green or red then i'll at least see did the the bot think it wanted to merge or to think that it shouldn't merge then we can do run that for like a week or two and then if it looks like it's correctly going green and correctly going red at the appropriate times then we'll flip the switch and if and actually enable merges and if not we can fix whatever bugs 
 
@@ -326,3 +356,15 @@ Video | [56:46](https://youtu.be/CD3LCpeQX8w?t=3406)
 **Brent** - okay yeah yeah we have made a little bit of progress we got one of our engineers got the jekyll system running on his personal system and now we're moving that to a public system and once we get that up and running then we'll have a staging area where we can stage proposed changes so don't have a lot of time but we're making some progress 
 
 **Pooja** - sounds good um so i know many people have to drop now to join the other call and we have almost had the time so thank you everyone for joining us today see you all in next uh two week on april 7th and the timing will be 15 1500 utc will be back on our uh usual timing thank you everyone for joining thanks see you later thanks 
+
+# Attendees
+
+* Pooja Ranjan
+* Hudson Jameson
+* Brent Allsop
+* Micah Zoltu
+* Lightclient
+* Erik Marks
+* Alita Moore
+
+# Date for Next Meeting: April 7th at 1500 UTC
