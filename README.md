@@ -1,5 +1,3 @@
-24## EIP Improvement Process
-
 ### Purpose
 The EIPIP meeting is a regularly-scheduled process improvement meeting intended to bring together experienced developers and experts to facilitate the [Ethereum Improvement Proposal](https://github.com/ethereum/EIPs) improvement process.
 
