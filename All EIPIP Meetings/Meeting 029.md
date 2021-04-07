@@ -9,10 +9,9 @@
 ----
 ## DECISION ITEMS
 
-**DECISION 1**: cfi for draft, network upgrade for review, and the main-net phase in last call; EIPs will be marked as final only if it is deployed on the mainnet 
+**DECISION 1**: CFI (draft), Devnet (review), and the main-net phase in last call; EIPs will be marked as final only if it is deployed on the mainnet 
 
 **DECISION 2**: split editorship between ERC and EIP, split out to seperate repos
-
 
 **DECISION 3**: Allow bot to fail if it was going to merge (to be turned on at a later date)
 
