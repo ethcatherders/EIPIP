@@ -1,4 +1,4 @@
-# EIPIP Meeting 60 Notes 
+# EIPIP Meeting 30 Notes 
 
 ### Meeting Date/Time: Wednesday 2021/04/07 at 14:00 UTC 
 ### Meeting Duration:  55 min 
