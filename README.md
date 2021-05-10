@@ -1,5 +1,3 @@
-## EIP Improvement Process
-
 ### Purpose
 The EIPIP meeting is a regularly-scheduled process improvement meeting intended to bring together experienced developers and experts to facilitate the [Ethereum Improvement Proposal](https://github.com/ethereum/EIPs) improvement process.
 
@@ -10,6 +8,12 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
+31 | Wednesday, April 21, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/65)    | [Notes](All%20EIPIP%20Meetings/Meeting%20031.md) | [Video](https://www.youtube.com/watch?v=n1E1dreOMFE) |
+  28 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/56)    | [Notes](All%20EIPIP%20Meetings/Meeting%20028.md) | [Video](https://www.youtube.com/watch?v=fKQVb-s0Tzs) |
+  27 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/54)    | [Notes](All%20EIPIP%20Meetings/Meeting%20027.md) | [Video](https://www.youtube.com/watch?v=nyW-5Y3elOs) |
+  26 | Wednesday, February 10, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/50)    | [Notes](All%20EIPIP%20Meetings/Meeting%20026.md) | [Video](https://www.youtube.com/watch?v=XrkTATjdn6s) |
+  25 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/48)    | [Notes](All%20EIPIP%20Meetings/Meeting%20025.md) | [Video](https://www.youtube.com/watch?v=zz1IhYKztuc) |
+  24 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/47)    | [Notes](All%20EIPIP%20Meetings/Meeting%20024.md) | [Video](https://www.youtube.com/watch?v=PKayglbWpAs) |
   23 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/44)    | [Notes](All%20EIPIP%20Meetings/Meeting%20023.md) | [Video](https://www.youtube.com/watch?v=B8uSDIYznuY) |
   22 | Wednesday, December 2, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/43)    | [Notes](All%20EIPIP%20Meetings/Meeting%20022.md) | [Video](https://www.youtube.com/watch?v=FUEaz9YrP0g) |
   21 | Wednesday, November 18, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/39)    | [Notes](All%20EIPIP%20Meetings/Meeting%20021.md) | [Video](https://www.youtube.com/watch?v=fJ762_NI2EU) |
