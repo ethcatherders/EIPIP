@@ -5,7 +5,7 @@
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/70)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=7pPyXnlAAjs)
-### Moderator: Hudson Jameson
+### Moderator: Pooja Ranjan
 ### Notes: Avishek Kumar
 
 ----
