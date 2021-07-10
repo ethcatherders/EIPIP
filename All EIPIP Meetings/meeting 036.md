@@ -23,7 +23,9 @@
 | **5**   | Time limitation will outsource to community for issues. | 
 
 ## Meeting Notes
-**Pooja Ranjan**( Evolving EIP process)
+### Evolving EIP process
+**Pooja Ranjan**
+
 All right welcome to eipip meeting 36. I have shared the agenda in the chat and the first item on the agenda is evolving EIP process so we have been discussing this from the past few meetings and I wanted to bring it up to this meeting particularly as an agenda item so we can discuss how we are looking into the changes that can be expected with the merge and like future upgrades so yeah I like that if you would like to go ahead and share your thoughts on it.
 
 **Lightclient**
