@@ -311,7 +311,9 @@ Yeah that's a time issue for me I need to fork myself but I haven't got it's sti
 **Brent**
  yeah  let's try it at least one more meeting and i'll try and get something before the next meeting.
  
-**Pooja**(review action items-44:30)
+### Review action items
+**Pooja** (44:30)
+
  all right no worries okay uh so now we are on the last item it's review action items from the previous meeting um there are a couple of tasks that were like coming on from this meeting I just want to quickly have a like if there is any update the one is eip draft banner um are we done with that task or how is it going.
  
 **Alita**
