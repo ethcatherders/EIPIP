@@ -5,7 +5,8 @@
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=wt7EB8MujgA&ab_channel=EthereumCatHerders)
 ### Moderator: Pooja Ranjan
 ### Notes: David Schirmer
-## Action items
+## Agenda items
+
 | Action Item | Description | Video ref |
 | ------------- | ----------- | --------- |
 | **1**   | Evolving EIP process | [0:15](https://youtu.be/wt7EB8MujgA?t=21) |
