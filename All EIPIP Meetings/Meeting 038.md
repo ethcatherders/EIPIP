@@ -3,7 +3,7 @@
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/79)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=0zHXZhxs7IA)
-### Moderator: Hudson Jameson
+### Moderator: Pooja Ranjan
 ### Notes: Avishek Kumar
 
 ----
@@ -21,7 +21,7 @@
 
 **Micah Zoltu**: Really quick before we get started. If Tim has to leave early. Is there anything we want to move to the front of the list to make sure we get his feedback on.
 
-# Core EIP - changes wrt to the [Consensus Specification](https://github.com/ethereum/eth1.0-specs#consensus-specification-work-in-progress) & the Merge 
+### Core EIP - changes wrt to the [Consensus Specification](https://github.com/ethereum/eth1.0-specs#consensus-specification-work-in-progress) & the Merge 
 
 **Pooja Ranjan**: In my opinion yes first this item like core EIP processor will be changed so that is something we can use okay.
 
@@ -39,7 +39,7 @@
 
 **Pooja Ranjan**:  Oh! That's great. All right, that's about core eip. I am iot sure if we have any more clarity at this point of time. Yeah if anyone would like to add anything otherwise we can move on to the interface one
 
-# [Interface EIP]( https://github.com/ethereum-cat-herders/EIPIP/issues/7) 
+### [Interface EIP]( https://github.com/ethereum-cat-herders/EIPIP/issues/7) 
 
 **Pooja Rajan**: Okay similar to core EIP, I know there is some work which is even being put in for the interface EIP. We did discuss yesterday within the meeting that eip editors training meeting in general. How do we see interface eip in future. Right now I see quite a lot
 eip which are in draft status and review we just have a handful of. I think seven or eight eips as finance so do we want to keep interface eips as it is or we do have to deprecate that in future.
@@ -77,7 +77,7 @@ different proposals. We can have a banner for this particular category written h
 
 **Pooja Ranjan**: Great I will first prepare that list and then will get reviewed with one of the editors and then will create an issue and work with help of the community to start working on this type of particular  category of eips.
 
-# [Networking EIP](https://eips.ethereum.org/networking)
+### [Networking EIP](https://eips.ethereum.org/networking)
 
 **Pooja Ranjan**: All right moving on to the networking eips so I talk to a few authors and have created respective pull requests to move these proposals into the right status. I think there are only a few left in the review status and draft 86 have created a good request today to move it to the last call. Other two Danny  responded by saying that it depends upon the get
 the team and I know Micah also has said that. So I have left a note for Felix and am waiting for his response. The eip is in draft I am not sure. I left some  comments for Peter. We will wait for his response if not it can be superseded because we are moving ahead with
@@ -85,7 +85,7 @@ each 66. Does it make sense to move it with the superseded with 66.
 
 **Micah**: No for two reasons, one I think we dropped superseded because it's too opinionated and  two I believe e66 actually depends on e65 and so technically let me verify that. I am pretty sure yeah e66 depend it requires  e65 requires e64. So technically we shouldn't even have moved 66 to the last call or to review because 65 and 64 are still draft. Those ones should be moved at least at the same time if not first.
 
-****: Does 66 depend on 65?
+**Lightclient**: Does 66 depend on 65?
 
 **Pooja Ranjan**: Yeah they mention it in the proposal.
 
@@ -94,7 +94,7 @@ each 66. Does it make sense to move it with the superseded with 66.
 **Pooja Ranjan**:  Okay  so what I can do is like I can create a full request to move it to review status for 64 and 65 and maybe then ask the author to approve it. We have  already created requests  for 66 to move to the last call we have 14 days. We will try to sort this
 issue within this period of time before moving it into the final status. That is about 1459. They know about the discovery by DNS. I think Felix would be the best person to comment on it. okay I will check with him one more time. All right I think this particular category seems to be in very good shape like this is under control. Proposals are mostly in the right or appropriate status. There are very few proposals in fact and it is manageable good to know that.
 
-# ERCs - revisiting to access the need for process change
+### ERCs - revisiting to access the need for process change
 
 **Pooja Ranjan**: About the last category years erc a few months back we decided to leave 
 as it is and revisit after a few months to see if this needs a process change. Just wanted to have a quick check with the group like do we still feel that the way it is moving is fine. We can just use the github labels to address erc's or the process that we discussed earlier. Should we try implementing it?
@@ -107,11 +107,11 @@ makes sense. Especially in terms of taking their numbers and the process like ha
 
 **Micah Zoltu**: If we think that we will see a switch over to the f1 specs like the python specification within the next 12 months then I can probably be swayed to give up on getting erc's out because when that happens I will just stop paying attention to the eips repository. I think for me the issue is I am not confident that within the next 12 months. We will be off of the eip's repository. Does anyone have inside information that I am not privy to that would help convince me.
 
-** **: I mean we will have a spec written within the next 12 months and it's a matter of for people wanting to switch to it and I think they will but it's not given
+**Lighclient**: I mean we will have a spec written within the next 12 months and it's a matter of for people wanting to switch to it and I think they will but it's not given
 
 **Micah Zoltu**: Where would one go to follow along with the progress of that
 
-** **: The eth 1.0 specs repository. I think the link is there in the consensus specification I mentioned in this particular item.
+**Pooja**: The eth 1.0 specs repository. I think the link is there in the consensus specification I mentioned in this particular item.
 
 **Micah Zoltu**: Oh is it just being written right there?
 
@@ -250,13 +250,13 @@ anyone  and Micah if you guys have any thoughts or suggestions on it .
 
 **Pooja Ranjan**: The last item on the agenda is to review action items from the previous meeting. Unfortunately the previous meeting  we did not have the recording it was a very small meeting and we have covered most of the items that we discussed there. Yeah I think we covered almost all of them
 
-# [EIP draft banner](https://discordapp.com/channels/595666850260713488/746566142700814426/849726116980981760)
+### [EIP draft banner](https://discordapp.com/channels/595666850260713488/746566142700814426/849726116980981760)
 
 **Pooja Ranjan**: The sub item is eap draft banner a shout out to felt a discord user who took up this issue and have submitted the pull request which is actually merged right now. We have this banner available on eips.ethereum.org about every proposal like what is the
 current status of the proposal and what is the expectation with it. If there is any change expected or people or it is ready for people to use it so thank you so much for submitting the
 request for that.
 
-# A bot tracking inactivity period and changing the state of the proposal [Ref issue #73](https://github.com/ethereum-cat-herders/EIPIP/issues/73) 
+### A bot tracking inactivity period and changing the state of the proposal [Ref issue #73](https://github.com/ethereum-cat-herders/EIPIP/issues/73) 
 
 **Pooja Ranjan**: The another sub item is bot tracking inactivity period and changing
 the state of the proposal that is still open. Alita mentioned in the ethereum meeting that she would be looking into this issue and we will try to get it done this month so I will wait for her response to finish it up but there is one thing that I found on a bot's comment, if I remember correctly the agreement was for over 90 days period. Right?  If  any proposal or any pull request is inactive for three months or more then the bot should be sending a message that this will be closed soon. I don't know if I saw somewhere it is two months or something like that so does anyone remember what was the decided period there. Maybe I will go back and check in eip1 because two months seems like a very small duration. Generally any proposal or pull request takes some time for review for people to comment if that is not a very hard proposal. So you might want to keep it open for a little longer if that has.
@@ -269,8 +269,8 @@ repository for a very very long time. But having said that we should have a dece
 ---------------------------------------
 # Attendees
 
-* Hudson Jameson (Host)
-*  Danny
+* Lightclient
+* Tim Beiko
 * Micah Zoltu
 * Pooja Ranjan
 * Brent Allsop
