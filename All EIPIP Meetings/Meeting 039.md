@@ -13,12 +13,12 @@
 
 **DECISION 39.2**: Put the limit account nonce EIP on the next AllCoreDev agenda. [see 15:59](https://youtu.be/CYX0BzZKPH0?t=1070)
 
-**DECISION 39.3**: Document in EIP 1 and in the EIP template not to have authors put the EIP number in the title [see 24:10](https://youtu.be/fKQVb-s0Tzs?t=1959)
+**DECISION 39.3**: Document in EIP-1 and in the EIP template not to have authors put the EIP number in the title [see 24:10](https://youtu.be/fKQVb-s0Tzs?t=1959)
 ----
 
 ## AGENDA
 
-## 1. [1. Network upgrade version release process & documentation](https://www.youtube.com/watch?v=eo90AIGv3jw&list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw)
+## 1. [Network upgrade version release process & documentation](https://www.youtube.com/watch?v=eo90AIGv3jw&list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw)
 
 **Pooja/ECH**
 Welcome to EIPIP meeting 39. I have shared the agenda in chat. And the first item on the agenda is Network upgrade [version release](https://github.com/ethereum/eth1.0-specs/issues/290) process & documentation. So I found this item in the Eth 1.0 specs repository in the Issues section and the issue number is 290. It generally has received positive feedback, and people seem to be in agreement about the version release time. There should be cautionary for network upgrades. Wondering if people would like to discuss this. Is it an agreed-upon process for it? That's number one. And number two is, if there is, where can it be documented or where people can follow along?
@@ -35,7 +35,7 @@ Yeah, I think the ETh 1.0 spec is the best place, and in the next few months, th
 **Pooja/ECH**  
 All right. Maybe we can revisit it after a couple of weeks if there is any progress. My best guess would be it should be README of off Eth 1.0 spec where you can follow and find more information if there is any process in place or if there is any formal agreement. But as Tim mentioned, this is too early for an announcement, so we will come back on this topic after three weeks.
 
-#2 [EIP/ERC editors (in-training) progress](https://youtu.be/eo90AIGv3jw?t=182)
+# 2 [EIP/ERC editors (in-training) progress](https://youtu.be/eo90AIGv3jw?t=182)
 Moving on, the next item on the agenda is EIP/ERC editors (in-training) progress. So yesterday, William Sharpe, I, and Matt Canard, we had this meeting for an in-training meeting. This was the third one in a row. We went over more than five proposals. And after a few discussions, lightclient added comments on all of them. So we came across a few topics or issues we can say that we would like to bring to the attention of a broader audience. The number one was EIPs marked as Final while there is an open pull request for the proposal. So this issue was identified for two proposals. So both the proposals were Final, and we came across that there was an open pull request, which was mentioned earlier, or we could have addressed. So we were wondering if this can be resolved with the help of a feature addition to the existing bot. For that, my suggestion was if if there is a pull request to change the status to Final, the bot makes a quick check in to all open pull requests to list if there is any other pull request for that particular proposal. And if so, then send a warning message to the editor as well as to the author with the list stating that this cannot be moved to Final because there is an open pull request that needs to be closed before merging this proposal to Final. I'm curious to know, what do people think in general? Is it something worth spending time and effort and getting it done? Or is it something that is very rare, and it should be managed manually by the EIP editor?
 
 **Micah Zoltu**
@@ -224,4 +224,4 @@ Well, if not, then we I think we can give everyone 30 minutes back. We are endin
 
 
 
-# Date for Next Meeting: March 30 at 1500 UTC
+# Date for Next Meeting: Aug 25,2021 at 1500 UTC
