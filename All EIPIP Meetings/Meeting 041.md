@@ -1,5 +1,5 @@
 # EIP Improvement Process Call #41 Notes  <!-- omit in toc -->
-### Meeting Date/Time: Wednesday, Apr 21, 2021 at 15:00 UTC <!-- omit in toc -->
+### Meeting Date/Time: Wednesday, Sep 23, 2021 at 15:00 UTC <!-- omit in toc -->
 ### Meeting Duration: 1 hr <!-- omit in toc -->
 ### [Audio/Video of the meeting](https://youtu.be/54j6VK6ska0) <!-- omit in toc -->
 ### [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/85) <!-- omit in toc -->
