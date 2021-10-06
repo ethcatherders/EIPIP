@@ -22,7 +22,7 @@
 ## AGENDA
 
 **ECH - Pooja**
-Welcome to EIPIP meeting 35. I'm going to share [the agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/72) in the chat. 
+Welcome to EIPIP meeting 35. I'm going to share [the agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/72) in the chat.
 
 #1. [ERC process & standardization](https://youtu.be/VgsK8xnrL3U?t=11)
 
