@@ -18,10 +18,9 @@
 
 **ACTION 42.4**: Update PR to update the list of EIP authors in EIP-1  
 
+---
 
-## AGENDA
-
-## 1.Post-merge will core cover execution and consensus, or do we plan to categorize EIPs based on what they touch? ref: [Discord](https://discordapp.com/channels/595666850260713488/746566142700814426/895319748378779719)
+## 1. Post-merge will core cover execution and consensus, or do we plan to categorize EIPs based on what they touch? ref: [Discord](https://discordapp.com/channels/595666850260713488/746566142700814426/895319748378779719)
 
 **Pooja Ranjan**: Welcome to EIPIP meeting 42 and I have shared the agenda in the chat. The first item listed here is post merge will core cover execution and consensus or do we plan to categorize eips based on what they touch so eip process after the merge is something that people are interested to learn about. I have picked up this agenda item
 from the eip editing channel though I find some responses there later on but not sure if there is any general agreement. We discuss and come to a workable solution to most of the challenges related to eips statuses and the process, so I wonder what people of this group
