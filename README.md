@@ -8,6 +8,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
+ 43 | Wednesday, Nov 03, 2021, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/90)    | [Notes](All%20EIPIP%20Meetings/Meeting%20043.md) | [Video](https://youtu.be/EV7plRxP0A4) |
   41 | Wednesday, September 23, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/85)    | [Notes](All%20EIPIP%20Meetings/Meeting%20041.md) | [Video](https://youtu.be/54j6VK6ska0) |
   39 | Wednesday, August 11, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/82)    | [Notes](All%20EIPIP%20Meetings/Meeting%20039.md) | [Video](https://youtu.be/eo90AIGv3jw) |
   38 | Wednesday, July 28, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/79)    | [Notes](All%20EIPIP%20Meetings/Meeting%20038.md) | [Video](https://youtu.be/0zHXZhxs7IA) |
