@@ -8,7 +8,9 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
- 43 | Wednesday, Nov 03, 2021, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/90)    | [Notes](All%20EIPIP%20Meetings/Meeting%20043.md) | [Video](https://youtu.be/EV7plRxP0A4) |
+  44 | Wednesday, November 17, 2021, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/91)    | [Notes](All%20EIPIP%20Meetings/Meeting%20044.md) | [Video](https://youtu.be/e1fTsIMa4bE) |
+  43 | Wednesday, November 03, 2021, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/90)    | [Notes](All%20EIPIP%20Meetings/Meeting%20043.md) | [Video](https://youtu.be/EV7plRxP0A4) |
+  42 | Wednesday, October 20, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/87)    | [Notes](All%20EIPIP%20Meetings/Meeting%20042.md) | [Video](https://youtu.be/7FXF-dRVgj0) |
   41 | Wednesday, September 23, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/85)    | [Notes](All%20EIPIP%20Meetings/Meeting%20041.md) | [Video](https://youtu.be/54j6VK6ska0) |
   39 | Wednesday, August 11, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/82)    | [Notes](All%20EIPIP%20Meetings/Meeting%20039.md) | [Video](https://youtu.be/eo90AIGv3jw) |
   38 | Wednesday, July 28, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/79)    | [Notes](All%20EIPIP%20Meetings/Meeting%20038.md) | [Video](https://youtu.be/0zHXZhxs7IA) |
@@ -19,11 +21,13 @@ If you have an issue related to EIP that you would like to be discussed and aren
   33 | Wednesday, May 19, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/69)    | [Notes](All%20EIPIP%20Meetings/Meeting%20033.md) | [Video](https://youtu.be/BJ7X3csL9vc) |
   32 | Wednesday, May 5, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/67)    | [Notes](All%20EIPIP%20Meetings/Meeting%20032.md) | [Video](https://youtu.be/cHmjk4tn7GI) |
   31 | Wednesday, April 21, 2021 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/65)    | [Notes](All%20EIPIP%20Meetings/Meeting%20031.md) | [Video](https://www.youtube.com/watch?v=n1E1dreOMFE) |
-  28 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/56)    | [Notes](All%20EIPIP%20Meetings/Meeting%20028.md) | [Video](https://www.youtube.com/watch?v=fKQVb-s0Tzs) |
-  27 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/54)    | [Notes](All%20EIPIP%20Meetings/Meeting%20027.md) | [Video](https://www.youtube.com/watch?v=nyW-5Y3elOs) |
+  30 | Wednesday, April 7, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues62)    | [Notes](All%20EIPIP%20Meetings/Meeting%20030.md) | [Video](https://www.youtube.com/watch?v=FdCeXxok2Fw) |
+  29 | Wednesday, March 24, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/57)    | [Notes](All%20EIPIP%20Meetings/Meeting%20029.md) | [Video](https://www.youtube.com/watch?v=CD3LCpeQX8w) |
+  28 | Wednesday, March 10, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/56)    | [Notes](All%20EIPIP%20Meetings/Meeting%20028.md) | [Video](https://www.youtube.com/watch?v=fKQVb-s0Tzs) |
+  27 | Wednesday, February 24, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/54)    | [Notes](All%20EIPIP%20Meetings/Meeting%20027.md) | [Video](https://www.youtube.com/watch?v=nyW-5Y3elOs) |
   26 | Wednesday, February 10, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/50)    | [Notes](All%20EIPIP%20Meetings/Meeting%20026.md) | [Video](https://www.youtube.com/watch?v=XrkTATjdn6s) |
-  25 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/48)    | [Notes](All%20EIPIP%20Meetings/Meeting%20025.md) | [Video](https://www.youtube.com/watch?v=zz1IhYKztuc) |
-  24 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/47)    | [Notes](All%20EIPIP%20Meetings/Meeting%20024.md) | [Video](https://www.youtube.com/watch?v=PKayglbWpAs) |
+  25 | Wednesday, January 27, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/48)    | [Notes](All%20EIPIP%20Meetings/Meeting%20025.md) | [Video](https://www.youtube.com/watch?v=zz1IhYKztuc) |
+  24 | Wednesday, January 13, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/47)    | [Notes](All%20EIPIP%20Meetings/Meeting%20024.md) | [Video](https://www.youtube.com/watch?v=PKayglbWpAs) |
   23 | Wednesday, December 16, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/44)    | [Notes](All%20EIPIP%20Meetings/Meeting%20023.md) | [Video](https://www.youtube.com/watch?v=B8uSDIYznuY) |
   22 | Wednesday, December 2, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/43)    | [Notes](All%20EIPIP%20Meetings/Meeting%20022.md) | [Video](https://www.youtube.com/watch?v=FUEaz9YrP0g) |
   21 | Wednesday, November 18, 2020 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/39)    | [Notes](All%20EIPIP%20Meetings/Meeting%20021.md) | [Video](https://www.youtube.com/watch?v=fJ762_NI2EU) |
