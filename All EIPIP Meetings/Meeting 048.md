@@ -3,7 +3,7 @@
 ### Meeting Duration: 1/2 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/105)
 ### [Audio/Video of the meeting](https://youtu.be/0oW6n9yuwoU)
-### Moderator: ****Pooja Ranjan****
+### Moderator: **Pooja Ranjan**
 ### Notes: Jim Bennett
 
 ----
