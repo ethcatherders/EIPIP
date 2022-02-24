@@ -10,13 +10,21 @@
 ## ACTION ITEMS
 
 **ACTION 50.1**: Formal onboarding of William Schwab and Sam Wilson as EIP editors [04:30](https://www.youtube.com/watch?v=htwlb08kueg&t=4m30s)
+
 **ACTION 50.2**: Pooja will get in touch with Andrew in order to remove EIP-1706 from the yellow paper [08:10](https://www.youtube.com/watch?v=htwlb08kueg&t=8m10s)
+
 **ACTION 50.3**: Shashank will create an Issue to fix the validator check -> Field: Withdraw reason [23:32](https://www.youtube.com/watch?v=htwlb08kueg&t=23m32s)
+
 ## LINKS SHARED IN THE CHAT
 
 **Micah Zoltu** [Auto Merge Bot Workflow](https://github.com/ethereum/EIPs/blob/master/.github/workflows/auto-merge-bot.yml#L20-L26)
+
 **Micah Zoltu** [EIP Layout](https://github.com/ethereum/EIPs/blob/dc87d9e1a8c9bf26146f319d702fea158c77ebeb/_layouts/eip.html#L54-L56)
+
 **Pooja Ranjan** [Pull Request for EIP-4671: Non-Tradable Tokens Standard](https://github.com/ethereum/EIPs/pull/4671)
+
+---
+
 
 **Pooja Ranjan**  00:00
 Welcome to EIPIP meeting 50. I have just shared the agenda in the chat.
@@ -253,4 +261,4 @@ Thank you everyone for joining, have a good day everyone!
 * Sam Wilson
 * Shashank Yalamanchi
 
-# Date for Next Meeting: March 9 2022 at 1500 UTC
+# Date for Next Meeting: March 9, 2022 at 1500 UTC
