@@ -72,7 +72,7 @@ i'm not sure who merges those though actually when i think about it.
 okay i just remember the proposal number i think it was 3607 which is now in final status that was the proposal which was supposed to update the yellow paper as well to bring some changes. okay maybe just a simple question: Is it okay if i reach out to andrew and follow up with him to get this thing updated or anyone from the EIP editors would like to own this task?
 
 **lightclient**
-i think it's fine to talk to engine
+i think it's fine to talk to Andrew
 
 **Micah Zoltu**
 i do not want to own this task
