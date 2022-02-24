@@ -32,7 +32,7 @@ In the last meeting micah brought up that we can discuss onboarding of these can
 Like I said last time I would love to get some more editors formally on board.
 
 **Pooja Ranjan**
-Right I totally agree and I know lightclient you have been facilitating these meetings and from my experience one of the names that is prominent over there is William Schwab so I would like to propose him to be like formally onboarded and if you have any thoughts suggestions recommendation on that.
+Right i totally agree and i know Lightclient you have been facilitating these meetings and from my experience one of the name is prominent over there that is William Schwab so i would like to propose him to be like formally onboarded and if you have any thoughts, suggestions, recommendation on that?
 
 **Micah Zoltu**
 Sounds great to me. As far as I can tell William is a human and does not immediately appear to be a bad person so that's all.
@@ -77,7 +77,7 @@ I'm not sure who merges those though actually when I think about it.
 Okay I just remember the proposal number I think it was 3607 which is now in final status that was the proposal which was supposed to update the yellow paper as well to bring some changes. okay maybe just a simple question: Is it okay if I reach out to andrew and follow up with him to get this thing updated or anyone from the EIP editors would like to own this task?
 
 **lightclient**
-I think it's fine to talk to engine.
+i think it's fine to talk to Andrew
 
 **Micah Zoltu**
 I do not want to own this task.
@@ -123,7 +123,7 @@ I hope so we have editors here so I hope your question should be answered here y
 So I think the main the main one is that discussion regarding you know have we formed the consensus around that we should have the discussions to pointing to etheremagicians because I saw comments again on the EIP eipv issue that was raised some account named arachnid commented and also micah was a part of that discussion.
 
 **Micah Zoltu**
-I believe everybody who is an active editor is an agreement this of course is a very different set of people than all the people in the world and we are not in agreement with all the people in the world and I think we are agreement with all the active editors.
+ i believe everybody who is an active editor is an agreement this of course is a very different set of people than all the people in the world and we are not in agreement with all the people in the world and i think we are agreement with all the active editors
 
 **Shashank Yalamanchi**
 All right all right so I think so regarding that what would happen to the issues that or the EIPs that didn't have discussion between the previous like so have we have a thought off.
@@ -154,7 +154,7 @@ Yeah so there there is a very constrained set of fields that are allowed in the 
 Got it. yeah I think that'll wait thank you.
 
 **Pooja Ranjan**
-Yeah I think that is from the one of the recent pull requests it's a new proposal fairly new proposal that had that additional fee and we were wondering like it would be nice to have the part validating it and I should not auto merge that.
+yeah i think that is from the one of the recent pull requests it's a new proposal fairly new proposal that had that additional field and we were wondering like it would be nice to have the bot validating it and it should not auto merge that
 
 **Shashank Yalamanchi**
 And we currently only ask the EIP authors to follow the specific fields that are that are like in the given in the ip1 spec right or are they allowed to add any additional sections.
@@ -169,9 +169,9 @@ Okay I just remembered there was I think two other yet two other issues that I'd
 Yeah so there's another thing that would be great to have the validator check doesn't currently but the EIPs should always be in the form EIP dash and then some number of numbers not starting with a zero so like the the reg x would be EIP dash and then any number of numbers first one not being zero recorded so one through nine followed by slash d plus or anyway so anytime there's a link to another EIP and this is the tricky part is going to be identifying where there's a link to an EIP that's a little more complicated but any time there is a link to any another EIP it should use sorry anytime there's another a reference to another EIP it should use that form and it should be hyperlinked using relative pass so dot slash EIP dash number number number dot md it would be awesome if the the bot could catch all of the places that's broken. again this is one of those things that if there's an easy solution that catches 90% that's better than no solution so don't if you decide you wanted to follow up on this don't get bogged down trying to get it perfect. maybe the simple solution is to just look for the common ones like the one alex mentioned here so he lists a set of common formats maybe just search for those formats and fix them only don't worry about trying to find every single EIP mention. also I think that Pooja may remember in a recent meeting we discussed whether we should always use the EIP and not ERC did we come to a conclusion on that.
 
 **Pooja Ranjan**
-Yeah we have updated the eip1 for that so for there the number is like EIP-20
-in a similar context if I may ask to look into the EIP number seven zero six shashank while you are sharing screen would it be possible for you to go to eips.ethereum.org and just take out the eap1706?
-So here when we see into look into the withdrawal reason I see the format is not working I remember that this thing was working earlier but it seems like something has broken. anyone has any I idea like why is it not reflecting the correct I mean why is it not properly structured not that one, withdrawal reason.
+yeah we have updated the EIP-1 for that so for there the number is like EIP-20
+in a similar context if i may ask to look into the EIP number 1706,  Shashank while you are sharing screen would it be possible for you to go to eips.ethereum.org and just take out the eip1706?
+So here when we see into look into the withdrawal reason i see the format is not working i remember that this thing was working earlier but it seems like something has broken. anyone has any i idea like why is it not reflecting the correct i mean why is it not properly structured not that one, withdrawal reason.
 
 **Micah Zoltu**
 My guess is because that isn't that's the header isn't rendered with marked markdown render. if I just had to take the wild guess and because of that it's not rendering properly so the place for someone who's interested in tackling this issue, the place to check would be github.com/ethereum/eips and then under I want to say under underscore layouts is where it's going to be or maybe index.html anyways in in that repository is where all this the rendering happens. yeah okay so if you I'll drop a link. if you go there to that link is pasted you can see it's escaping the withdrawal reason and so fixing this is not going to be simple I suspect.
@@ -223,8 +223,8 @@ Next item is EIP editors apprenticeship meeting the video link is missing here b
 It's a hard problem the best chance we have at that is that when the when editor goes to review it they're the most likely ones who will have seen something similar before and they can like if they notice that this is a duplicate or something similar to another one, they'll at least I will usually tell the person hey this looks a lot like EIP blah blah blah I'm going to check that out before merging this. that being said it is okay like people are allowed to submit duplicates, in fact if there's a strong enough disagreement between two parties about how he should move forward one of the recommendations for resolution that we we give people is that they should both just create their own EIP and operate separately. and such in such case those EIPs will be duplicates of each other basically so yeah so there's no fully automated solution for this that I can think of that doesn't involve like designing a revolutionary artificial intelligence and so I think just best guess of editors or best effort of editors is all we've got.
 
 **Pooja Ranjan**
-That's yeah probably the right solution and I'm sorry I I suppose I'm set the wrong pull request number the correct one is 4671 I have shared the link in the chat here.
-okay that sounds fair and that would be the recommendation for new editors looking into it they have finished potatoes looking into these proposals.
+that's yeah probably the right solution and I'm sorry I suppose I said the wrong pull request number the correct one is 4671. I have shared the link in the chat here.
+okay that sounds fair and that would be the recommendation for new editors looking into it.
 
 ## 7. Other discussion topics
 
