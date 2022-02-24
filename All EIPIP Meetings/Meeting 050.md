@@ -27,7 +27,7 @@ In the last meeting micah brought up that we can discuss onboarding of these can
 Like i said last time i would love to get some more editors formally on board
 
 **Pooja Ranjan**
-Right i totally agree and i know like client you have been facilitating these meetings and from my experience one of the name is prominent over there that is william schwab so i would like to propose him to be like formally onboarded and if you have any thoughts suggestions recommendation on that
+Right i totally agree and i know Lightclient you have been facilitating these meetings and from my experience one of the name is prominent over there that is William Schwab so i would like to propose him to be like formally onboarded and if you have any thoughts, suggestions, recommendation on that?
 
 **Micah Zoltu**
 Sounds great to me. As far as i can tell william is a human and does not immediately appear to be a bad person so that's all my texts
