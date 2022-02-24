@@ -218,7 +218,7 @@ next item is EIP editors apprenticeship meeting the video link is missing here b
 it's a hard problem the best chance we have at that is that when the when editor goes to review it they're the most likely ones who will have seen something similar before and they can like if they notice that this is a duplicate or something similar to another one, they'll at least i will usually tell the person hey this looks a lot like EIP blah blah blah i'm going to check that out before merging this. that being said it is okay like people are allowed to submit duplicates, in fact if there's a strong enough disagreement between two parties about how he should move forward one of the recommendations for resolution that we we give people is that they should both just create their own EIP and operate separately. and such in such case those EIPs will be duplicates of each other basically so yeah so there's no fully automated solution for this that i can think of that doesn't involve like designing a revolutionary artificial intelligence and so i think just best guess of editors or best effort of editors is all we've got
 
 **Pooja Ranjan**
-that's yeah probably the right solution and i'm sorry i i suppose i'm set the wrong pull request number the correct one is 4671 i have shared the link in the chat here.
+that's yeah probably the right solution and I'm sorry I suppose I said the wrong pull request number the correct one is 4671. I have shared the link in the chat here.
 okay that sounds fair and that would be the recommendation for new editors looking into it they have finished potatoes looking into these proposals.
 
 ## 7. Other discussion topics
