@@ -219,7 +219,7 @@ it's a hard problem the best chance we have at that is that when the when editor
 
 **Pooja Ranjan**
 that's yeah probably the right solution and I'm sorry I suppose I said the wrong pull request number the correct one is 4671. I have shared the link in the chat here.
-okay that sounds fair and that would be the recommendation for new editors looking into it they have finished potatoes looking into these proposals.
+okay that sounds fair and that would be the recommendation for new editors looking into it.
 
 ## 7. Other discussion topics
 
