@@ -118,7 +118,7 @@ i hope so we have editors here so i hope your question should be answered here y
 so i think the main the main one is that discussion regarding you know have we formed the consensus around that we should have the discussions to pointing to etheremagicians because i saw comments again on the EIP eipv issue that was raised some account named arachnid commented and also micah was a part of that discussion
 
 **Micah Zoltu**
-yeah i believe we are every i believe everybody who is an active editor is an agreement this of course is a very different set of people than all the people in the world and we are not in agreement with all the people in the world and i think we are agreement with all the active editors
+ i believe everybody who is an active editor is an agreement this of course is a very different set of people than all the people in the world and we are not in agreement with all the people in the world and i think we are agreement with all the active editors
 
 **Shashank Yalamanchi**
 all right all right so i think so regarding that what would happen to the issues that or the EIPs that didn't have discussion between the previous like so have we have a thought off..
