@@ -165,7 +165,7 @@ yeah so there's another thing that would be great to have the validator check do
 
 **Pooja Ranjan**
 yeah we have updated the eip1 for that so for there the number is like EIP-20
-in a similar context if i may ask to look into the EIP number seven zero six shashank while you are sharing screen would it be possible for you to go to eips.ethereum.org and just take out the eap1706?
+in a similar context if i may ask to look into the EIP number 1706,  Shashank while you are sharing screen would it be possible for you to go to eips.ethereum.org and just take out the eip1706?
 So here when we see into look into the withdrawal reason i see the format is not working i remember that this thing was working earlier but it seems like something has broken. anyone has any i idea like why is it not reflecting the correct i mean why is it not properly structured not that one, withdrawal reason.
 
 **Micah Zoltu**
