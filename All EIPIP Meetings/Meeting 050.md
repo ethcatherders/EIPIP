@@ -149,7 +149,7 @@ yeah so there there is a very constrained set of fields that are allowed in the 
 Got it. yeah i think that'll wait thank you
 
 **Pooja Ranjan**
-yeah i think that is from the one of the recent pull requests it's a new proposal fairly new proposal that had that additional fee and we were wondering like it would be nice to have the part validating it and i should not auto merge that
+yeah i think that is from the one of the recent pull requests it's a new proposal fairly new proposal that had that additional field and we were wondering like it would be nice to have the bot validating it and it should not auto merge that
 
 **Shashank Yalamanchi**
 and we currently only ask the EIP authors to follow the specific fields that are that are like in the given in the ip1 spec right or are they allowed to add any additional sections
