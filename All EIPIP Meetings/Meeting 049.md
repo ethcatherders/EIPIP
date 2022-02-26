@@ -16,21 +16,27 @@
 
 ## ACTION ITEMS
 
-**ACTION 49.1**:
+**ACTION/DECISION 49.1**: `Test Cases` are optional.
 
-**ACTION 49.2**:
+**ACTION/DECISION 49.2**: Self-explanatory documentation are available on the repository. No more documentation is necessary at this point.
 
-**ACTION 49.3**:
+**ACTION/DECISION 49.3**: Pooja will create an issue in eip-bot to explore best ways to use *editor needs to review* tag.
+
+**ACTION/DECISION 49.4**: Formalize a process for EIP standardization in EIPIP meetings. When the process is well defined, it can be shared in the ACD meeting, so people provide feedback.
+
+Progress on Execution specs be continued to be discussed in EIPIP meetings.
+
+**ACTION/DECISION 49.5**: Pooja will follow with FEM team on limited editing window on FEM thread.  
 
 ## AGENDA
 
-**Pooja**: Welcome to EIPIP Meeting 49. I'm going to share agenda here in the chat for people who may have missed it. The first item listed here is about EIP bot, but i don't see any team joining in so far. So we'll come back to that item and because we have Liggy here let's go ahead and pick up his proposal. That is item number 3 resurrect eip-1328. So, we came across this EIP in a PEEPAnEIP meeting, for eip-4361 Sign-In With Ethereum. Though we realize it is not required for ethereum Sign-In proposal but is an important one for other projects. I had a chat with Liggy last week to resurrect this proposal and he had some questions around that the process changed that happened since the proposal was documented. So yeah, over to you Liggy if you have any question and would like to share with the EIP editors.
+**Pooja**: Welcome to EIPIP Meeting 49. I'm going to share agenda here in the chat for people who may have missed it. The first item listed here is about EIP bot, but i don't see any team joining in so far. So we'll come back to that item and because we have Ligi here let's go ahead and pick up his proposal. That is item number 3 resurrect eip-1328. So, we came across this EIP in a PEEPAnEIP meeting, for eip-4361 Sign-In With Ethereum. Though we realize it is not required for ethereum Sign-In proposal but is an important one for other projects. I had a chat with Ligi last week to resurrect this proposal and he had some questions around that the process changed that happened since the proposal was documented. So yeah, over to you Ligi if you have any question and would like to share with the EIP editors.
 
-**Liggy**: Yeah. It was basically about the new items, but we just filled it out with Pedro now. So to just like fulfill this new property. So basically I think we should have filled everything... should have filled all the changes. Yeah. So everything exit was saying was missing and also added for the new 2.0 standard basically there was a little bit of change there. Yeah. Want to work a little bit more on the security considerations there's a little bit missing. I just talked to Peter before because but he couldn't make it to this call. But afterwards we hope it's mergeble. So yeah, because it's used... it's widely used and we kind of want to make it final saw the path to find it so make it draft first and then wait two weeks and then make it final.
+**Ligi**: Yeah. It was basically about the new items, but we just filled it out with Pedro now. So to just like fulfill this new property. So basically I think we should have filled everything... should have filled all the changes. Yeah. So everything exit was saying was missing and also added for the new 2.0 standard basically there was a little bit of change there. Yeah. Want to work a little bit more on the security considerations there's a little bit missing. I just talked to Pedro before because but he couldn't make it to this call. But afterwards we hope it's mergeable. So yeah, because it's used... it's widely used and we kind of want to make it final saw the path to find it so make it draft first and then wait two weeks and then make it final.
 
-**Pooja**: So, going by the earlier comments on this pull request it looks like it is okay. I have added the link to the agenda so if there is anything that is needed from uh editor's point of view please leave a comment just wanted to bring it to attention, that we would like to direct. 
+**Pooja**: So, going by the earlier comments on this pull request it looks like it is okay. I have added the link to the agenda so if there is anything that is needed from uh editor's point of view please leave a comment just wanted to bring it to attention, that we would like to direct.
 
-**Liggy**: Yeah. Thank you for that, I hope we can get it alive again.
+**Ligi**: Yeah. Thank you for that, I hope we can get it alive again.
 
 **Pooja**: All right. Thank you. Moving on the item number 2 here is "What to put in the test cases section". So, this is inspired by Mikhail's comment which is there on the discord ETH R&D Discord. But, I suppose it will be useful for other authors as well... is there a general guideline for adding test cases section? So by general guideline I mean, can it be updated in later statuses? For e.g., eip-3675 that is moving to review. So is it okay to add a test plan or the link to the test plan and when the testing is done, before moving it to last call, that will be updated.
 
@@ -152,7 +158,7 @@ EIPs is I think if we can present a united front to the Core Devs we'll go a lot
 
 **Micah**: I mean you could probably convince me on that. I weakly want to get rid of the name just because the name brings with it history and I'd rather not bring the history but um that's not something that I will not heal out without die on. And I'll die in a lot of hills.
 
-**Shashank**: Michah could you give an example as to how these core EIPs can be broken further?
+**Shashank**: Micah could you give an example as to how these core EIPs can be broken further?
 
 **Micah**: You mean how can we move them out into the execution spec stuff?
 
@@ -223,7 +229,7 @@ action items were checked to make sure the greeter bot gets activated only for i
 **Micah**: Yeah it's the the one thing that I'm waiting for before I really start pushing hard on people to move over is that because Greg did bring up a good point that if you can't repeatedly edit indefinitely your original post then it doesn't serve as a complete replacement for github issues
 so as long as we are unable to edit marginal posts I think that we will have a hard time asserting to people that they need to move.
 
-**Pooja**: That make total sense. I don't know Liggy are you part of that team uh the fellowship of ethereum magician sorry to put you on the spot I'm just wondering like who would be the best person to reach I know uh Annet and maybe Jimmy but anyone else who are aware of the process behind the scene for fellowship of a ethereum magician. They seem to be stepped away from the microphone maybe for a while but I'll check with the team and we'll try to have some update by the next meeting. And yes one item that I already have shared in the discord channel that now the eipv the eip validator that has been moved to ethereum github repository. So, that's one good thing that we achieved in a while and that also concludes the item listed here anyone else has anything to bring up?
+**Pooja**: That make total sense. I don't know Ligi are you part of that team uh the fellowship of ethereum magician sorry to put you on the spot I'm just wondering like who would be the best person to reach I know uh Annet and maybe Jimmy but anyone else who are aware of the process behind the scene for fellowship of a ethereum magician. They seem to be stepped away from the microphone maybe for a while but I'll check with the team and we'll try to have some update by the next meeting. And yes one item that I already have shared in the discord channel that now the eipv the eip validator that has been moved to ethereum github repository. So, that's one good thing that we achieved in a while and that also concludes the item listed here anyone else has anything to bring up?
 
 **Micah**: We should probably discuss not many more people in the call but we should probably discuss making Sam and or who is it? Will? tried
 quite a bit of editing lately.
@@ -243,11 +249,28 @@ item we can probably have a discussion on this.
 
 **Pooja**: Yeah I was just trying to verify here are these like valid corrections or maybe we can tag author here to jump in right?
 
-Micha: Yeah. So when you create when the person creates an EIP to make these changes or sorry when this person creates a PR to make changes the author will automatically be tagged
+**Micah**: Yeah. So when you create when the person creates an EIP to make these changes or sorry when this person creates a PR to make changes the author will automatically be tagged
 
 **Pooja**: Okay. And then the general recommendation would be like maybe we can comment on this issue asking the person to maybe create a pull request to uh such as these changes to the proposal.
 
-Micha: Yeah this still it might be that the user doesn't know how to create a pull request and so you might just need to walk them through the process.
+**Micah**: Yeah this still it might be that the user doesn't know how to create a pull request and so you might just need to walk them through the process.
 
 **Pooja**: Okay. We can look into it. All right that sounds good and I think it has concluded everything anything else anyone would like to bring up today? well in that case thank you so much for time and thank you so much for joining. And I'm gonna create the agenda for the next meeting right after this meeting. Please free to add your items that you would like to be discussed in upcoming meetings with the eip editors obviously it will have the regular items. But, it would be good to hear more issues that people would like to be resolved that is related to eip process or any
 particular proposal. Thank you everyone for joining us today. Have a good one everyone.
+
+## Attendees
+
+* Pooja Ranjan (Host)
+* lightclient
+* Micah Zoltu
+* Jose
+* tonybison
+* Sam Wilson
+* Shashank Yalamanchi (Notes)
+## Links discussed in call:
+
+* [EIPs Insight (February 2022)](https://hackmd.io/@poojaranjan/EthereumImprovementProposalsInsight/https%3A%2F%2Fhackmd.io%2F%40poojaranjan%2FEIPsInsightFebruary2022%23New-proposals-Draft)
+* [EIP-1438 stagnant](https://github.com/ethereum/EIPs/pull/4252)
+* [EIP-1450 stagnant](https://github.com/ethereum/EIPs/pull/4254)
+
+## Date for Next Meeting: Wednesday 23 February 2022 at 15:00 UTC
