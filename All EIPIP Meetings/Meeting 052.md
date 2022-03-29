@@ -9,10 +9,10 @@
 ----
 ## ACTION ITEMS
 
-**ACTION 52.1**: Pooja to review current list of admins with issue delete permissions and add/remove as needed 
-**ACTION 52.2**: Pooja to start including number of EIPs waiting to be merged as well as a breakdown by category in EIP Insight stats
-**ACTION 52.3**: Sam to draft a proposal for removing Core EIPs from the standard process to optimize for Core Dev usage
-**ACTION 52.4**: Discuss streamlining / automating EIP content, especially for Core EIPs
+* ACTION 52.1: Pooja to review current list of admins with issue delete permissions and add/remove as needed 
+* ACTION 52.2: Pooja to start including number of EIPs waiting to be merged as well as a breakdown by category in EIP Insight stats
+* ACTION 52.3: Sam to draft a proposal for removing Core EIPs from the standard process to optimize for Core Dev usage
+* ACTION 52.4: Discuss streamlining / automating EIP content, especially for Core EIPs
 
 ---
 ## AGENDA ##
@@ -26,9 +26,8 @@
 * Micah mentioned security concerns with having too many people with access to delete issues; recommended potentially taking away other people's delete rights to keep the list of people with access short
 * Pooja recommended a review of the current list to make sure it is up to date to address Micah's concern 
 ## 3. Discuss use of Git Submodules [Ref](https://github.com/ethereum-cat-herders/EIPIP/issues/116#issuecomment-1076352599) and [here](https://github.com/ethereum/EIPs/issues/4921)
-* Micah noted concerns with usage of submodules as it creates additional complexity to the repo
+* Micah noted concerns with usage of submodules as it creates additional complexity in the repo
 * Sam agreed with Micah's concerns and suggested keeping submodules limited for the time being and revisiting if usage continues
-* Pooja noted that there is consesus on Sam's proposal on handling submodules moving forward 
 ## 4. [Mention number of EIP drafts that were submitted but not merged in EIPs Insight](https://github.com/ethereum-cat-herders/EIPIP/issues/115)
 * Request has been received to track number of PRs waiting to be merged and provide a breakdown by type (ERC, core, etc)
 * Pooja questioned whether there are any concerns with tracking this information
