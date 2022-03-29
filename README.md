@@ -8,7 +8,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
-  52 | Wednesday, February 23, 2022, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/114)    | [Notes](All%20EIPIP%20Meetings/Meeting%20052.md) | [Video](https://youtu.be/Wm8uYrAHAyE) |
+  52 | Wednesday, February 23, 2022, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/116)    | [Notes](All%20EIPIP%20Meetings/Meeting%20052.md) | [Video](https://youtu.be/Wm8uYrAHAyE) |
   51 | Wednesday, March 9, 2022, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/112)    | [Notes](https://github.com/ethereum-cat-herders/EIPIP/commit/86b458f9ba8c11b2528cb1da1d7743d9d6ee8e91) | [Video](https://www.youtube.com/watch?v=GkL99zdY2_8&list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw) |
   50 | Wednesday, February 23, 2022, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/110)    | [Notes](All%20EIPIP%20Meetings/Meeting%20050.md) | [Video](https://youtu.be/htwlb08kueg) |
   49 | Wednesday, February 09, 2022, at 15:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/107)    | [Notes](All%20EIPIP%20Meetings/Meeting%20049.md) | [Video](https://youtu.be/ATlQApSKDeM) |
