@@ -18,8 +18,9 @@
 **ACTION 51.4**: Pooja will contact fem re ability to edit posts. 
 
 ## COMMUNITY PARTICIPATION
-** 51.1**: Please reach out on ECH discord if you have experience in Ruby on Rails
-** 51.2**: Please reach out on ECH Discord / ECH Github if interested in open issues related to [EIP](https://github.com/ethereum/EIP-Bot/issues) and [EIPV bots](https://github.com/ethereum/eipv/issues). 
+**51.1**: Please reach out on ECH discord if you have experience working on Ruby.
+
+**51.2**: Please reach out on ECH Discord / ECH Github if interested in open issues related to [EIP](https://github.com/ethereum/EIP-Bot/issues) and [EIPV bots](https://github.com/ethereum/eipv/issues). 
 
 ## LINKS SHARED IN THE CHAT
 
