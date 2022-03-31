@@ -4,7 +4,7 @@
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/116)
 ### [Audio/Video of the meeting](https://youtu.be/Wm8uYrAHAyE)
 ### Moderator: ****Pooja Ranjan****
-### Notes: Stefan Wüst
+### Notes: Viktor Shepelin
 
 ----
 ## ACTION ITEMS
