@@ -3,7 +3,7 @@
 ### Meeting Date/Time:  Wednesday 29 January 2020, 15:00 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/1)
-### [Audio/Video of the meeting](https://youtu.be/oviaIsMLb8M)
+### [Audio/Video of the meeting](https://youtu.be/ZK489vHCGkI)
 ### Moderator: James Hancock
 ### Notes: Jim Bennett
 
