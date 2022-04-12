@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Wednesday 26 August 2020 at 15:00 UTC
 ### Meeting Duration: 24 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/29)
-### [Audio/Video of the meeting](https://www.youtube.com/channel/UCD9iiIwTRtLDYcEWONs2Q3A)
+### [Audio/Video of the meeting](https://youtu.be/y6LBpY6byd0)
 ### Moderator: Pooja Ranjan
 ### Notes: Jim Bennett
 
