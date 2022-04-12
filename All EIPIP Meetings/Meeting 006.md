@@ -2,7 +2,7 @@
 
 ### Meeting Date/Time: Wednesday, March 25, 2020, at 15:00 UTC
 ### Meeting Duration: 1 hr 
-### [Audio/Video of the meeting](https://docs.google.com/forms/d/18Dg2x4MIpq2FAbPWPW8ViA4kdKy3vgx_ricHpoVHUYw/edit?usp=sharing)
+### [Audio/Video of the meeting](https://youtu.be/ZPy1x2clAqk)
 ### [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/10)
 ### Moderator: Hudson Jameson
 ### Notes: Pooja Ranjan
