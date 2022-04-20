@@ -5,7 +5,7 @@ Meeting Date/Time: Wednesday, May 19, 2021, at 15:00 UTC
 Meeting duration: 1 hr
 
 [Audio/video of the 
-meeting](https://www.youtube.com/playlist?list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw)
+meeting](https://youtu.be/BJ7X3csL9vc)
 
 [Agenda](https://github.com/ethere-cat-herders/EIPIP/issues/69)
 
