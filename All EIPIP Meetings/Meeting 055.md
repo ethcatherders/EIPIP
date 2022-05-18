@@ -10,8 +10,10 @@
 
 ## ACTION/DECISION  ITEMS
 
-**ACTION 55.1**: Collect feedback from the Core Devs for making Diif in Python 
+**ACTION 55.1**: Collect feedback from the Core Devs for making Diff in Python 
+
 **ACTION 55.2**:  Collect more info on Pandapip1’s comment
+
 **ACTION 55.3**: Jose will create pull requests in EIP bot Github. 
 
  
