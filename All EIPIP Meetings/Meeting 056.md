@@ -15,6 +15,7 @@
 # ACTION/DECISION ITEMS
 
 ACTION 56.1: Splitting Out EIP repo into EIPs & ERCs will be put on hold.
+
 ACTION 56.2 No changes will be made to the repository
 
 # Agenda
@@ -230,12 +231,19 @@ Poja: oh yeah a good suggestion I can check with greg as well cool  I know we ha
 
 ## Attendees
 Micah Zoltu
+
 Killian
+
 Pooja Ranjan
+
 Jen elle
+
 Daniel Tedesco
+
 Jose
+
 Lightclient
+
 Tim beiko
 
 ## Date for Next Meeting: 18 May 2022 at 1500 UTC.
