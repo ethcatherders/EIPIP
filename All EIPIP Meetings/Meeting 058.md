@@ -21,7 +21,16 @@ Action Item | Description
 
 # Contents <!-- omit in toc -->
 
-- [1. Rename master branch to main branch Ref: Issue](#1-rename-master-branch-to-main-branch-ref-issue)
+- [1. PRs need discussion](#1-prs-need-discussion)
+- [2. EIPs Discussion-to place](#2-eips-discussion-to-place)
+- [3. GitPoap badges](#3-gitpoap-badges)
+- [4. EIPs GitHub permissions & support](#4-eips-github-permissions--support)
+- [5. EIP bots related discussion, updates, agreement on merging PRs & closing Issues.](#5-eip-bots-related-discussion-updates-agreement-on-merging-prs--closing-issues)
+- [6. EIPs Insight - Monthly EIPs status reporting.](#6-eips-insight---monthly-eips-status-reporting)
+- [7. EIP editor apprenticeship meeting](#7-eip-editor-apprenticeship-meeting)
+- [8. Core EIPs in an Executable Spec World Proposal](#8-core-eips-in-an-executable-spec-world-proposal)
+  - [Actions](#actions)
+- [8. Review action items from the previous meeting](#8-review-action-items-from-the-previous-meeting)
 - [Annex](#annex)
   - [Attendees](#attendees)
   - [Next Call](#next-call)
