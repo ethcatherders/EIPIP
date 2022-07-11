@@ -78,4 +78,4 @@ Agendas are posted to https://github.com/ethereum-cat-herders/EIPIP/issues. Anyo
 Various contributors to the Cat Herders facilitate meetings, handle recordings, and publish notes from the meetings. The meetings are independent of any organization. However, Hudson Jameson is taking a lead role in facilitating it technically. 
 
 ### Perma-archived Meetings
-The audio files of the EIPIP Meetings are stored permanently on [Permacast](https://permacast.net/#/podcasts/lM27ylbkuBctxlit4kD71cSRvnXrMCSwgIGKNu2XRC4).
+The audio files of the EIPIP Meetings are stored permanently on [Permacast](https://permacast.dev/#/podcasts/lM27ylbkuBctxlit4kD71cSRvnXrMCSwgIGKNu2XRC4).
