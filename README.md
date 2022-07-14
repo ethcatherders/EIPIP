@@ -1,3 +1,5 @@
+[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum-cat-herders/EIPIP/badge)](https://www.gitpoap.io/gh/ethereum-cat-herders/EIPIP)
+
 ### Purpose
 The EIPIP meeting is a regularly-scheduled process improvement meeting intended to bring together experienced developers and experts to facilitate the [Ethereum Improvement Proposal](https://github.com/ethereum/EIPs) improvement process.
 
