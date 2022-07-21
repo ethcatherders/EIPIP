@@ -164,4 +164,6 @@ specification section and the assets etc i want them to be comfortable that they
 * Sam
 * Lightclient
 * Tim
+
+* Gavin
 * Pooja
