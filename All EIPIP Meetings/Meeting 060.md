@@ -1,4 +1,4 @@
-## EIPIP Meeting 59 Notes
+## EIPIP Meeting 60 Notes
 ## Meeting Date/Time: Wednesday, Jul 13, 2022 , AT 14:00 UTC
 ## Meeting Duration: 1 hour
 ## [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/153)
