@@ -24,7 +24,13 @@
 
 **Lightclient:** [i](https://www.youtube.com/watch?v=OlKWquEmJms&t=216) didn't remove it yet i just deactivated it i don't see that as an option i only see delete at the oh now it's gone did you think that the word delete was deactivate no no no no it definitely it was like there's a check box at the bottom active and i unchecked it and so then i called it deactivate even though
 
-**Micah:** [it](https://www.youtube.com/watch?v=OlKWquEmJms&t=241) didn't say deactivate oh i see yeah it's gone now so good job wait did you delete it no i was about to and then it's perhaps it would be better to just delete it i mean it was now intentionally or not it's gone um so let's go refresh the pages okay i'm kicking kicking this 52-42 see if this uh still asks for travis um still shows is required well uh commit something else before it rechecks okay well we can figure this out i think the assuming the github actions work properly um i don't think we need to just we need to fix travis like we should just get rid of it and so we need to figure out how to actually get rid of travis um and then we can just iterate on the github actions if there's problems with it so uh would there be anything required for devops team to maybe look into it or is it something that can be done by uh the admin access that we have within the team i think we're okay dealing with it for now sounds good thank you so uh 
+**Micah:** [it](https://www.youtube.com/watch?v=OlKWquEmJms&t=241) didn't say deactivate oh i see yeah it's gone now so good job wait did you delete it no i was about to and then it's perhaps it would be better to just delete it i mean it was now intentionally or not it's gone um so let's go refresh the pages okay i'm kicking kicking this 52-42 see if this uh still asks for travis um still shows is required well uh commit something else before it rechecks okay well we can figure this out i think the assuming the github actions work properly um i don't think we need to just we need to fix travis like we should just get rid of it and so we need to figure out how to actually get rid of travis um and then we can just iterate on the github actions if there's problems with it 
+
+**Pooja**: so uh would there be anything required for devops team to maybe look into it or is it something that can be done by uh the admin access that we have within the team 
+
+**Micah**: i think we're okay dealing with it for now
+
+ **Pooja**:  sounds good thank you so uh 
 
 # 1. Regarding old EIPs that don't conform to current standards. Ref discussion
 
