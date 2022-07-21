@@ -9,10 +9,12 @@
 # Action items
 Action Item | Description
 ---|---
-**60.0** | No action will be taken
-**60.1** | add an option to just take a proposal add yourself as author under a new number that's the preferred option if you can't find the author and if the author doesn't want if the new author doesn't want to do it for some reason we consider those reason
-**60.2** | victor can further pursue this idea by making a pr of a template for eip1
-
+**60.0** | No action from Ethereum DevOps will be taken. 
+**60.1** | In absence of an EIP author of a proposal, a champinon may create a new proposal, add the content of the existing proposal with a new number. 
+**60.2** | Victor may pursue the idea of "Placeholder author" by making a PR of a template for EIP-1
+**60.3** | FEM may add a template for "discussion-to" link. EIP-1 can be updated with the FEM template link.
+**60.4** | Issue #156 - create a new proposal with changes suggested for EIP-4906
+**60.5** | Issue #157 Pooja will add the discussion to the next meeting. User is suggested to split that issue into two. (1) the licensing issue and (2) should we lint people's code
 
 
 # 0.Travis CI issue. A proposal to migrate to GitHub Actions.
