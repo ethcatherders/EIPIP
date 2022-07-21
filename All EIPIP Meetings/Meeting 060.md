@@ -36,7 +36,7 @@
 
 **Pooja:** [moving](https://www.youtube.com/watch?v=OlKWquEmJms&t=346) on to the first item listed here for today's discussion that is regarding all eips that don't conform to the current standards basically this is related to a new linting part which is under progress uh there are some comments that is added uh in the link provided in the agenda so sam wilson uh if he you may like to maybe talk about the new part and the proposed approaches for automatic validation here
 
-**Sam:** yeah sure so um it's covers everything that eep v does um but it has better line reporting information and a few other checks um i'm just finishing up like a github action for it and we should be able to get rid of ep and add this instead yeah that's got it so 
+**Sam:** yeah sure so um it's covers everything that eep v does um but it has better line reporting information and a few other checks um i'm just finishing up like a github action for it and we should be able to get rid of eipv and add this instead yeah that's got it so 
 
 **Pooja:** i see there are three proposals for handling this i wonder if anyone has any specific oh
 
