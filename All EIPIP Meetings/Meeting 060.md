@@ -124,7 +124,17 @@
  
  **Micah**: yeah and that's why i prefer cc0 only um like i want everything like i want to say someone goes and reads an eip and that includes all aspects of the eip including the 
 
-**Greg:** specification section and the assets etc i want them to be comfortable that they can use that however they want like they don't need to worry the fact that cc0 doesn't give patent protection yes that's a concern and i mean we are not lawyers well maybe i am past life no i mean really you're entirely right greg like we only have like a very very surface level knowledge of any of this stuff so i mean so i spoke with lawyers in this and they also only have service level knowledge of this stuff i wouldn't give them too much credit um a big part of the problem is is most of these theoretical cases have never actually been tried in court and so everybody is guessing including the lawyers and the lawyers i guess you know with you know presumably history and background and knowledge of precedent and court cases and how courts have decided in the past but like there's no actual strong president that says most of this stuff the patent stuff i think actually has been tried in court and so
+specification section and the assets etc i want them to be comfortable that they can use that however they want like they don't need to worry the fact that cc0 doesn't give patent protection yes that's a concern and i mean 
+
+**Greg**: we are not lawyers
+
+ **Micah**:  well maybe i am, in the past life; 
+ 
+ **Greg**: no i mean really
+ 
+  **Sam**:  you're entirely right greg like we only have like a very very surface level knowledge of any of this stuff 
+  
+**Micah**:   so i mean so i spoke with lawyers in this and they also only have service level knowledge of this stuff i wouldn't give them too much credit um a big part of the problem is is most of these theoretical cases have never actually been tried in court and so everybody is guessing including the lawyers and the lawyers i guess you know with you know presumably history and background and knowledge of precedent and court cases and how courts have decided in the past but like there's no actual strong president that says most of this stuff the patent stuff i think actually has been tried in court and so
 
 [that](https://www.youtube.com/watch?v=OlKWquEmJms&t=6058)  is concerning i don't know if anyone's actually patent trolled cc0 before but people have patent trolled before like that is a thing that people have done 
 
