@@ -8,7 +8,7 @@
 
 # 0.Travis CI issue. A proposal to migrate to GitHub Actions.
 
-**Pooja:** [welcome](https://www.youtube.com/watch?v=OlKWquEmJms&t=0s) everyone to eipip meeting 60. we have pretty packed agenda this time before we get into the usual discussion the first item actually the item number zero here is about the travis ci issue as we know that there is an ongoing issue that was reported yesterday by mica and we have communicated it to team the ethereum devops team it was reported that it is fixed but apparently it wasn't i know panda p created a pull request uh which is kind of related so anyone from here may would like to provide a summary and where we are on the resolution 
+**Pooja:** [welcome](https://www.youtube.com/watch?v=OlKWquEmJms&t=0s) everyone to eipip meeting 60. we have pretty packed agenda this time before we get into the usual discussion the first item actually the item number zero here is about the travis ci issue as we know that there is an ongoing issue that was reported yesterday by micah and we have communicated it to team the ethereum devops team it was reported that it is fixed but apparently it wasn't i know pandapip1 created a pull request uh which is kind of related so anyone from here may would like to provide a summary and where we are on the resolution 
 
 **Gavin:** [so](https://www.youtube.com/watch?v=OlKWquEmJms&t=38) i think that the get her back actions is in fact working perfectly the problem is for some reason i'm pretty sure that travis ci is still trying to include itself as a required check and i think that probably has to be fixed by someone with admin access for the repository
 
