@@ -1,5 +1,3 @@
-[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum-cat-herders/EIPIP/badge)](https://www.gitpoap.io/gh/ethereum-cat-herders/EIPIP)
-
 ### Purpose
 The EIPIP meeting is a regularly-scheduled process improvement meeting intended to bring together experienced developers and experts to facilitate the [Ethereum Improvement Proposal](https://github.com/ethereum/EIPs) improvement process.
 
@@ -82,3 +80,6 @@ Various contributors to the Cat Herders facilitate meetings, handle recordings, 
 
 ### Perma-archived Meetings
 The audio files of the EIPIP Meetings are stored permanently on [Permacast](https://permacast.dev/#/podcasts/lM27ylbkuBctxlit4kD71cSRvnXrMCSwgIGKNu2XRC4).
+
+[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum-cat-herders/EIPIP/badge)](https://www.gitpoap.io/gh/ethereum-cat-herders/EIPIP)
+
