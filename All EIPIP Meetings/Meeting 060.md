@@ -154,7 +154,9 @@ specification section and the assets etc i want them to be comfortable that they
 
 **micah**: right now he has on ethereum cat herders eipip he has an issue number 157 is linked from the agenda apparently that has two bullet points i think this should actually be split into two separate issues the discussions can remain separate 
 
-**Pooja:** [i'm](https://www.youtube.com/watch?v=OlKWquEmJms&t=6196) sorry for a moment i forgot that we are talking about the other team i was thinking that you are talking to timbeku my bad anyway okay fine uh definitely i'm gonna add this uh as what we have uh taken out from this meeting and if we have two separate issues we can continue discussing on that well we are past six minutes from the meeting and uh there were many other points that we wanted to discuss i hope to bring them up in the next meeting thank you all for joining us today and um yeah i hope to see you in two weeks but if there are something that we need to be addressing it on higher priority we can probably bring into eip cat hurdles so eib editors channel and we can see if we come to a faster solution over there thanks again see you all in two weeks have a good one everyone see you too 
+**Pooja:** [i'm](https://www.youtube.com/watch?v=OlKWquEmJms&t=3807) sorry for a moment i forgot that we are talking about the other team i was thinking that you are talking to timbeiko my bad anyway okay fine uh definitely i'm gonna add this uh as what we have uh taken out from this meeting and if we have two separate issues we can continue discussing on that 
+well we are past six minutes from the meeting and uh t**here were many other points that we wanted to discuss i hope to bring them up in the next meeting** thank you all for joining us today and um yeah i hope to see you in two weeks but if there are something that we need to be addressing it on higher priority we can probably bring into Discord cat herders EIP editors channel and we can see if we come to a faster solution over there.
+ thanks again see you all in two weeks have a good one everyone. see you too! 
 
 
 # Attendees
