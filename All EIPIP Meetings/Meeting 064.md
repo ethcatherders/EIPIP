@@ -297,7 +297,8 @@ Everyone wishes goodbye.
 - Sam Wilson
 
 Jose
-Lightclient
+- Lightclient
+
 Felix
 
 # Date for Next Meeting: 21 September 2022 at 1400 UTC.
