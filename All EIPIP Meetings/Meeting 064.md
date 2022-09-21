@@ -294,7 +294,8 @@ Everyone wishes goodbye.
 
 - Pooja Ranjan
 
-Sam Wilson
+- Sam Wilson
+
 Jose
 Lightclient
 Felix
