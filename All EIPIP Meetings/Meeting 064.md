@@ -296,7 +296,8 @@ Everyone wishes goodbye.
 
 - Sam Wilson
 
-Jose
+- Jose
+
 - Lightclient
 
 - Felix
