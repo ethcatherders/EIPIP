@@ -6,7 +6,29 @@
 ### Moderator: Pooja Ranjan
 ### Notes: Metago
 
+## DECISION ITEMS
+
+**DECISION 64.1**: To understand the meaning of 'requires' authors can refer to EIP-1. You can find discussion of the meaning in the notes below. 
+
+**DECISION 64.2**: EIP editorial decisionmaking process can be improved by providing enough time for feedback from editors, as well as trying to get a rough consensus from editors, before making changes. Also, documenting the decisionmaking process and discussing it in the meetings will help clarify how decisions were made and help future editors to understand the context of the various processes.
+
+**DECISION 64.3**: Sam will look into EIPIP GitHub issues 34, 63 and 95. 
+
+**DECISION 64.4**: Pooja is working with aspiring developers to create a dashboard for EIP’s chart that at present would not be a part of EIP's GitHub repository, once it's successful Pooja will like to come back and propose it, if people find it interesting it can probably be added with less maintenance. If anyone has suggestions on any other charts or dashboards that you would like to see on top of whatever is already existing in EIPs Insight or hackmd please share it with Pooja, she will try to have that incorporated. 
+
+**DECISION 64.5**: EIP-1 is the reference document for the external links policy for EIPs. If anyone in the community is interested in helping with EIP bot and external links policy related issues, please reach out on ECH discord. 
+
+**DECISION 64.6**: EIP editors will review prs 5572, 5586 and 5596. 
+
+**DECISION 64.7**: if you are an author with an active proposal in the EIPs GitHub repository and if you have questions you want to reach out to EIP editor, please feel free to attend EIP Editing Office. You can find details on ECH Discord. 
+
+**DECISION 64.8**: EIP number bot and EIP asset licensing issues will be discussed in the next meeting. If anyone is interested in contributing please reach out on ECH discord. 
+
+
+
+
 ----
+
 
 # AGENDA
 
