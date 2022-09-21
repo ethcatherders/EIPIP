@@ -292,7 +292,8 @@ Everyone wishes goodbye.
 ---------------------------------------
 # Attendees
 
-Pooja Ranjan
+- Pooja Ranjan
+
 Sam Wilson
 Jose
 Lightclient
