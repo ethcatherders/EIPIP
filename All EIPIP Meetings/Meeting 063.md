@@ -1,6 +1,6 @@
 # EIPIP Meeting 63 Notes
 ### Meeting Date/Time: Wednesday, Wednesday, August 24, 2022, at 14:00 UTC
-## Meeting Duration: 1 hour
+### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/170)
 ### [Audio/Video of the meeting](https://youtu.be/z1nd3R5TaRs)
 ### Moderator: Pooja Ranjan
