@@ -3,7 +3,7 @@
 ## Meeting Duration: 1 hour
 ## [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/170)
 ## [Audio/Video of the meeting](https://youtu.be/z1nd3R5TaRs)
-## Moderator: Pooja Ranjan
+### Moderator: Pooja Ranjan
 ### Notes: Alen (Santhosh)
 
 ## Decisions Made / Action items
