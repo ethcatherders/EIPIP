@@ -69,7 +69,7 @@
 * Yeah. Okay. Well, I'll try to get it to format some stuff from, yellow paper. Yeah. 
 
 **Golvin**
-* Yeah. Maybe one of the other formats works better. I really don't know. I, I don't know where in the pipeline that final, that final, copy gets rendered, by what system, is the name of the renderer we use. Okay. So somewhere there's documentation for the, the dialect of markup that it accepts. 
+* Yeah. Maybe one of the other formats works better. I really don't know. I don't know where in the pipeline that final, copy gets rendered, by what system, is the name of the renderer we use. Okay. So somewhere there's documentation for the, the dialect of markup that it accepts. 
 
 **Sam**
 * Yep. Somewhere I, I've never looked Really, 
