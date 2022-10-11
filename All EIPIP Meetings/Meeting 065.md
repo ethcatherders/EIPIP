@@ -84,7 +84,7 @@
 * I think he's done enough good work that there's, I can't imagine any objection, but Okay. 
 
 **Sam**
-* Yeah, I'm, I'm good with that then. 
+* Yeah, I'm, good with that then. 
 
 ##  execution-specs [7.22](https://youtu.be/0miajHm8JXs?t=442)
 **Pooja Ranjan**
