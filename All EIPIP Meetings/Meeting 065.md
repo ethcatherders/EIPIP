@@ -50,7 +50,7 @@
 **Sam**
 * So you're, are you okay or not okay with, adding mathJax? 
 
-**Golvin**
+**GColvin**
 * I'm just asking whether it renders properly at the end of the line. 
 
 **Sam**
