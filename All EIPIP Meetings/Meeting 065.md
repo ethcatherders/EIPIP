@@ -304,7 +304,7 @@
 * All right. I mean, on a high level, I personally think that when we are talking Ethereum and we are talking about having something as a standard and giving a place in Ethereum repository, we should try to make things as much as open source, free, no patent, no, like trademark things, so people can use it freely, Ethereum is an open source blockchain. We are like trying to, I mean, anyone is welcome to come and use it, so why to add things which may or may not have, permissions to be used or reused, actually. But that's my thought on that. I would be happy to hear other, editors thought on that. 
 
 **Sam**
-* Yeah, that, that, that's my thought as well. Like if somebody wants to come in with a, and and mandate that you have to use a certain algorithm in an EIPs and then, you know, a year later they start suing everybody, because they patented that algorithm, I think that's completely ridiculous and we should try to avoid that situation. 
+* Yeah, that's my thought as well. Like if somebody wants to come in with a mandate that you have to use a certain algorithm in an EIPs and then, you know, a year later they start suing everybody, because they patented that algorithm, I think that's completely ridiculous and we should try to avoid that situation. 
 
 **Pooja Ranjan**
 * Right. And, now we are joined by Pandapip, Panda. We were discussing a couple of proposals, by you, issues that you have listed, and one of the latest one, which is currently in a discussion is about the, patent and also the use of license for EIPs assets. I wonder if you have any thoughts to share on that? 
