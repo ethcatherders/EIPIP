@@ -163,7 +163,7 @@
 * I see there are, I am not a lawyer problem here. 
 
 **Pooja Ranjan**
-* That's a good point.. All right. yeah, I mean, like obviously if, if there are some changes that people are interested in proposing any changes, the next step would be to propose it in form pull request. Creating an issue definitely gives a good start so people can start adding thoughts over there. Yep. And I think the next one, which is, EIPss should preemptively add a CLA is also from the same author, I believe. 
+* That's a good point. All right. yeah, I mean, like obviously if, if there are some changes that people are interested in proposing any changes, the next step would be to propose it in form pull request. Creating an issue definitely gives a good start so people can start adding thoughts over there. Yep. And I think the next one, which is, EIPs should preemptively add a CLA is also from the same author, I believe. 
 
 ## EIPs should preemptively add a CLA ethereum/EIPss#5662 [16.14](https://youtu.be/0miajHm8JXs?t=974)
 **Victor**
