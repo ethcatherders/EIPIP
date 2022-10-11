@@ -148,7 +148,7 @@
 * We have the same status of the hack MD that Tim put up. we haven't really progressed beyond that yet because like I said, the merge and and all core dev  is paused for the time being.
 
 **Pooja Ranjan**
-* Yeah, no, I'm gonna share the link here, or you already did? No. Okay. I have shared the link to the Hack md, that, Tim has, shared earlier for people to refer to. I believe the changes has to be done on both the el, ml sites, so we should look forward to the meta proposal that is coming up for the expected changes with executable spec. Thank you for sharing all updates. 
+* Yeah, no, I'm gonna share the link here, or you already did? No. Okay. I have shared the link to the [Hackmd](https://notes.ethereum.org/@timbeiko/executable-eips), that, Tim has, shared earlier for people to refer to. I believe the changes has to be done on both the EL and CL sides, so we should look forward to the meta proposal that is coming up for the expected changes with executable spec. Thank you for sharing all updates. 
 
 ## Issues section [14.38](https://youtu.be/0miajHm8JXs?t=878)
 * Sam. Moving on to the issue sections. I have listed a few issues which I collected from the EIPss Github repository. A few of them are created by Panda. I know he is not on the call, but I just wanted to share with all the, present participants if they have any thoughts that they would like to share or else they are always welcome to leave a comment there. 
