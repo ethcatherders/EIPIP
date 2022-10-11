@@ -319,7 +319,7 @@
 * I'm right next to a road right now when I'm outside and on really, really, really bad internet and a bad computer. 
 
 **Pooja Ranjan**
-* Okay, Not a problem. if you can hear me now, we were discussing about, if we should be allowing patenting, staff or maybe assets, which may have some trademark already or should it be only, which is free for people to reuse license issues. If you have any thoughts on that, probably you can share. 
+* Okay, Not a problem. if you can hear me now, we were discussing about, if we should be allowing patenting, stuff or maybe assets, which may have some trademark already or should it be only, which is free for people to reuse license issues. If you have any thoughts on that, probably you can share. 
 
 **Pandapip**
 * Well, I think it's pretty obvious that, well, I mean, for one thing, all the, all of the, assets should be, sorry, all the EIPs should be cc0, just so that anyone can just use an EIPs  without having to worry about randomly being sued, like in any case. and I feel like patent and trademark, waivers are just like kind of an extension of that. You should be able to use an EIPs without having to worry about randomly being sued for using it. 
