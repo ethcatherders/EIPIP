@@ -301,7 +301,7 @@
 * I'm not a lawyer. 
 
 **Pooja Ranjan**
-* Again,. All right. I mean, on a high level, I personally think that when we are talking Ethereum and we are talking about having something as a standard and giving place Ethereum repository, we should try to make, things, as much as open source, free, no patent, no, like trademark things, so people can use it freely, Ethereum is an open source blockchain. We are like trying to, I mean, anyone is welcome to come and use it, so why to add things which may or may not have, permissions to be used or reused, actually. But that's my thought on that. I would be happy to hear other, editors thought on that. 
+* All right. I mean, on a high level, I personally think that when we are talking Ethereum and we are talking about having something as a standard and giving a place in Ethereum repository, we should try to make things as much as open source, free, no patent, no, like trademark things, so people can use it freely, Ethereum is an open source blockchain. We are like trying to, I mean, anyone is welcome to come and use it, so why to add things which may or may not have, permissions to be used or reused, actually. But that's my thought on that. I would be happy to hear other, editors thought on that. 
 
 **Sam**
 * Yeah, that, that, that's my thought as well. Like if somebody wants to come in with a, and and mandate that you have to use a certain algorithm in an EIPs and then, you know, a year later they start suing everybody, because they patented that algorithm, I think that's completely ridiculous and we should try to avoid that situation. 
