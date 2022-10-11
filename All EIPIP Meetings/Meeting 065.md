@@ -29,7 +29,7 @@
 * No, on late breaking agenda, I noticed Sam is here, so it could be an opportunity for he and I to discuss, the reference client and how that's going and how, how we should be relating it to the, the EIPs work, since we're making progress on that as we we clear through these other smaller issues, that would be maybe a good time for us to talk. 
 
 **Pooja Ranjan**
-* Yeah. Okay. I'll, I'll put a note on the agenda for that. 
+* Yeah. Okay. I'll put a note on the agenda for that. 
 
 **Golvin**
 * Okay, good. 
