@@ -25,7 +25,7 @@
 **Pooja Ranjan**
 * Sounds good. I don't know if Greg, you have any thoughts to add here? I know you earlier mentioned that it is related to bot, but yeah.
 
-**Golvin**
+**Greg Colvin**
 * No, on late breaking agenda, I noticed Sam is here, so it could be an opportunity for he and I to discuss, the reference client and how that's going and how, how we should be relating it to the, the EIPs work, since we're making progress on that as we we clear through these other smaller issues, that would be maybe a good time for us to talk. 
 
 **Pooja Ranjan**
