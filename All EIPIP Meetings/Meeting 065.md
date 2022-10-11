@@ -48,7 +48,7 @@
 * Yep. That's all. 
 
 **Sam**
-* So you're, are you okay or not okay with, adding math checks? 
+* So you're, are you okay or not okay with, adding mathJax? 
 
 **Golvin**
 * I'm just asking whether it renders properly at the end of the line. 
