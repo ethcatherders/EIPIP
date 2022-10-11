@@ -31,7 +31,7 @@
 **Pooja Ranjan**
 * Yeah. Okay. I'll put a note on the agenda for that. 
 
-**GColvin**
+**Glovin**
 * Okay, good. 
 
 **Pooja Ranjan**
@@ -50,26 +50,26 @@
 **Sam**
 * So you're, are you okay or not okay with, adding mathJax? 
 
-**GColvin**
+**Glovin**
 * I'm just asking whether it renders properly at the end of the line. 
 
 **Sam**
 * Oh, I'm not sure. I didn't hear you ask anything. Yeah, I've never used it. I think it's probably okay. I think it's the most common JavaScript, latex renderer, but, we can, we can do some tests if You'd like. 
 
-**GColvin**
+**Glovin**
 * Yeah, I mean, that's the big question. The last time I tried to use it, I couldn't get it to work, but that doesn't mean it doesn't work. It just means I couldn't get it to work.
 
 **Sam**
-* Yeah. No, I, I know how that it goes. I guess if there's anything in particular you'd like to see, like a test of, put it in a comment on that PR and we can try it out. 
+* Yeah. No, I know how that it goes. I guess if there's anything in particular you'd like to see, like a test of, put it in a comment on that PR and we can try it out. 
 
 **Golvin**
-* Okay. I mean, EIPs are full of, of math that winds up getting, you know, sort of butchered with, with, you know, asking math in line. that would looks much better if it was, you know, properly type set, and snatches from the yellow paper and things like that. 
+* Okay. I mean, EIPs are full of, of math that winds up getting, you know, sort of butchered with, you know, asking math in line. that would looks much better if it was, you know, properly type set, and snatches from the yellow paper and things like that. 
 
 **Sam**
 * Yeah. Okay. Well, I'll try to get it to format some stuff from, yellow paper. Yeah. 
 
 **Golvin**
-* Yeah. Maybe one of the other formats works better. I really don't know. I don't know where in the pipeline that final, copy gets rendered, by what system, is the name of the renderer we use. Okay. So somewhere there's documentation for the, the dialect of markup that it accepts. 
+* Yeah. Maybe one of the other formats works better. I really I don't know where in the pipeline that final, copy gets rendered, by what system, is the name of the renderer we use. Okay. So somewhere there's documentation for the, the dialect of markup that it accepts. 
 
 **Sam**
 * Yep. Somewhere I, I've never looked Really, 
@@ -88,7 +88,7 @@
 
 ##  execution-specs [7.22](https://youtu.be/0miajHm8JXs?t=442)
 **Pooja Ranjan**
-* All right. In that case, we can, jump over to the latest item that is added by Sam. Thank you. And I, I believe, Greg also wanted to discuss that, that's the execution-specs. 
+* All right. In that case, we can, jump over to the latest item that is added by Sam. Thank you. And I believe, Greg also wanted to discuss that, that's the execution-specs. 
 
 **Sam**
 * Yep. So we're, almost done implementing London. we've quite a paused so far on on discussing how we wanna integrate it into the process. since, you know, the merge and core devs kind of wanted a break for about a month, so, Oh, yeah. Yeah. There's not gonna be much happening in terms of like what we're planning on doing. we're just in the final stretch of polishing up the, well finishing, you know, catching up to Paris and then, and then polishing. 
@@ -100,7 +100,7 @@
 * Have you learned Python or? 
 
 **Golvin**
-* I can hack it out. It probably wouldn't run. It's, but it's decent pseudo code. That's the problem is it's, it's not code that's coming back out of a tested client. So, not Yet. 
+* I can hack it out. It probably wouldn't run. It's, but it's decent pseudo code. That's the problem is it's not code that's coming back out of a tested client. So, not Yet. 
 
 **Sam**
 * Not yet. 
@@ -213,10 +213,10 @@
 * Should the, the CLA issue be a good place to continue the discussion? 
 
 **Sam**
-* Yeah, Yeah. I'm just saying like a PR would be good to actually put the, like decide the actual wording. 
+* Yeah, I'm just saying like a PR would be good to actually put the, like decide the actual wording. 
 
 **Victor**
-* Okay. Okay. That sounds good. Yeah, I can do that. 
+* Okay. That sounds good. Yeah, I can do that. 
 
 **Sam**
 * Great. Thanks. 
@@ -246,7 +246,7 @@
 * The last one here is, automatically merge all new EIPs and the number is 5641. 
 
 **Sam**
-* So I, I'm a little torn on this one because a lot of EIPs still have, like mixed up motivation and rationale sections in, in the first draft. but you know, the formatting has certainly gotten a lot better lately. So maybe we do this, I don't know,
+* So I'm a little torn on this one because a lot of EIPs still have, like mixed up motivation and rationale sections in, in the first draft. but you know, the formatting has certainly gotten a lot better lately. So maybe we do this, I don't know,
 
 **Pooja Ranjan**
 * Actually, I also have an opinion on this particular proposal. I feel like it should not be merged as draft on by itself without a reviewer reviewed by an EIPs editors. Even if bot is doing a good job, I believe there is manual intervention needed at least for two statuses. Number one is when it is merged for the first time as draft. And number two, when it is merged as final, I believe that, we want to create a standard. So the first task as draft is also very important as we have the final pass as final because we don't want to spam our repository with all proposals getting in as draft and it never goes through, different statuses and never reaches to final that will swallow up the repository. I mean, it'll add a lot of, maybe not so useful proposal, even if they are syntex wise correct it if they, even if they are drafted properly. So that's my thought on that. 
@@ -285,7 +285,7 @@
 * Okay, let me share the link to Panda, looks like he's around to have to join this meeting. We can, on and see when he joins and if he may have any thought to, we can get back to this one in the essence of time. Let's move on to item number 2. I'm assuming that we do not have any decision, or do we, on this topic. 
 
 **Golvin**
-* If I could back up for a second to the patent issue. I, I looked at the Creative Commons license again, and it, it specifically says that it does not, does not affect patent and trademark. and I think that's appropriate, that, that we just not have a policy. it's simply a specification. We don't endorse the specification, we don't certify. it's simply that, and it's totally on the user of the spec, to, to be aware of any patent or trademark issues. And it's perfectly fair for the author to hold patents, with the intent of, of, you know, licensing patents. That's, that's fair. It's a specification. That's all it is. 
+* If I could back up for a second to the patent issue. I looked at the Creative Commons license again, and it, it specifically says that it does not, does not affect patent and trademark. and I think that's appropriate, that, that we just not have a policy. it's simply a specification. We don't endorse the specification, we don't certify. it's simply that, and it's totally on the user of the spec, to, to be aware of any patent or trademark issues. And it's perfectly fair for the author to hold patents, with the intent of, of, you know, licensing patents. That's, that's fair. It's a specification. That's all it is. 
 
 ## What license to use for EIPs assets [29.57](https://youtu.be/0miajHm8JXs?t=1794)
 **Pooja Ranjan**
@@ -431,7 +431,7 @@
 * That's not entirely true, although the CI was failing there. EIP bot was also failing, because, in, in the code, it's assumed that firewall exist always exists. When a file is modified, ie. Added, changed or deleted, it'll always be accessible. The problem is when it's deleted, that's not the case. it, when it, when the, bot calls, the GitHub API returns a 404 not found, and if you, go to that pull request, hold on, delete. 
 
 **JA**
-* Well, I, I don't know Panda. I was testing this, and basically when you delete the file, the, the EIPs bot doesn't even start because the bot activated with the pull request number, which is associated to, to a five please, which is associated to the file that pursuing contains in the EIP. And therefore that that's, that's the idea of the whole bot. just to finish.  The same case goes with the EIP double b, if, the rules start following, following the template for the, for the file, if you want to delete the file, you just go and delete it. You, you try to, to merge it, and it's gonna be, EIPs  doubled P is gonna check the, the template. The EIP is not going run and the CI will run, which just need to consider the fact that there is a, that there is an identifier. What you're trying to, a non-existent file, what you're trying to, or deleted file. What you're trying to match in was of, of course you can, write a, you can write another bot or, Okay, this bot, I just, just as I commending the issue just to consider the fact that you are, the, the pull request I referring to too, merge is just, from the, from the fact that the file doesn't exist. I mean, that's it. That's, that's, that's the best case. But, as it is, it's not failing. 
+* Well, I don't know Panda. I was testing this, and basically when you delete the file, the, the EIPs bot doesn't even start because the bot activated with the pull request number, which is associated to, to a five please, which is associated to the file that pursuing contains in the EIP. And therefore that that's, that's the idea of the whole bot. just to finish.  The same case goes with the EIP double b, if, the rules start following, following the template for the, for the file, if you want to delete the file, you just go and delete it. You, you try to, to merge it, and it's gonna be, EIPs  doubled P is gonna check the, the template. The EIP is not going run and the CI will run, which just need to consider the fact that there is a, that there is an identifier. What you're trying to, a non-existent file, what you're trying to, or deleted file. What you're trying to match in was of, of course you can, write a, you can write another bot or, Okay, this bot, I just, just as I commending the issue just to consider the fact that you are, the, the pull request I referring to too, merge is just, from the, from the fact that the file doesn't exist. I mean, that's it. That's, that's, that's the best case. But, as it is, it's not failing. 
 
 **Pandapip**
 * Yes, it is. Objectively it's failing. 
