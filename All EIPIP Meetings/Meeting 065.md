@@ -230,7 +230,7 @@
 * The next one is a dynamic required approval. So there is some proposal of, okay, how many approvals should be required. I'm gonna share the link here. that is 5651 issue number 5651 again, by Panda. Yeah, I would encourage you. 
 
 **Sam**
-* So this is, this is the more complicated, approval system that Micah had proposed. I don't think I have any problems with doing this. I just think it's complicated. 
+* So this is the more complicated, approval system that Micah had proposed. I don't think I have any problems with doing this. I just think it's complicated. 
 
 **Pooja Ranjan**
 * Yeah, I wonder if the suggestion is to be using BOT to get this thing done, like Yeah. 
