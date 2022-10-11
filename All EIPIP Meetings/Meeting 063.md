@@ -1,5 +1,5 @@
 # EIPIP Meeting 63 Notes
-### Meeting Date/Time: Wednesday, Wednesday, August 24, 2022, at 14:00 UTC
+### Meeting Date/Time: Wednesday, August 24, 2022, at 14:00 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/EIPIP/issues/170)
 ### [Audio/Video of the meeting](https://youtu.be/z1nd3R5TaRs)
@@ -9,7 +9,7 @@
 ## Decisions Made / Action items
 | Decision Item | Description | Video ref |
 | ------------- | ----------- | --------- |
-|63.1 |  On How "final" is FINAL for the EIPs -- We don't think we want to be fixing the formatting for finally EIPs, unless we're intentionally fixing the formatting for finally EIPs, which is a whole other issue. However, I believe that the author will remain active for in-process or draft EIPs. So, if someone submits a pull request to fix a typo in a non-final EIP, the author will presumably see it. And we'll almost certainly incorporate it into their work. But, yeah, I just think it's better to keep everything as strict as possible, especially while they're developing, so they don't get surprised by something as simple as a status change or when I go to final. | [48:41](https://youtu.be/z1nd3R5TaRs?t=2922)|
+|63.1 |  On How "final" is FINAL for the EIPs -- We don't think we want to fix the formatting for final EIPs; the author will continue to be active for in-process or draft EIPs. So, if someone submits a pull request to correct a typo in a non-final EIP, the author will most likely see it and update it. | [48:41](https://youtu.be/z1nd3R5TaRs?t=2922)|
 
 ## Intro [0.10](https://youtu.be/z1nd3R5TaRs?t=14)
 **Pooja Rajan**
