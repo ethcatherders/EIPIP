@@ -192,7 +192,7 @@
 * I agree with that. I definitely agree. 
 
 **Sam**
-* Sorry, sorry. The recommendation is to create an optional CLA or 
+* Sorry. The recommendation is to create an optional CLA or 
 
 **Golvin**
 * No, no, what Victor just said. 
