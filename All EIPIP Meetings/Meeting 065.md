@@ -39,7 +39,7 @@
 
 ## Website: Add MathJax ethereum/EIPss#5596 [3.03](https://youtu.be/0miajHm8JXs?t=185)
 **Sam**
-* Yeah, I, I guess, we can go to the next one. The MathJax one.. Yeah, I think that's a, a less, suggestion. It's just adding a JavaScript library that can render late tech. and I think, Greg, you mentioned you like that, so maybe that's a good thing to to add, 
+* Yeah, I guess, we can go to the next one. The MathJax one.. Yeah, I think that's a, a less, suggestion. It's just adding a JavaScript library that can render late tech. and I think, Greg, you mentioned you like that, so maybe that's a good thing to to add, 
 
 **Pooja Ranjan**
 * So the idea here is like we are trying to, make all editors aware of any changes which are proposed and also being merged, by active editors on board  however, it is good to always collect, kind of rough consensus from all the present editors. So yeah, if you have any thoughts on that. 
