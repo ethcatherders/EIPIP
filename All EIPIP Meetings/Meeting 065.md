@@ -313,7 +313,7 @@
 * Sorry, didn't catch that second part. 
 
 **Pooja Ranjan**
-* So it's about the, license usage for EIPss
+* So it's about the, license usage for EIPs
 
 **Pandapip**
 * I'm right next to a road right now when I'm outside and on really, really, really bad internet and a bad computer. 
