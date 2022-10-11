@@ -56,7 +56,7 @@
 **Sam**
 * Oh, I'm not sure. I didn't hear you ask anything. Yeah, I've never used it. I think it's probably okay. I think it's the most common JavaScript, latex renderer, but, we can, we can do some tests if You'd like. 
 
-**Golvin**
+**GColvin**
 * Yeah, I mean, that's the big question. The last time I tried to use it, I couldn't get it to work, but that doesn't mean it doesn't work. It just means I couldn't get it to work.
 
 **Sam**
