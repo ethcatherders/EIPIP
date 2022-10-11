@@ -14,7 +14,7 @@
 
 ## Intro [0.00](https://youtu.be/0miajHm8JXs?t=1)
 **Pooja Ranjan**
-* Welcome to EIPsIP Meeting 65. I have shared agenda in chat and, we have a few open pull requests and some issues from EIPs Github repository here, for discussion and probably make some decisions so we can move forward with the pull requests at least. And then we get into, the progress on EIPs bot with some EIPs insight and, maybe action items or decision made from the earlier meeting. So let's get started. 
+* Welcome to EIPIP Meeting 65. I have shared agenda in chat and, we have a few open pull requests and some issues from EIPs Github repository here, for discussion and probably make some decisions so we can move forward with the pull requests at least. And then we get into, the progress on EIPs bot with some EIPs insight and, maybe action items or decision made from the earlier meeting. So let's get started. 
 
 ## CI: Add Markdown Linter ethereum/EIPss#5367 [0.42](https://youtu.be/0miajHm8JXs?t=42)
 * The first one listed here is a CI: Add Markdown Linter. I suppose it was added by Sam Wilson. Sam, if you would like to maybe talk about the proposal. 
