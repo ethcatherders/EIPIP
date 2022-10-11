@@ -153,7 +153,7 @@
 ## Issues section [14.38](https://youtu.be/0miajHm8JXs?t=878)
 * Sam. Moving on to the issue sections. I have listed a few issues which I collected from the EIPss Github repository. A few of them are created by Panda. I know he is not on the call, but I just wanted to share with all the, present participants if they have any thoughts that they would like to share or else they are always welcome to leave a comment there. 
 
-## New contract interface and EIPss should be required to include a privacy considerations section ethereum/EIPss#5682 [15.16](https://youtu.be/0miajHm8JXs?t=916)
+## New contract interface and EIPs should be required to include a privacy considerations section ethereum/EIPss#5682 [15.16](https://youtu.be/0miajHm8JXs?t=916)
 * The first one listed here is new contract interface and EIPs should be required to include a privacy consideration section. This is by, a new user. Yeah, anyone has any thought on this? 
 
 **Sam**
