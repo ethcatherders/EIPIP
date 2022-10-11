@@ -66,7 +66,7 @@
 * Okay. I mean, EIPs are full of, of math that winds up getting, you know, sort of butchered with, with, you know, asking math in line. that would looks much better if it was, you know, properly type set, and snatches from the yellow paper and things like that. 
 
 **Sam**
-* Yeah. Okay. Well, I'll, I'll try to get it to format some stuff from, yellow paper. Yeah. 
+* Yeah. Okay. Well, I'll try to get it to format some stuff from, yellow paper. Yeah. 
 
 **Golvin**
 * Yeah. Maybe one of the other formats works better. I really don't know. I, I don't know where in the pipeline that final, that final, copy gets rendered, by what system, is the name of the renderer we use. Okay. So somewhere there's documentation for the, the dialect of markup that it accepts. 
