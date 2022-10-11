@@ -35,7 +35,7 @@
 * Okay, good. 
 
 **Pooja Ranjan**
-* Cool. I, I don't see any other EIPs editors, I can't see, Sam, sorry, Lightclient or, or anyone else. Panda pip mention that he would be a little late for the meeting today, however, this Pull request is by him, so I'm assuming that he is definitely on board. So, maybe we can just let people know one more time in discord channel and move ahead with the decision sounds fair?
+* Cool. I don't see any other EIPs editors, I can't see, Sam, sorry, Lightclient or, or anyone else. Pandapip mention that he would be a little late for the meeting today, however, this Pull request is by him, so I'm assuming that he is definitely on board. So, maybe we can just let people know one more time in discord channel and move ahead with the decision sounds fair?
 
 ## Website: Add MathJax ethereum/EIPss#5596 [3.03](https://youtu.be/0miajHm8JXs?t=185)
 **Sam**
