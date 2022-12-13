@@ -14,6 +14,8 @@
 
 **ACTION 70.2**: Pooja will Create a google form to have a feedback on website EIPsInsight.com
 
+**ACTION 70.3**: Lightclient will discuss the EIP number allocation process in Discord and share a hackmd with EIP editors. 
+
  
 —------------------
 ## AGENDA
@@ -22,7 +24,7 @@
 
 ## 1. Discuss Issues/PRs, topics
 
-  ### Update EIP-3475: Changing comments ethereum/EIPs#5789](https://github.com/ethereum/EIPs/pull/5789)
+  ### Update EIP-3475: [Changing comments](https://github.com/ethereum/EIPs/pull/5789)
 
 **Pooja Ranjan** [0:24](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=24s): So starting from the first item which is about updating EIP 3475. I'm sharing the link here in the chat for reference. It was suggested by Sam so Sam if you quickly like to give one minute intro or overview for this and then we can start discussing the issue.
 
@@ -50,7 +52,7 @@ So I was mentioning this in the last meeting, like  sometimes when proposals are
 **Sam** [5:13](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=313s): And we could also just leave it. I don't really think we need to have a decision on it. It's not hurting anybody
 if the pr is open.
 
-### [EIP Tags/Labels/Topics ethereum/EIPs#6037](https://github.com/ethereum/EIPs/issues/6037)
+### [EIP Tags/Labels/Topics](https://github.com/ethereum/EIPs/issues/6037)
 
 **Pooja Ranjan** [5:23](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=323s): Sounds good. All right moving on to the next one is Eip tags level topic I suppose. This was suggested by Victor. I'm sorry I'm sharing the link here in the chat so yeah Victor if you would like to give one minute intro and then it can be easier for people it is.
 
@@ -141,7 +143,7 @@ this is a good idea
 
 ## 2. Discussion continued from earlier meetings
 
-### [Adds @xinbenlv as an EIP Editor (#5502) ethereum/EIPs#5703](https://github.com/ethereum/EIPs/pull/5703)
+### [Adds @xinbenlv as an EIP Editor](https://github.com/ethereum/EIPs/pull/5703)
 
 **Pooja Ranjan** [20:16](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=1216s): All right moving on to item number two. This is from discussion contributions for earlier meetings There were two items suggested by Victor but it looks the one 5980 is already merged. So we are here with another one which is adding Twitter as an EIP editor. Yeah Victor if you would like to share more from where we were last time. we visited this item and where we are now and then again maybe yeah have opinion of other editors 
 
@@ -198,7 +200,7 @@ follow that. Yeah I do see that in some cases people were refrained from being a
 
 **Xinbenlv** [43:45](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=2625s): yeah yeah of course thank you for having everybody to talk about it and share your friend feedback we look forward to. Yeah I have no discussions either I want to support or on some other calls
 
-### EIP number allocation
+## EIP number allocation
 
 **Pooja Ranjan** [44:01](https://www.youtube.com/watch?v=8kMX1PSa2ew&t=2641s): Thank you everyone so the next sub item here mentioned is EIP number allocation. We are very well aware that EIP number allocation is on EIP editors. They can allocate numbers we saw some cases of the spotting numbers and trying to snip a number which is not the right 
 thing to do and the process there was not right. so I totally understand punishing number grabbing ideas or opportunities and allocating them a different number but I was wondering in general. Do we need to just remove the number because I've come across a case? Actually I came across more than one but I could find only one and the other one's last number is 555. so it was just a good issue number and it was mentioned that  this is the condition number so we are just taking it off of the list however there was another PR which was 6000 and it seemed that author tried to trick so he was allocated a different EIP number. I am generally curious to understand, if someone is getting any number by the right process should or should not be there in any case. We should be EIP editor should be allocating a new number or is this a good idea to maybe remove the better numbers from the list.
