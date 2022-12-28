@@ -6,21 +6,21 @@
 ### Moderator: Pooja Ranjan
 ### Notes: HenryJK4
 
-## Summary
-1. Discuss Issues/PRs, topics
+## ACTION/DECISION ITEMS
+ACTION 71.1: Discuss Issues/PRs, topics
 * Propose Policy: Last Call changes shall be separate from the PR to move to Final
 * Decision: Big changes in Last Call will restart the "Review ends" date
 * Hide Stagnant and Withdrawn EIPs from the EIP list
 * General consensus: Not very useful feature to hide
 
-1.5. Changes to Final EIP
+ACTION 71.1.5: Changes to Final EIP
 * PR-6104: Sam will merge it
 * PR-6038: General consensus - PR should not be merged. Sam will create an issue for concern regarding updating Solidity to old EIPs.
 * PR-6012: Author needs to list normative changes and non-normative changes. We should avoid adding change to big EIPs like this. Closed.
 * PR-5877: Shouldn't change older EIPs for updating table. Anyway, an EIP isn't a best place to maintain a table.
-2. Discussion continued from earlier meetings
+ACTION 71.2: Discussion continued from earlier meetings
 * A Straw-man Proposal: Continue collecting feedback here
-3. EIP Bot
+ACTION 71.3: EIP Bot
 * Group seems to be in favor. Will keep the issue to collect if anyone opposes to the proposal
 
 ## Intro
