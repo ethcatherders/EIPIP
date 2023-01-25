@@ -1,5 +1,5 @@
 # EIP Improvement Process Call #72 Notes  <!-- omit in toc -->
-### Meeting Date/Time: Wednesday, Oct 19, 2022 at 14:00 UTC <!-- omit in toc -->
+### Meeting Date/Time: Wednesday, Oct 19, 2022 at 16:00 UTC <!-- omit in toc -->
 ### Meeting Duration: 0.5 hr <!-- omit in toc -->
 ### [Audio/Video of the meeting](https://youtube.com/watch?v=4zYiDQmi9gA&si=EnSIkaIECMiOmarE) <!-- omit in toc -->
 ### [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/202) <!-- omit in toc -->
@@ -198,5 +198,5 @@ Prev. meeting [notes 71]
 
 ## Next Call 
 
-Jan 25, 2023, 15:00 UTC.
+Jan 25, 2023, 16:00 UTC.
 
