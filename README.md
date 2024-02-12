@@ -8,10 +8,13 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
-96 | Dec 15, 2023 at 16:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/300)    | [Notes](All%20EIPIP%20Meetings/Meeting%20096.md) | [Video](https://www.youtube.com/watch?v=poqOUTvvaoc) | 
-95|Nov 29, 2023 at 16:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/297)    | [Notes](All%20EIPIP%20Meetings/Meeting%20095.md) | [Video](https://www.youtube.com/watch?v=qgcphJxvVDs) |
-94 | Nov 15, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/292)    | [Notes](All%20EIPIP%20Meetings/Meeting%20094.md) | [Video](https://www.youtube.com/watch?v=uaYvYugYLOE) | 
-93 | Nov 01, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/285)    | [Notes](All%20EIPIP%20Meetings/Meeting%20093.md) | [Video](https://youtu.be/ib9xInX3nkk) | 
+  99 | Jan 31, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/310)    | [Notes](All%20EIPIP%20Meetings/Meeting%20099.md) | [Video](https://youtu.be/qd5E-4TbbXs) | 
+  98 | Jan 17, 2024 at 14:00     | [Agenda](https://github.com/ethcatherders/EIPIP/issues/305)    | [Notes](All%20EIPIP%20Meetings/Meeting%20098.md) | [Video](https://youtu.be/IG2Vby9mgXY) | 
+  97 | Jan 03, 2024 at 15:00 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/302)    | [Notes](All%20EIPIP%20Meetings/Meeting%20097.md) | [Video](https://youtu.be/eO6tqGEJsH8) | 
+  96 | Dec 15, 2023 at 16:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/300)    | [Notes](All%20EIPIP%20Meetings/Meeting%20096.md) | [Video](https://www.youtube.com/watch?v=poqOUTvvaoc) | 
+  95 | Nov 29, 2023 at 16:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/297)    | [Notes](All%20EIPIP%20Meetings/Meeting%20095.md) | [Video](https://www.youtube.com/watch?v=qgcphJxvVDs) |
+  94 | Nov 15, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/292)    | [Notes](All%20EIPIP%20Meetings/Meeting%20094.md) | [Video](https://www.youtube.com/watch?v=uaYvYugYLOE) | 
+  93 | Nov 01, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/285)    | [Notes](All%20EIPIP%20Meetings/Meeting%20093.md) | [Video](https://youtu.be/ib9xInX3nkk) | 
   92 | Oct 18, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/281)    | [Notes](All%20EIPIP%20Meetings/Meeting%20092.md) | [Video](https://youtu.be/KUT2cIzuu_w) | 
   91 | Oct 04, 2023 at 14:00 UTC | [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/278)    | [Notes](All%20EIPIP%20Meetings/Meeting%20091.md) | [Video](https://youtu.be/mutOWZV2uOw) | 
   90 | Sept 20, 2023 at 14:00 UTC| [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues/271)    | [Notes](All%20EIPIP%20Meetings/Meeting%20090.md) | [Video](https://youtu.be/PuHXWqWkbXg) | 
