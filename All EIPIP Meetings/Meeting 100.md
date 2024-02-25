@@ -1,5 +1,5 @@
 # EIPIP Meeting 100
-### Meeting Date/Time: Wednesday, 14, 2024, at 14:00 UTC
+### Meeting Date/Time: Wednesday, 14, 2024, at 17:30 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/ethcatherders/EIPIP/issues/312)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=9GRzvp06Qlg)
