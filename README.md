@@ -107,7 +107,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
   1 | Wednesday, January 15, 2020 15:00 UTC  | [Agenda](All%20EIPIP%20Meetings/Meeting%20001.md)                | [Notes](All%20EIPIP%20Meetings/Meeting%20001.md) | [Video](https://www.youtube.com/watch?v=ZW3AWJD6cmI) |
 
 ### Who Can Attend
-Ethereum core developer, client developers, dapp developers or members from around the Ethereum Community. If you feel you would contribute to the meetings by your attendance please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
+Ethereum core developer, client developers, dapp developers or members from around the Ethereum Community. If you feel you would contribute to the meetings by your attendance please reach out to the Cat Herders community on [Discord](https://dsc.gg/ech).
 
 ### Agenda Items
 Agendas are posted to https://github.com/ethereum-cat-herders/EIPIP/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
