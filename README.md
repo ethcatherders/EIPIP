@@ -8,6 +8,7 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
+103 | April 24, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/334)    | [Notes](All%20EIPIP%20Meetings/Meeting%20103.md) | [Video](https://www.youtube.com/watch?v=WYBETopsYL4) | 
 102 | April 10, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/326)    | [Notes](All%20EIPIP%20Meetings/Meeting%20102.md) | [Video](https://www.youtube.com/watch?v=uEoog5zpRZo) | 
 101 | March 13, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/316)    | [Notes](All%20EIPIP%20Meetings/Meeting%20101.md) | [Video](https://www.youtube.com/watch?v=Fzyxs2A4Zdo) | 
 100 | February 14, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/312)    | [Notes](All%20EIPIP%20Meetings/Meeting%20100.md) | [Video](https://www.youtube.com/watch?v=9GRzvp06Qlg) | 
