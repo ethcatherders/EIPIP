@@ -1,4 +1,5 @@
 # EIPIP Meeting 107
+
 **Meeting Date/Time: July 17, 2024 at 14:00 UTC**
 
 **Meeting Duration: 34 mins**
@@ -8,6 +9,7 @@
 **[Audio/Video of the meeting:](https://www.youtube.com/watch?v=DgdzaxHWFcA)**
 
 **Moderator: Pooja Ranjan**
+
 **Notes: Aliyu Adeniji**
 
 ### Summary
@@ -27,9 +29,12 @@
 ### Final decisions on some isssues and proposals taken
 
 
-**Pooja** [0:00:](https://youtu.be/DgdzaxHWFcA?t=0) Welcome to EIPIP meeting 107 this is issue number 346 on ethcatherders EIPIP
-GitHub repository, on agenda we have some open issues and pull requests to be
-discussed, we'll take a look at some miscellaneous issues, as well as PRs, and we'll collect editor feedback, thoughts, whether we should keep it or close it,  we'll take a look at call for inputs added here and then discussions from earlier meetings I see there is a request for discussion that happened in the last meeting, we can hear about that and we'll get some updates on working group discussion that happened in the middle of the week. So starting from the very first item we do have a list of pull requests the first one is 1363 it seems that it has been already approved earlier but the author has added some new changes, I wonder what the editors think, is it good to be merged or do we want to get some more clarification from the author.
+**Pooja** [0:00:](https://youtu.be/DgdzaxHWFcA?t=0) Welcome to EIPIP meeting 107 this is issue number 346 on ethcatherders EIPIP GitHub repository, on agenda we have some open issues and pull requests to be discussed, we'll take a look at some miscellaneous issues, as well as PRs, and we'll collect editor feedback, thoughts, whether we should keep it or close it,  we'll take a look at call for inputs added here and then discussions from earlier meetings I see there is a request for discussion that happened in the last meeting, we can hear about that and we'll get some updates on working group discussion that happened in the middle of the week.
+
+#### https://github.com/ethereum/ERCs/pull/403
+
+
+**Pooja** [0:47:](https://youtu.be/DgdzaxHWFcA?t=47) So starting from the very first item we do have a list of pull requests the first one is 1363 it seems that it has been already approved earlier but the author has added some new changes, I wonder what the editors think, is it good to be merged or do we want to get some more clarification from the author.
 
 **Sam** [1:18:](https://youtu.be/DgdzaxHWFcA?t=78) This is editing a final proposal and I think it's editing it too much in my opinion.
  
@@ -99,7 +104,7 @@ discussed, we'll take a look at some miscellaneous issues, as well as PRs, and w
 
 **Sam** [9:53:](https://youtu.be/DgdzaxHWFcA?t=593) Yeah this is definite like it's a solidity contract this is a clearcut like this is not ERC.
 
-**Poojan** [9:56:](https://youtu.be/DgdzaxHWFcA?t=596) Okay and the number suggest that this is pretty old one and yeah by now it should have received at least, category classification very well we can then perhaps close this one
+**Pooja** [9:56:](https://youtu.be/DgdzaxHWFcA?t=596) Okay and the number suggest that this is pretty old one and yeah by now it should have received at least, category classification very well we can then perhaps close this one
 
 **Sam** [10:08:](https://youtu.be/DgdzaxHWFcA?t=608) Yeah I'll take care of that.
 
@@ -111,9 +116,9 @@ discussed, we'll take a look at some miscellaneous issues, as well as PRs, and w
 
 **Sam** [12:31:](https://youtu.be/DgdzaxHWFcA?t=751) Correct, yeah I'll close it .
 
-## 2. Discuss on Moving EIP and ERCs to the right RIP repositories
+## 2. Other discussions and updates from past meetings
 
-### They are all moved correctly as required
+### Conclusion on some EIP that were to be moved to RIP repository
 
 
 ---
@@ -197,9 +202,15 @@ discussed, we'll take a look at some miscellaneous issues, as well as PRs, and w
 ## 3. Discuss on Wallet call API
 
 ### Wallet call API deadline is 24th July, and EIP editing hours every tuesday at 1400 UTC
-**Pooja** [28:07:](https://youtu.be/DgdzaxHWFcA?t=1687) perfect thank you, moving on to the next item I have just added total number of issues and PR open numbers are reasonable, not blowing up absurdly, but yeah, we are in process of trying to decrease the number of open issues and pull request so we really appreciate any thought, feedbacks, and people who would want to add review comments that would help editors to may be able to close this pull request or merge these sooner rather than later, on EIPs insights I'm just taking a quick look at the website, and it seems like we have received three new draft proposal on EIP GitHub repository as well as five new proposal on EIP GitHub repository and three new draft on the ERC side, we have one proposal in the last call section that is an interface proposal 5792 wallet call Api and the deadline is 24th July, so if people have any thoughts comments with respect to wallet call Api proposal please make sure to add your comment on Fellowship of ethereum magician page, the discussion tool link page for this particular proposal, and it could be addressed by the authors for details, the link is added here on the agenda. We did have EIP editing office hour, I have added the recording for meeting 40 and agenda for meeting 41 for people who aren't aware EIP editing office hour is 1 hour dedicated for EIP editing, and you can come up with your open pull request number, if you have any questions you did not understand the comment of reviewers or editors or you don't know what to do next I think this is the best place, even if you are someone who is trying to make their first pull request to create the first EIP for the ethereum ecosystem and you do not know the process this is the place for you to come, so if you are the one or you know someone who is looking for any help or support in documentation of proposal, moving a proposal from one status to another status, please let people know about EIP editing office hours, that happens every other Tuesday on 1400 UTC, and we always try to add agenda in advance so people can come and add their Pull request.
 
-The next one is review action items from the earlier meetings, I think there was one open action item for call for input for EIP-152 that we have already created today, one last thing that we wanted to discuss was about the next meeting date and time I think Matt has already dropped but he was suggesting that we can decrease the frequency of EIPIP meeting, right now the Cadence is once in two week do we want to keep it the same or do we want to decrease and make it once a month? I wonder what editors thinks about it
+
+
+---
+
+
+**Pooja** [28:07:](https://youtu.be/DgdzaxHWFcA?t=1687) Perfect thank you, moving on to the next item I have just added total number of issues and PR open numbers are reasonable, not blowing up absurdly, but yeah, we are in process of trying to decrease the number of open issues and pull request so we really appreciate any thought, feedbacks, and people who would want to add review comments that would help editors to may be able to close this pull request or merge these sooner rather than later, on EIPs insights I'm just taking a quick look at the website, and it seems like we have received three new draft proposal on EIP GitHub repository as well as five new proposal on EIP GitHub repository and three new draft on the ERC side, we have one proposal in the last call section that is an interface proposal 5792 wallet call Api and the deadline is 24th July, so if people have any thoughts comments with respect to wallet call Api proposal please make sure to add your comment on Fellowship of ethereum magician page, the discussion tool link page for this particular proposal, and it could be addressed by the authors for details, the link is added here on the agenda. We did have EIP editing office hour, I have added the recording for meeting 40 and agenda for meeting 41 for people who aren't aware EIP editing office hour is 1 hour dedicated for EIP editing, and you can come up with your open pull request number, if you have any questions you did not understand the comment of reviewers or editors or you don't know what to do next I think this is the best place, even if you are someone who is trying to make their first pull request to create the first EIP for the ethereum ecosystem and you do not know the process this is the place for you to come, so if you are the one or you know someone who is looking for any help or support in documentation of proposal, moving a proposal from one status to another status, please let people know about EIP editing office hours, that happens every other Tuesday on 1400 UTC, and we always try to add agenda in advance so people can come and add their Pull request.
+
+The next one is review action items from the earlier meetings, I think there was one open action item for call for input for EIP-152 that we have already created today, one last thing that we wanted to discuss was about the next meeting date and time I think Matt has already dropped but he was suggesting that we can decrease the frequency of EIPIP meeting, right now the Cadence is once in two week do we want to keep it the same or do we want to decrease and make it once a month? I wonder what editors thinks about it.
 
 **Sam** [31:32:](https://youtu.be/DgdzaxHWFcA?t=1892) I'm okay with once a month.
 
@@ -212,7 +223,7 @@ The next one is review action items from the earlier meetings, I think there was
 
 **Pooja** [31:45:](https://youtu.be/DgdzaxHWFcA?t=1905) perfect in that case, we will try to create an agenda in advance and that would be for August 21st and we can keep it as a cadence just for people to easily remember on third Wednesday of a month, we will have the EIPIP meeting at 1400 UTC, is it generally good with people? okay perfect that brings us to the conclusion of items listed on the agenda. I wonder if anyone else has anything to share, add, or maybe propose for the next EIPIP meeting.
 
-**Dex** [32:38:](https://youtu.be/DgdzaxHWFcA?t=1958) Just a side question, I've seen that you are publishing the records of these uh meetings on your YouTube channel but this doesn't have a lot of  reviews, do you want to attract some attention so uh I have some telegram channels like with 57k members and I have a Twitter account I'm found of, one of the ethereum classic teams I can share something on ethereum classic Discord uh is it a good idea or do you just want to keep it small and free from site Participants
+**Dex** [32:38:](https://youtu.be/DgdzaxHWFcA?t=1958) Just a side question, I've seen that you are publishing the records of these uh meetings on your YouTube channel but this doesn't have a lot of  reviews, do you want to attract some attention so uh I have some telegram channels like with 57k members and I have a Twitter account I'm found of, one of the ethereum classic teams I can share something on ethereum classic Discord uh is it a good idea or do you just want to keep it small and free from site Participants.
 
 **Pooja** [33:15:](https://youtu.be/DgdzaxHWFcA?t=1995) I think it is always good to get the visibility the reason we organize this public call is we want people to get engaged, any support in creating awareness about EIPIP meeting or EIP editing office meeting will be highly appreciated, feel free to share the link and we will also try to start sharing this on Twitter and webcast so people know more about these kinds of meetings happening.
 
@@ -228,12 +239,19 @@ The next one is review action items from the earlier meetings, I think there was
 
 
 ## Attendees
+
 **Pooja Ranjan**
+
 **Sam**
-**Matt** 
+
+**Matt**
+
 **Dex**
+
 **Zarathusta**
+
 **Kelvin King**
+
 **Akash Kshirsagar**
 
 
