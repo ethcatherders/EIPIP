@@ -15,24 +15,28 @@
 ### Summary
 | S No | Agenda | Summary |
 | -------- | -------- | -------- |
-| 107.1    |  Pull requests number 1363, and PR number 403|They were already approved earlier but the author made some changes, so clarification is needed from the author before merging them.  |
-| 107.2    | Pull Request on ERC 342, which is updating ERC 2098    | An input was received one from RickMoore, and the PR seems explanatory, and it can be merged without further delay    |
-|  107.3   | There is an update to 1175 and they have pinged a bunch of ER and ERCs    | The PR is concluded and it will be merged     |
-| 107.4     | update EIP 4788 PR number 8590    | there needs to be a further deliberation on the pull request as there is not consensus on the PR yet    |
-| 107.5     | EIP 3712 multiple fungible token    | it is probably in the wrong repo, and it should be moved to the right repository     |
-| 107.6     |  issue 345 on EIPIP GitHub repository    | This is to mark that EIP 7212 has moved because this proposal has moved into RIP repository and now we have RIP 7212, it is resolved and can be marked as resolved    |
-| 107.7    | Report on wallet call API   | The deadline for wallet API interface proposal 5792 is july 24, all thoughts and comments should be dded to the Fellowship of ethereum magician page    |
-| 107.8 | Change in meeting time | It was agreed that the EIPIP meeting should henceforth hold once in every month |
+| 107.1 | Discuss Open PRs and proposals | Final decisions on some isssues and proposals were taken,they include EIP, ERC, and RIP repos. |
+| 107.2 | Other discussions and updates from past meetings | It was concluded that some EIP should be moved to RIP repository.
+|  |   | Changes to EIP-152 and final proposal 152 were also accepted |
+|  |  | It was discussed if PRs for which their authors are not present should be merged and it was concluded that call for input should be made so that other members of the community can contribute to the discussion and reach a final decision as soon as possible. |
+|  |  | Discussion on security consideration and security disclosure in EIPs where only problems that lead to verifiable loss of funds should be added to the security considerations, and Sam mentioned that he will make a formal request for that. |
+|  |  | Call for input on the proposal for the security consideration will give the proposal more visibility within the general community and not only among the editors only, Sam also said that he will open a formal call for input and inform the community within 30 days.  |
+| 107.3 | EIPs Insight - Monthly EIPs status reporting | Pooja mentioned that she has added uo the total number of update on the number of EIP, ERC, and RIP issues and PRs which are 162 in number, and efforts are ongoing to keep them minimal as possible. |
+|  |  | It is worth mentioning that there is a remaning proposal from the last call section which is the wallet call API deadline is 24th July. |
+| 107.4 | EIP Editing Office Hour | Pooja said that she added the recording for meeting [40](https://youtu.be/gAtkU7YeSRU) and [41](https://github.com/ethcatherders/EIPIP/issues/347) Agenda for absent members, she also advised that memebers of the community should help in creating more awareness about the EIP editing hours holding every tuesday at 1400 UTC. |
+| 107.5 |  Review action items from earlier meetings | There is a call for input for EIP-152 which was created in this meeting and frequency of meeting was decided to be once in every month. |
+|  |  | Dex also asked pooja wants on getting more visibility for the program on various platforms and communties such as a telegram channel with about 57k members.|
+|  |  | The next meeting is scheduled to hold on August 21st at 1400 UTC |
+
+
 
 ## 1. Discuss Open PRs and proposals
 
 ### Final decisions on some isssues and proposals taken
 
-
 **Pooja** [0:00:](https://youtu.be/DgdzaxHWFcA?t=0) Welcome to EIPIP meeting 107 this is issue number 346 on ethcatherders EIPIP GitHub repository, on agenda we have some open issues and pull requests to be discussed, we'll take a look at some miscellaneous issues, as well as PRs, and we'll collect editor feedback, thoughts, whether we should keep it or close it,  we'll take a look at call for inputs added here and then discussions from earlier meetings I see there is a request for discussion that happened in the last meeting, we can hear about that and we'll get some updates on working group discussion that happened in the middle of the week.
 
 #### https://github.com/ethereum/ERCs/pull/403
-
 
 **Pooja** [0:47:](https://youtu.be/DgdzaxHWFcA?t=47) So starting from the very first item we do have a list of pull requests the first one is 1363 it seems that it has been already approved earlier but the author has added some new changes, I wonder what the editors think, is it good to be merged or do we want to get some more clarification from the author.
 
@@ -120,10 +124,6 @@
 
 ### Conclusion on some EIP that were to be moved to RIP repository
 
-
----
-
-
 **Pooja** [12:33:](https://youtu.be/DgdzaxHWFcA?t=753) Okay and the last one here is, PR 8724, it seems like it is not merging and it may require Force merge people try to open and close but it oh it's merged now, sorry my bad I don't know why it was showing to me still open or was it force merged right now, okay perfect, very well that covers all the open issues and PRs, we have few call for inputs the first one here is 343 which is to fix ERC 3448 okay with change, I don't know Matt if you have any thoughts you, would like to add the last date is still July 28 but it seems like two people, I mean two editors are already in favor of it so your vote will definitely make a difference here, we'll get three or more if you are in favor if not then we'll wait till the end of the deadline. The next one is issue 345 on EIPIP GitHub repository, this is to Mark EIP 7212 has moved because this proposal has moved into RIP repository and now we have RIP 7212 because we follow the same number system for all three repositories, it generally makes sense to me that we have only one number in one repository, and it could be moved the way we have moved the ERC proposals out of the EIP GitHub repository however, this this is open for core input, it seems like Sam is already in favor, and the author of the Proposal is also in favor. I have added a note from the last all core dev execution meeting where one of the RIP editors also shared the same interest of having a new proposal instead of continuing with the same name, but I think input from other editors may add value and we will be able to make decision on this pull request, anyone has any quick thought to add right over here? I want to take time and look into it Async.
 
 **Sam** [15:08:](https://youtu.be/DgdzaxHWFcA?t=908) Sounds like it's going to be asynchronously.
@@ -165,9 +165,12 @@
 **Sam** [18:54:](https://youtu.be/DgdzaxHWFcA?t=1134) I think we're just going to delete this one yeah we'll delete this one and everything else stays as moved.
 
 ### Changes to EIP-152 and final proposal 152 are accepted
----
 
-**Pooja** [19:00:](https://youtu.be/DgdzaxHWFcA?t=1140) Okay perfect, moving on the next one here is a call for input for merge update EIP-152, just to provide some background here there is a small update to a final proposal 152, it seems that author is not around to approve the pull request, however this has been already approved by editors as it seems like trivial change and people are generally fine, so I have created this call for input just today, sorry for the delay here, but the idea is to collect consensus on, can this be a process? There are so many proposals for which authors are not around. Can we merge old requests, if editors are on board with merging the PRs in case authors are not around. We can definitely define a timeline that we want to keep the PR open for so everybody gets to see that proposal, and if needed create a call for input for even more eyes on it because I have just created it. I do not see many people have added their comment, I will definitely add but any editor here on the call if you have any thoughts on that.
+**Pooja** [19:00:](https://youtu.be/DgdzaxHWFcA?t=1140) Okay perfect, moving on the next one here is a call for input for merge update EIP-152, just to provide some background here there is a small update to a final proposal 152, it seems that author is not around to approve the pull request, however this has been already approved by editors as it seems like trivial change and people are generally fine, so I have created this call for input just today, sorry for the delay here, but the idea is to collect consensus on, can this be a process? 
+
+### Discussion on whether PRs for which their authors are not present should be merged and call for input on final proposals
+
+There are so many proposals for which authors are not around. Can we merge old requests, if editors are on board with merging the PRs in case authors are not around. We can definitely define a timeline that we want to keep the PR open for so everybody gets to see that proposal, and if needed create a call for input for even more eyes on it because I have just created it. I do not see many people have added their comment, I will definitely add but any editor here on the call if you have any thoughts on that.
 
 **Sam** [20:25:](https://youtu.be/DgdzaxHWFcA?t=1225) So I'm against creating a general policy for this because I think that leads to like not potentials for abuse but it kind of limits in Us in how we can consider each proposal so for this one, I'm okay merging it because it's like a very trivial obvious change but for other changes to final proposals. I might not feel so confident merging it without an author approval so I don't think we should make a general policy, but I am in favor of merging this one proposal.
 
@@ -175,13 +178,19 @@
 
 **Sam** [21:44:](https://youtu.be/DgdzaxHWFcA?t=1304) Sure so I think the current plan is to abandon a formal approach to working groups so we will not be adding separate repositories for each working group we won't be  creating working group Charters or anything like that but some of the work I did will be used I'm going to open up Pull request to convert away from Jackal and switch to a different rendering engine called Zola and uh so that'll be a little bit different and then, we were also planning on introducing um a like formal recognition for non-editors who have PR approval rights, or permissions rather uh and we would call them probably EIP reviewers, and yeah so that that's kind of the approach we're having that would let us delegate some powers and enable people to make informal working groups uh with their own reviewers if they want to um yeah so I think that's that's kind of the plan moving forward. 
 
-**Pooja** [22:48:](https://youtu.be/DgdzaxHWFcA?t=1368) Thank you for summarizing that I do not see Victor on the call I think he was one of the person very much interested in learning more about what is the decision on that I hope the some on the call will be able to help him and I don't know maybe um pull editors can uh find out some people who can be good reviewers maybe we can reach out to individual teams to volunteer people similarly for ERC group there is all ERC Dev meeting happening we can share this information in that meeting, and try to have some volunteers to be added as reviewers and I see there is a wallet Dev meeting plan today, maybe it can be mentioned over there to get some more reviewers for wallet proposals. I sincerely hope this will be helpful. Does anyone have any other thoughts to add to it?. very well the next item here is security consideration and security disclosure in EIPs,  we discussed some of it in the past meeting and Dex has added a detailed comment about what does he want to say here what is his proposal and things like that so let me invite de to yeah share his thought and what do we want to get as a resolution from this particular meeting today hopefully to be there.
+**Pooja** [22:48:](https://youtu.be/DgdzaxHWFcA?t=1368) Thank you for summarizing that I do not see Victor on the call I think he was one of the person very much interested in learning more about what is the decision on that I hope the some on the call will be able to help him and I don't know maybe um pull editors can uh find out some people who can be good reviewers maybe we can reach out to individual teams to volunteer people similarly for ERC group there is all ERC Dev meeting happening we can share this information in that meeting, and try to have some volunteers to be added as reviewers and I see there is a wallet Dev meeting plan today, maybe it can be mentioned over there to get some more reviewers for wallet proposals. I sincerely hope this will be helpful. Does anyone have any other thoughts to add to it?. 
 
-**Dex** [24:26:](https://youtu.be/DgdzaxHWFcA?t=1466) Yes so basically on the previous meeting I was requested to provide some links and uh here is my comment no discussion followed my comment so I'm here to bring it back again and in general I think that final means no change rule is simply wrong because it doesn't allow us to disclose security considerations and problems in final EIPs and this is the stage at which most of the problems will be discovered, because it is a normal life cycle of a software uh most of the software has bug bounty programs for this, and I was proposing to make security considerations an exception from this Rule and modify the EIP-1 to make a new rule that if there is some verifiable loss of funds which can be verified through the blockchain history, then this can be added to the security considerations, we don't want to  focus on some small issues, our goal is to inform the implementers about the most critical stuff that they need to worry about and uh here is the proposal.
+### Discussion on security consideration and security disclosure in EIPs where only problems that lead to verifiable loss of funds should be added to the security considerations
+
+Very well, the next item here is security consideration and security disclosure in EIPs,  we discussed some of it in the past meeting and Dex has added a detailed comment about what does he want to say here, what is his proposal and things like that so let me invite de to yeah share his thought and what do we want to get as a resolution from this particular meeting today hopefully to be there.
+
+**Dex** [24:26:](https://youtu.be/DgdzaxHWFcA?t=1466) Yes so basically on the previous meeting I was requested to provide some links and here is my comment no discussion followed my comment so I'm here to bring it back again and in general I think that final means no change rule is simply wrong because it doesn't allow us to disclose security considerations and problems in final EIPs and this is the stage at which most of the problems will be discovered, because it is a normal life cycle of a software, most of the software has bug bounty programs for this, and I was proposing to make security considerations an exception from this Rule and modify the EIP-1 to make a new rule that if there is some verifiable loss of funds which can be verified through the blockchain history, then this can be added to the security considerations, we don't want to  focus on some small issues, our goal is to inform the implementers about the most critical stuff that they need to worry about and uh here is the proposal.
 
 **Sam** [25:50:](https://youtu.be/DgdzaxHWFcA?t=1550) All right I will open a formal call for input, and we will get our thoughts out on them and we'll let you know in 30 days.
 
-**Pooja** [26:12:](https://youtu.be/DgdzaxHWFcA?t=1572) I think call for call for input will give this proposal even more visibility and we should try to collect thoughts not only from editors but also from the community. I think when the link is available we should share it on other social media as well if people want to chime in and share their thoughts, although, the decision made on call for inputs are basically from editors, but that would be good to see what is a general recommendation coming up from the community and if we would want to bring up any changes in future.
+### Call for input on the proposal for the security consideration will give the proposal more visibility within the general community and not only among the editors only
+
+**Pooja** [26:12:](https://youtu.be/DgdzaxHWFcA?t=1572) I think call for input will give this proposal even more visibility and we should try to collect thoughts not only from editors but also from the community. I think when the link is available we should share it on other social media as well if people want to chime in and share their thoughts, although, the decision made on call for inputs are basically from editors, but that would be good to see what is a general recommendation coming up from the community and if we would want to bring up any changes in future.
 
 **Sam** [26:52:](https://youtu.be/DgdzaxHWFcA?t=1612) So just to make sure I understand your suggestion correctly here Dex, you wanted to make it so that you can modify everything or you can modify only the security consideration section only by appending to it and only if there is a financial loss, is that a reasonable resolution?. 
 
@@ -199,16 +208,25 @@
 
 **Dex** [28:01:](https://youtu.be/DgdzaxHWFcA?t=1681) Okay.
 
-## 3. Discuss on Wallet call API
+## 3. EIPs Insight - Monthly EIPs status reporting
 
-### Wallet call API deadline is 24th July, and EIP editing hours every tuesday at 1400 UTC
+### There is an update on the number of EIP, ERC, and RIP issues and PRs, and efforts are ongoing to keep them in reasonble numbers 
 
+**Pooja** [28:07:](https://youtu.be/DgdzaxHWFcA?t=1687) Perfect thank you, moving on to the next item I have just added total number of issues and PR open numbers are reasonable, not blowing up absurdly, but yeah, we are in process of trying to decrease the number of open issues and pull request so we really appreciate any thought, feedbacks, and people who would want to add review comments that would help editors to may be able to close this pull request or merge these sooner rather than later, on EIPs insights I'm just taking a quick look at the website, and it seems like we have received three new draft proposal on EIP GitHub repository as well as five new proposal on EIP GitHub repository and three new draft on the ERC side.
 
+### Wallet call API deadline is 24th July, and EIP editing hours every tuesday at 1400 UTC 
 
----
+We have one proposal in the last call section that is an interface proposal 5792 wallet call Api and the deadline is 24th July, so if people have any thoughts comments with respect to wallet call Api proposal please make sure to add your comment on Fellowship of ethereum magician page, the discussion tool link page for this particular proposal, and it could be addressed by the authors for details, the link is added here on the agenda. 
 
+## 4. EIP Editing Office Hour
 
-**Pooja** [28:07:](https://youtu.be/DgdzaxHWFcA?t=1687) Perfect thank you, moving on to the next item I have just added total number of issues and PR open numbers are reasonable, not blowing up absurdly, but yeah, we are in process of trying to decrease the number of open issues and pull request so we really appreciate any thought, feedbacks, and people who would want to add review comments that would help editors to may be able to close this pull request or merge these sooner rather than later, on EIPs insights I'm just taking a quick look at the website, and it seems like we have received three new draft proposal on EIP GitHub repository as well as five new proposal on EIP GitHub repository and three new draft on the ERC side, we have one proposal in the last call section that is an interface proposal 5792 wallet call Api and the deadline is 24th July, so if people have any thoughts comments with respect to wallet call Api proposal please make sure to add your comment on Fellowship of ethereum magician page, the discussion tool link page for this particular proposal, and it could be addressed by the authors for details, the link is added here on the agenda. We did have EIP editing office hour, I have added the recording for meeting 40 and agenda for meeting 41 for people who aren't aware EIP editing office hour is 1 hour dedicated for EIP editing, and you can come up with your open pull request number, if you have any questions you did not understand the comment of reviewers or editors or you don't know what to do next I think this is the best place, even if you are someone who is trying to make their first pull request to create the first EIP for the ethereum ecosystem and you do not know the process this is the place for you to come, so if you are the one or you know someone who is looking for any help or support in documentation of proposal, moving a proposal from one status to another status, please let people know about EIP editing office hours, that happens every other Tuesday on 1400 UTC, and we always try to add agenda in advance so people can come and add their Pull request.
+### Recording for meeting [40](https://youtu.be/gAtkU7YeSRU) and [41](https://github.com/ethcatherders/EIPIP/issues/347) Agenda added for absent members
+
+We did have EIP editing office hour, I have added the recording for meeting 40 and agenda for meeting 41 for people who aren't aware EIP editing office hour is 1 hour dedicated for EIP editing, and you can come up with your open pull request number, if you have any questions you did not understand the comment of reviewers or editors or you don't know what to do next I think this is the best place, even if you are someone who is trying to make their first pull request to create the first EIP for the ethereum ecosystem and you do not know the process this is the place for you to come, so if you are the one or you know someone who is looking for any help or support in documentation of proposal, moving a proposal from one status to another status, please let people know about EIP editing office hours, that happens every other Tuesday on 1400 UTC, and we always try to add agenda in advance so people can come and add their Pull request.
+
+## 5. Review action items from earlier meetings
+
+### Call for input for EIP-152 created in this meeting and frequency of meeting was decided
 
 The next one is review action items from the earlier meetings, I think there was one open action item for call for input for EIP-152 that we have already created today, one last thing that we wanted to discuss was about the next meeting date and time I think Matt has already dropped but he was suggesting that we can decrease the frequency of EIPIP meeting, right now the Cadence is once in two week do we want to keep it the same or do we want to decrease and make it once a month? I wonder what editors thinks about it.
 
@@ -218,12 +236,9 @@ The next one is review action items from the earlier meetings, I think there was
 
 ###  Discuss on getting more visibility for the program on various platforms and communties.
 
-
----
-
 **Pooja** [31:45:](https://youtu.be/DgdzaxHWFcA?t=1905) perfect in that case, we will try to create an agenda in advance and that would be for August 21st and we can keep it as a cadence just for people to easily remember on third Wednesday of a month, we will have the EIPIP meeting at 1400 UTC, is it generally good with people? okay perfect that brings us to the conclusion of items listed on the agenda. I wonder if anyone else has anything to share, add, or maybe propose for the next EIPIP meeting.
 
-**Dex** [32:38:](https://youtu.be/DgdzaxHWFcA?t=1958) Just a side question, I've seen that you are publishing the records of these uh meetings on your YouTube channel but this doesn't have a lot of  reviews, do you want to attract some attention so uh I have some telegram channels like with 57k members and I have a Twitter account I'm found of, one of the ethereum classic teams I can share something on ethereum classic Discord uh is it a good idea or do you just want to keep it small and free from site Participants.
+**Dex** [32:38:](https://youtu.be/DgdzaxHWFcA?t=1958) Just a side question, I've seen that you are publishing the records of these meetings on your YouTube channel but this doesn't have a lot of  reviews, do you want to attract some attention so I have some telegram channels like with 57k members and I have a Twitter account I'm found of, one of the ethereum classic teams I can share something on ethereum classic Discord is it a good idea or do you just want to keep it small and free from site Participants.
 
 **Pooja** [33:15:](https://youtu.be/DgdzaxHWFcA?t=1995) I think it is always good to get the visibility the reason we organize this public call is we want people to get engaged, any support in creating awareness about EIPIP meeting or EIP editing office meeting will be highly appreciated, feel free to share the link and we will also try to start sharing this on Twitter and webcast so people know more about these kinds of meetings happening.
 
