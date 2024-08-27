@@ -8,7 +8,8 @@ If you have an issue related to EIP that you would like to be discussed and aren
 
  №  | Date                             | Agenda         | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------- | -------------------- |
-107 | July 17, 2024 at 14:00 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/346) | [Notes](All%20EIPIP%20Meetings/Meeting%20106.md)| [Video](https://www.youtube.com/watch?v=DgdzaxHWFcA) |
+108 | Aug 21, 2024 at 14:00 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/350) | [Notes](All%20EIPIP%20Meetings/Meeting%20108.md)| [Video](https://youtu.be/IVKltkrRt6w) |
+107 | July 17, 2024 at 14:00 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/346) | [Notes](All%20EIPIP%20Meetings/Meeting%20107.md)| [Video](https://www.youtube.com/watch?v=DgdzaxHWFcA) |
 106 | July 03, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/340)    | [Notes](All%20EIPIP%20Meetings/Meeting%20106.md) | [Video](https://youtu.be/PKkJNqcozhw) | 
 105 | June 05, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/337)    | [Notes](All%20EIPIP%20Meetings/Meeting%20105.md) | [Video](https://youtu.be/5yhgfqMWg_M) | 
 104 | May 22, 2024 at 17:30 UTC | [Agenda](https://github.com/ethcatherders/EIPIP/issues/336)    | [Notes](All%20EIPIP%20Meetings/Meeting%20104.md) | [Video](https://youtu.be/4hHc9DMXxio) | 
